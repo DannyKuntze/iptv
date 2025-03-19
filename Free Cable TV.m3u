@@ -78,6 +78,8 @@ http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Live Channels",NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="Live Channels",Disney XD
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Live Channels",Nick
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="KUONDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/PBS_logo.png" group-title="Live Channels",PBS-KUON 12
@@ -105,6 +107,10 @@ http://fl1.moveonjoy.com/TCM/index.m3u8
 http://fl2.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels",TNT
 https://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Live Channels",SYFY
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Live Channels",Lifetime
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLand East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels",TVLand
