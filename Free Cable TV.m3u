@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="NBC East (Chicago)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels",NBC-WMAQ 5
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="FOX East (Boston)" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live Channels",FOX-WFXT 25
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="Live Channels",American Heroes Channel
@@ -74,6 +72,8 @@ https://fl2.moveonjoy.com/MTV/index.m3u8
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Live Channels",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="NBC East (Chicago)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels",NBC-WMAQ 5
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="NBC Golf" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/07/golf_render_-rgb.png" group-title="Live Channels",NBC Golf
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Live Channels",NFL Network
@@ -103,10 +103,6 @@ http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/640px-TV-One-logo-2016.png" group-title="Live Channels",TVOne
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="NBC East (Chicago)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels",NBC-WMAQ 5
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC-WOLO 25
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="FOX East (Boston)" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live Channels",FOX-WFXT 25
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels",USA Network
@@ -119,5 +115,9 @@ http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Live Channels",SYFY
 http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="NickJrEast.us" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr East
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Live Channels",Lifetime
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC-WOLO 25
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
