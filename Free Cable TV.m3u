@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="Live Channels",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC East (Columbia)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="Live Channels",BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.us" tvg-name="BBC World News FHD" tvg-logo="https://c.files.bbci.co.uk/16B26/production/_96566929_bbc_wn_rgb.png" group-title="Live Channels",BBC World News
@@ -79,8 +81,6 @@ http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NickJrEast.us" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Live Channels",Nick Jr.
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC East (Columbia)
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="OWN.us" tvg-name="Oprah Winfrey Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels",Oprah Winfrey
 http://fl2.moveonjoy.com/OWN/index.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg" group-title="Live Channels",Outdoor
@@ -99,8 +99,6 @@ http://fl1.moveonjoy.com/TCM/index.m3u8
 http://fl2.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLand East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels",TVLand
-http://fl2.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/640px-TV-One-logo-2016.png" group-title="Live Channels",TVOne
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels",USA Network
