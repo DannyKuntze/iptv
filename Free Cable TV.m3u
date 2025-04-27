@@ -79,6 +79,8 @@ http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NickJrEast.us" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Live Channels",Nick Jr.
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC East (Columbia)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="OWN.us" tvg-name="Oprah Winfrey Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels",Oprah Winfrey
 http://fl2.moveonjoy.com/OWN/index.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg" group-title="Live Channels",Outdoor
@@ -101,8 +103,6 @@ http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/640px-TV-One-logo-2016.png" group-title="Live Channels",TVOne
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="FOX East (Boston)" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live Channels",FOX-WFXT 25
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels",USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 East" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/640px-VH1_logonew.svg.png&w=640&q=50" group-title="Live Channels",VH1
@@ -117,5 +117,3 @@ http://fl2.moveonjoy.com/SYFY/index.m3u8
  https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Live Channels",Lifetime
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC East (Columbia)
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
