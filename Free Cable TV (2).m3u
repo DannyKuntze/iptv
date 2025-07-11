@@ -1,117 +1,121 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News HD" group-title="Live",Fox News HD
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News Channel" group-title="Live",Fox News Channel
 https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN HD" group-title="Live",ESPN HD
 https://tvpass.org/live/ESPN/hd
-#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel HD" group-title="Live",The Weather Channel HD
+#EXTINF:-1 tvg-id="the-weather-channel tvg-name="TWC" group-title="Live",TWC
 https://tvpass.org/live/TheWeatherChannel/hd
-#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern HD" group-title="Live",FYI USA Eastern HD
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI" group-title="Live",FYI
 https://tvpass.org/live/FYIEast/hd
-#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA HD" group-title="Live",Bloomberg TV USA HD
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg" group-title="Live",Bloomberg
 https://tvpass.org/live/BloombergTV/hd
-#EXTINF:-1 tvg-id="hln" tvg-name="HLN HD" group-title="Live",HLN HD
+#EXTINF:-1 tvg-id="hln" tvg-name="HeadLine News HD" group-title="Live",HeadLine News HD
 https://tvpass.org/live/HLN/hd
-#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN HD" group-title="Live",C-SPAN HD
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" group-title="Live",C-SPAN
 https://tvpass.org/live/CSPAN/hd
-#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed HD" group-title="Live",Bravo USA Eastern Feed HD
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo" group-title="Live",Bravo
 https://tvpass.org/live/BravoEast/hd
-#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed HD" group-title="Live",Lifetime Network US Eastern Feed HD
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime HD" group-title="Live",Lifetime HD
 https://tvpass.org/live/LifetimeEast/hd
-#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed HD" group-title="Live",Discovery Channel (US) Eastern Feed HD
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery" group-title="Live",Discovery
 https://tvpass.org/live/DiscoveryChannelEast/hd
-#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD" group-title="Live",NFL Network HD
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="Live",NFL Network
 https://tvpass.org/live/NFLNetwork/hd
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed HD" group-title="Live",History Channel US Eastern Feed HD
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History" group-title="Live",History
 https://tvpass.org/live/HistoryEast/hd
-#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA HD" group-title="Live",MSNBC USA HD
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC" group-title="Live",MSNBC
 https://tvpass.org/live/MSNBC/hd
-#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD HD" group-title="Live",BBC News North America HD HD
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News" group-title="Live",BBC News
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
-#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern HD" group-title="Live",National Geographic US Eastern HD
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic" group-title="Live",National Geographic
 https://tvpass.org/live/NationalGeographicEast/hd
-#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed HD" group-title="Live",Syfy Eastern Feed HD
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="SYFY" group-title="Live",SYFY
 https://tvpass.org/live/SyfyEast/hd
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US HD" group-title="Live",CNN US HD
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" group-title="Live",CNN
 https://tvpass.org/live/CNN/hd
-#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD HD" group-title="Live",Crime & Investigation Network USA HD HD
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="C&I" group-title="Live",C&I
 https://tvpass.org/live/CrimePlusInvestigation/hd
-#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US HD" group-title="Live",Outdoor Channel US HD
+#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel" group-title="Live",Outdoor Channel
 https://tvpass.org/live/OutdoorChannel/hd
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="Live",Fox Sports 1 HD
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" group-title="Live",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="FS1" group-title="Live",FS1
 https://tvpass.org/live/FoxSports1/hd
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="Live",Fox Sports 2 HD
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="FS2" group-title="Live",FS2
 https://tvpass.org/live/FoxSports2/hd
-#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed HD" group-title="Live",Hallmark
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark HD" group-title="Live",Hallmark HD
 https://tvpass.org/live/HallmarkChannelEast/hd
-#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed HD" group-title="Live",USA
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA" group-title="Live",USA
 https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern HD" group-title="Live",ID
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="ID" group-title="Live",ID
 https://tvpass.org/live/InvestigationDiscoveryEast/hd
-#EXTINF:-1 tvg-id="PBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PBS_logo_2019_%28Symbol%29.svg/500px-PBS_logo_2019_%28Symbol%29.svg.png" tvg-name="PBS HD" group-title="Live",PBS HD
+#EXTINF:-1 tvg-id="PBSEast.us" tvg-name="PBS-HD" group-title="Live",PBS-HD
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nick_Logo_%282009%E2%80%932017%29.svg/1024px-Nick_Logo_%282009%E2%80%932017%29.svg.png" tvg-name="NICK HD" group-title="Live",NICK HD
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="NICKELODEON" group-title="Live",NICKELODEON
 https://tvpass.org/live/NickelodeonEast/hd
-#EXTINF:-1 tvg-id="golf-channel-usa" tvg-logo="" tvg-name="Golf Channel USA HD" group-title="Live",Golf Channel
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA HD" group-title="Live",GOLF
 https://tvpass.org/live/GolfChannel/hd
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-logo="" tvg-name="HGTV USA Eastern Feed HD" group-title="Live",HGTV
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV" group-title="Live",HGTV
 https://tvpass.org/live/HGTVEast/hd
-#EXTINF:-1 tvg-id="nba-tv-usa" tvg-logo="" tvg-name="NBA TV USA HD" group-title="Live",NBA TV
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA" group-title="Live",NBA
 https://tvpass.org/live/NBATV/hd
-#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East HD" group-title="Live",Travel Channel
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel HD" group-title="Live",Travel HD
 https://tvpass.org/live/TravelChannelEast/hd
-#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California HD" group-title="Live",NBC Sports California HD
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC SC" group-title="Live",NBC SC
 https://tvpass.org/live/nbc-sports-california/hd
-#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business HD" group-title="Live",Fox Business HD
+#EXTINF:-1 tvg-id="fox-business" tvg-name="FOX Business" group-title="Live",FOX Business
 https://tvpass.org/live/FoxBusiness/hd
-#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="Space City Home Network HD" group-title="Live",Space City Home Network HD
+#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="SCHN HD" group-title="Live",SCHN HD
 https://tvpass.org/live/space-city-home-network/hd
-#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East HD" group-title="Live",TBS-E
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS" group-title="Live",TBS
 https://tvpass.org/live/TBSEast/hd
-#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD HD" group-title="Live",Motor Trend HD HD
+#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="MotorTrend" group-title="Live",MotorTrend
 https://tvpass.org/live/Motortrend/hd
-#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA HD" group-title="Live",CNBC USA HD
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC" group-title="Live",CNBC
 https://tvpass.org/live/CNBC/hd
-#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network HD" group-title="Live",MLB Network HD
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET" group-title="Live",BET
+https://tvpass.org/live/BETEast/hd
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB" group-title="Live",MLB
 https://tvpass.org/live/MLBNetwork/hd
-#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel HD" group-title="Live",REELZ
+#EXTINF:-1 tvg-id="reelzchannel" tvg-name="REELZ" group-title="Live",REELZ
 https://tvpass.org/live/Reelz/hd
-#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Live",FX HD
+#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX" group-title="Live",FX
 https://tvpass.org/live/FXEast/hd
 #EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern HD" group-title="Live",TV LAND
 https://tvpass.org/live/tv-land-eastern/hd
-#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed HD" group-title="Live",Food Network USA Eastern Feed HD
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food HD" group-title="Live",Food HD
 https://tvpass.org/live/FoodNetworkEast/hd
-#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed HD" group-title="Live",CMT US Eastern Feed HD
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT HD" group-title="Live",CMT HD
 https://tvpass.org/live/CMTEast/hd
-#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV HD" group-title="Live",NewsMax TV HD
+#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax" group-title="Live",NewsMax
 https://tvpass.org/live/NewsmaxTV/hd
-#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed HD" group-title="Live",AMC Eastern Feed HD
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC" group-title="Live",AMC
 https://tvpass.org/live/AMCEast/hd
-#EXTINF:-1 tvg-id="QVC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/512px-QVC_logo_2019.svg.png" group-title="Live",QVC
+#EXTINF:-1 tvg-id="QVC.us"  tvg-name="QVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/512px-QVC_logo_2019.svg.png" group-title="Live",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed HD" group-title="Live",MTV USA Eastern Feed HD
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV" group-title="Live",MTV
 https://tvpass.org/live/MTVEast/hd
-#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed HD" group-title="Live",BET HD
-https://tvpass.org/live/BETEast/hd
-#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East HD" group-title="Live",BBC America
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America" group-title="Live",BBC America
 https://tvpass.org/live/BBCAmericaEast/hd
-#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed HD" group-title="Live",TNT-E
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT" group-title="Live",TNT
 https://tvpass.org/live/TNTEast/hd
-#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed HD" group-title="Live",VH1 HD
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1" group-title="Live",VH1
 https://tvpass.org/live/VH1East/hd
-#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA HD" group-title="Live",CBS Sports Network USA HD
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network" group-title="Live",CBS Sports Network
 https://tvpass.org/live/CBSSportsNetworkUSA/hd
-#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern HD" group-title="Live",Oprah Winfrey Network USA Eastern HD
+#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network" group-title="Live",Oprah Winfrey Network
 https://tvpass.org/live/OWNEast/hd
-#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed HD" group-title="Live",HBO Eastern Feed HD
+#EXTINF:-1 tvg-id="galavision-hdtv" tvg-name="GALAVISION" group-title="Live",GALAVISION
+http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed HD" group-title="Live",HBO
 https://tvpass.org/live/HBOEast/hd
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed HD" group-title="Live",HBO 2 Eastern Feed HD
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed HD" group-title="Live",HBO 2
 https://tvpass.org/live/HBO2East/hd
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East HD" group-title="Live",HBO Comedy HD East HD
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East HD" group-title="Live",HBO Comedy
 https://tvpass.org/live/HBOComedyEast/hd
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed HD" group-title="Live",HBO Family Eastern Feed HD
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed HD" group-title="Live",HBO Family
 https://tvpass.org/live/HBOFamilyEast/hd
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Live",HBO Signature (HBO 3) Eastern HD
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO 3/Signature" group-title="Live",HBO 3/Signature
 https://tvpass.org/live/HBOSignatureEast/hd
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East HD" group-title="Live",HBO Zone HD East HD
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO ZONE" group-title="Live",HBO ZONE
 https://tvpass.org/live/HBOZoneEast/hd
