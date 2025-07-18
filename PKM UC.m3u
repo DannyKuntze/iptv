@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN-HD" group-title="Live",CNN
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN-HD" tvg-chno="1" group-title="Live",CNN
 https://tvpass.org/live/CNN/hd
-#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC-HD" group-title="Live",NBC
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC-HD" tvg-chno="2" group-title="Live",NBC
 https://tvpass.org/live/WNBCDT1/hd
-#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC-HD" group-title="Live", ABC
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC-HD" tvg-chno="3" group-title="Live", ABC
 https://tvpass.org/live/WABCDT1/hd
 #EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW-HD" group-title="Live",CW
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
@@ -11,11 +11,11 @@ https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 https://tvpass.org/live/ESPN/hd
 #EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX-HD" group-title="Live",FOX
 https://tvpass.org/live/WNYWDT1/hd
-#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS-HD" group-title="Live",CBS
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS-HD" tvg-chno="8" group-title="Live",CBS
 https://tvpass.org/live/WCBSDT1/hd
-#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS-HD" group-title="Live",PBS
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS-HD" tvg-chno="9" group-title="Live",PBS
 https://tvpass.org/live/WNET/hd
-#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="NICK-HD" group-title="Live",Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="NICK-HD" tvg-chno="14" group-title="Live",Nickelodeon
 https://tvpass.org/live/NickelodeonEast/hd
 #EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="HISTORY-HD" group-title="Live",History Channel
 https://tvpass.org/live/HistoryEast/hd
