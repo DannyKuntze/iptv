@@ -21,11 +21,11 @@ https://tvpass.org/live/NickelodeonEast/hd
 https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png" tvg-chno="16" , NFL Network
 https://tvpass.org/live/NFLNetwork/hd
-#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network" tvg-logo="logo.png" tvg-chno="17" , USA Network
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="17" , USA Network
 https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV" tvg-logo="logo.png" tvg-chno="18" , HGTV
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1024px-HGTV_2010.svg.png" tvg-chno="18" , HGTV
 https://tvpass.org/live/HGTVEast/hd
-#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo" tvg-logo="logo.png" tvg-chno="20" , Bravo
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo" tvg-logo="https://s2.ezgif.com/tmp/ezgif-25620d85958171.png" tvg-chno="20" , Bravo
 https://tvpass.org/live/BravoEast/hd
 #EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="SYFY" tvg-logo="logo.png" tvg-chno="21" , SYFY
 https://tvpass.org/live/SyfyEast/hd
