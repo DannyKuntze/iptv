@@ -17,9 +17,9 @@ https://tvpass.org/live/WCBSDT1/hd
 https://tvpass.org/live/WNET/hd
 #EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14" , Nickelodeon
 https://tvpass.org/live/NickelodeonEast/hd
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History" tvg-logo="logo.png" tvg-chno="15" , History Channel
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History" tvg-logo="https://s6.ezgif.com/tmp/ezgif-60b7ff07f093d6.png" tvg-chno="15" , History Channel
 https://tvpass.org/live/HistoryEast/hd
-#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL" tvg-logo="logo.png" tvg-chno="16" , NFL Network
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png" tvg-chno="16" , NFL Network
 https://tvpass.org/live/NFLNetwork/hd
 #EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network" tvg-logo="logo.png" tvg-chno="17" , USA Network
 https://tvpass.org/live/USANetworkEast/hd
