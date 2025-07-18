@@ -45,17 +45,17 @@ https://tvpass.org/live/FoodNetworkEast/hd
 https://tvpass.org/live/MTVEast/hd
 #EXTINF:-1 tvg-id="fox-news" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" tvg-chno="30" , Fox News Channel
 https://tvpass.org/live/FoxNewsChannel/hd
-#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="FF" tvg-logo="logo.png" tvg-chno="31" , Freeform
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="FF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" tvg-chno="31" , Freeform
 https://tvpass.org/live/FreeformEast/hd
-#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET HD" tvg-logo="logo.png" tvg-chno="32" , BET
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET HD" tvg-logo="https://s3.ezgif.com/tmp/ezgif-3f0f448798768.png" tvg-chno="32" , BET
 https://tvpass.org/live/BETEast/hd
-#EXTINF:-1 tvg-id="travel-us-east" tvg-name="TRAVEL" tvg-logo="logo.png" tvg-chno="33" , Travel Channel
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="TRAVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" tvg-chno="33" , Travel Channel
 https://tvpass.org/live/TravelChannelEast/hd
-#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" tvg-logo="logo.png" tvg-chno="34" , C-SPAN
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1200px-C-SPAN_Logo_%282019%29.svg.png" tvg-chno="34" , C-SPAN
 https://tvpass.org/live/CSPAN/hd
-#EXTINF:-1 tvg-id="QVC.us"  tvg-name="QVC" tvg-logo="logo.png" tvg-chno="35" , QVC
+#EXTINF:-1 tvg-id="QVC.us"  tvg-name="QVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/1200px-QVC_logo_2019.svg.png" tvg-chno="35" , QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT-E" tvg-logo="logo.png" tvg-chno="36" , TNT
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT-E" tvg-logo="https://s3.ezgif.com/tmp/ezgif-3ee89fd1ea454f.png" tvg-chno="36" , TNT
 https://tvpass.org/live/TNTEast/hd
-#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC" tvg-logo="logo.png" tvg-chno="37" , MSNBC
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC" tvg-logo="https://s3.ezgif.com/tmp/ezgif-3034210e9d41f2.png" tvg-chno="37" , MSNBC
 https://tvpass.org/live/MSNBC/hd
