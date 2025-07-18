@@ -1,61 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN-HD" tvg-chno="1" group-title="Live",CNN
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" tvg-chno="1" , CNN
 https://tvpass.org/live/CNN/hd
-#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC-HD" tvg-chno="2" group-title="Live",NBC
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC WNBC" tvg-logo="logo.png" tvg-chno="2" , NBC
 https://tvpass.org/live/WNBCDT1/hd
-#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC-HD" tvg-chno="3" group-title="Live", ABC
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC WABC" tvg-logo="logo.png" tvg-chno="3" , ABC
 https://tvpass.org/live/WABCDT1/hd
-#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW-HD" group-title="Live",CW
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW WDCW" tvg-logo="logo.png" tvg-chno="4" , CW
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN-HD" group-title="Live",ESPN
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-chno="5" , ESPN
 https://tvpass.org/live/ESPN/hd
-#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX-HD" group-title="Live",FOX
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX WNYW" tvg-logo="logo.png" tvg-chno="6" , FOX
 https://tvpass.org/live/WNYWDT1/hd
-#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS-HD" tvg-chno="8" group-title="Live",CBS
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS WCBS" tvg-logo="logo.png" tvg-chno="8" , CBS
 https://tvpass.org/live/WCBSDT1/hd
-#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS-HD" tvg-chno="9" group-title="Live",PBS
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS WNET" tvg-logo="logo.png" tvg-chno="9" , PBS
 https://tvpass.org/live/WNET/hd
-#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="NICK-HD" tvg-chno="14" group-title="Live",Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="NICK HD" tvg-logo="logo.png" tvg-chno="14" , Nickelodeon
 https://tvpass.org/live/NickelodeonEast/hd
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="HISTORY-HD" group-title="Live",History Channel
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History" tvg-logo="logo.png" tvg-chno="15" , History Channel
 https://tvpass.org/live/HistoryEast/hd
-#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL-HD" group-title="Live",NFL Network
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL" tvg-logo="logo.png" tvg-chno="16" , NFL Network
 https://tvpass.org/live/NFLNetwork/hd
-#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA-HD" group-title="Live",USA Network
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network" tvg-logo="logo.png" tvg-chno="17" , USA Network
 https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV-HD" group-title="Live",HGTV
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV" tvg-logo="logo.png" tvg-chno="18" , HGTV
 https://tvpass.org/live/HGTVEast/hd
-#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="BRAVO-HD" group-title="Live",Bravo
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo" tvg-logo="logo.png" tvg-chno="20" , Bravo
 https://tvpass.org/live/BravoEast/hd
-#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="SYFY-HD" group-title="Live",SYFY
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="SYFY" tvg-logo="logo.png" tvg-chno="21" , SYFY
 https://tvpass.org/live/SyfyEast/hd
-#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC-HD" group-title="Live",AMC
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC" tvg-logo="logo.png" tvg-chno="22" , AMC
 https://tvpass.org/live/AMCEast/hd
-#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="DISC-HD" group-title="Live",Discovery Channel
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="DISCOVERY" tvg-logo="logo.png" tvg-chno="23" , Discovery Channel
 https://tvpass.org/live/DiscoveryChannelEast/hd
-#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS-HD" group-title="Live",TBS
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS-E" tvg-chno="24" tvg-logo="logo.png" group-title="Live", TBS
 https://tvpass.org/live/TBSEast/hd
-#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="LIFE-HD" group-title="Live",Lifetime
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime" tvg-logo="logo.png" tvg-chno="25" group-title="Live", Lifetime
 https://tvpass.org/live/LifetimeEast/hd
-#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC-HD" group-title="Live",CNBC
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC" tvg-logo="logo.png" tvg-chno="26" , CNBC
 https://tvpass.org/live/CNBC/hd
-#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="FOOD-HD" group-title="Live",Food Network
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="FOOD" tvg-logo="logo.png" tvg-chno="27" , Food Network
 https://tvpass.org/live/FoodNetworkEast/hd
-#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV-HD" group-title="Live",MTV
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV HD" tvg-logo="logo.png" tvg-chno="29" , MTV
 https://tvpass.org/live/MTVEast/hd
-#EXTINF:-1 tvg-id="fox-news" tvg-name="FOXNEWS-HD" group-title="Live",Fox News HD
+#EXTINF:-1 tvg-id="fox-news" tvg-name="FOX NEWS" tvg-logo="logo.png" tvg-chno="30" , Fox News Channel
 https://tvpass.org/live/FoxNewsChannel/hd
-#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="FF-HD" group-title="Live",Freeform
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="FF" tvg-logo="logo.png" tvg-chno="31" , Freeform
 https://tvpass.org/live/FreeformEast/hd
-#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET-HD" group-title="Live",BET
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET HD" tvg-logo="logo.png" tvg-chno="32" , BET
 https://tvpass.org/live/BETEast/hd
-#EXTINF:-1 tvg-id="travel-us-east" tvg-name="TRVL-HD" group-title="Live",Travel Channel
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="TRAVEL" tvg-logo="logo.png" tvg-chno="33" , Travel Channel
 https://tvpass.org/live/TravelChannelEast/hd
-#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN-HD" group-title="Live",C-SPAN
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" tvg-logo="logo.png" tvg-chno="34" , C-SPAN
 https://tvpass.org/live/CSPAN/hd
-#EXTINF:-1 tvg-id="QVC.us"  tvg-name="QVC-HD" group-title="Live",QVC
+#EXTINF:-1 tvg-id="QVC.us"  tvg-name="QVC" tvg-logo="logo.png" tvg-chno="35" , QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT-HD" group-title="Live",TNT
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT-E" tvg-logo="logo.png" tvg-chno="36" , TNT
 https://tvpass.org/live/TNTEast/hd
-#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC-HD" group-title="Live",MSNBC
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC" tvg-logo="logo.png" tvg-chno="37" , MSNBC
 https://tvpass.org/live/MSNBC/hd
