@@ -17,7 +17,7 @@ https://tvpass.org/live/WCBSDT1/hd
 https://tvpass.org/live/WNET/hd
 #EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14" , Nickelodeon
 https://tvpass.org/live/NickelodeonEast/hd
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History" tvg-logo="https://s6.ezgif.com/tmp/ezgif-60b7ff07f093d6.png" tvg-chno="15" , History Channel
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/732px-History_Logo_%28White%29.svg.png" tvg-chno="15" , History Channel
 https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png" tvg-chno="16" , NFL Network
 https://tvpass.org/live/NFLNetwork/hd
@@ -25,11 +25,11 @@ https://tvpass.org/live/NFLNetwork/hd
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1024px-HGTV_2010.svg.png" tvg-chno="18" , HGTV
 https://tvpass.org/live/HGTVEast/hd
-#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo" tvg-logo="https://s2.ezgif.com/tmp/ezgif-25620d85958171.png" tvg-chno="20" , Bravo
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d98af92-96cb-4e56-bd09-2c97cbb27535/di4mkj3-1b9f20c5-f8d4-435d-9542-6f8826c89118.png/v1/fill/w_1091,h_733/bravo_logo__2017___terri_ver___by_thenexusonda_di4mkj3-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODYwIiwicGF0aCI6IlwvZlwvMGQ5OGFmOTItOTZjYi00ZTU2LWJkMDktMmM5N2NiYjI3NTM1XC9kaTRta2ozLTFiOWYyMGM1LWY4ZDQtNDM1ZC05NTQyLTZmODgyNmM4OTExOC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.pSCKk4Ov2GmW8J7yxS3xAV_WrG2ebVJQepWyxt0m3ww" tvg-chno="20" , Bravo
 https://tvpass.org/live/BravoEast/hd
-#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="SYFY" tvg-logo="https://s2.ezgif.com/tmp/ezgif-28b4e1ce076555.png" tvg-chno="21" , SYFY
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="SYFY" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/derwlks-09f62cd5-7b56-4df3-bd7a-d518900d7c93.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZDdlOGIxLTlmZTEtNGM0MS1hZWI3LTMzMWY0ZmIxODhhYVwvZGVyd2xrcy0wOWY2MmNkNS03YjU2LTRkZjMtYmQ3YS1kNTE4OTAwZDdjOTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LRyB3FswfFlcizK-wdQafePSvxiP_yEOxTjtEoJdxTU" tvg-chno="21" , SYFY
 https://tvpass.org/live/SyfyEast/hd
-#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC" tvg-logo="https://s2.ezgif.com/tmp/ezgif-2bdab9a205b05d.png" tvg-chno="22" , AMC
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-chno="22" , AMC
 https://tvpass.org/live/AMCEast/hd
 #EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="DISCOVERY" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="23" , Discovery Channel
 https://tvpass.org/live/DiscoveryChannelEast/hd
@@ -37,7 +37,7 @@ https://tvpass.org/live/DiscoveryChannelEast/hd
 https://tvpass.org/live/TBSEast/hd
 #EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" tvg-chno="25" , Lifetime
 https://tvpass.org/live/LifetimeEast/hd
-#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC" tvg-logo="https://s2.ezgif.com/tmp/ezgif-21d676deaee35e.png" tvg-chno="26" , CNBC
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/CNBC_semi-blanco.png/revision/latest/scale-to-width-down/1200?cb=20230827191740&path-prefix=es" tvg-chno="26" , CNBC
 https://tvpass.org/live/CNBC/hd
 #EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="FOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="27" , Food Network
 https://tvpass.org/live/FoodNetworkEast/hd
