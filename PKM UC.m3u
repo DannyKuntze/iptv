@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" tvg-chno="1" , CNN
 https://tvpass.org/live/CNN/hd
-#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC WNBC" tvg-logo="logo.png" tvg-chno="2" , NBC
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/800px-NBC_Peacock_1986.svg.png" tvg-chno="2" , NBC
 https://tvpass.org/live/WNBCDT1/hd
-#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC WABC" tvg-logo="logo.png" tvg-chno="3" , ABC
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Abc_2013_logo_red.svg/416px-Abc_2013_logo_red.svg.png" tvg-chno="3" , ABC
 https://tvpass.org/live/WABCDT1/hd
-#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW WDCW" tvg-logo="logo.png" tvg-chno="4" , CW
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW WDCW" tvg-logo="https://static.wikia.nocookie.net/stargirltv/images/1/1a/The_CW_logo.png/revision/latest?cb=20191216192146" tvg-chno="4" , CW
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-chno="5" , ESPN
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-chno="5" , ESPN
 https://tvpass.org/live/ESPN/hd
-#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX WNYW" tvg-logo="logo.png" tvg-chno="6" , FOX
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX WNYW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1024px-FOX_wordmark.svg.png" tvg-chno="6" , FOX
 https://tvpass.org/live/WNYWDT1/hd
-#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS WCBS" tvg-logo="logo.png" tvg-chno="8" , CBS
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS WCBS" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/4/40/CBS_%28Rose%29.svg/revision/latest/scale-to-width-down/250?cb=20181223041727" tvg-chno="8" , CBS
 https://tvpass.org/live/WCBSDT1/hd
-#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS WNET" tvg-logo="logo.png" tvg-chno="9" , PBS
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS WNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PBS_logo_2019_%28Symbol%29.svg/768px-PBS_logo_2019_%28Symbol%29.svg.png" tvg-chno="9" , PBS
 https://tvpass.org/live/WNET/hd
-#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="NICK HD" tvg-logo="logo.png" tvg-chno="14" , Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14" , Nickelodeon
 https://tvpass.org/live/NickelodeonEast/hd
 #EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History" tvg-logo="logo.png" tvg-chno="15" , History Channel
 https://tvpass.org/live/HistoryEast/hd
