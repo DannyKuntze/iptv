@@ -27,15 +27,15 @@ https://tvpass.org/live/USANetworkEast/hd
 https://tvpass.org/live/HGTVEast/hd
 #EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo" tvg-logo="https://s2.ezgif.com/tmp/ezgif-25620d85958171.png" tvg-chno="20" , Bravo
 https://tvpass.org/live/BravoEast/hd
-#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="SYFY" tvg-logo="logo.png" tvg-chno="21" , SYFY
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="SYFY" tvg-logo="https://s2.ezgif.com/tmp/ezgif-28b4e1ce076555.png" tvg-chno="21" , SYFY
 https://tvpass.org/live/SyfyEast/hd
-#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC" tvg-logo="logo.png" tvg-chno="22" , AMC
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC" tvg-logo="https://s2.ezgif.com/tmp/ezgif-2bdab9a205b05d.png" tvg-chno="22" , AMC
 https://tvpass.org/live/AMCEast/hd
-#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="DISCOVERY" tvg-logo="logo.png" tvg-chno="23" , Discovery Channel
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="DISCOVERY" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="23" , Discovery Channel
 https://tvpass.org/live/DiscoveryChannelEast/hd
-#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS-E" tvg-chno="24" tvg-logo="logo.png" group-title="Live", TBS
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS-E" tvg-chno="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" , TBS
 https://tvpass.org/live/TBSEast/hd
-#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime" tvg-logo="logo.png" tvg-chno="25" group-title="Live", Lifetime
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" tvg-chno="25" , Lifetime
 https://tvpass.org/live/LifetimeEast/hd
 #EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC" tvg-logo="logo.png" tvg-chno="26" , CNBC
 https://tvpass.org/live/CNBC/hd
