@@ -25,9 +25,9 @@ https://tvpass.org/live/NFLNetwork/hd
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1024px-HGTV_2010.svg.png" tvg-chno="18" , HGTV
 https://tvpass.org/live/HGTVEast/hd
-#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d98af92-96cb-4e56-bd09-2c97cbb27535/di4mkj3-1b9f20c5-f8d4-435d-9542-6f8826c89118.png/v1/fill/w_1091,h_733/bravo_logo__2017___terri_ver___by_thenexusonda_di4mkj3-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODYwIiwicGF0aCI6IlwvZlwvMGQ5OGFmOTItOTZjYi00ZTU2LWJkMDktMmM5N2NiYjI3NTM1XC9kaTRta2ozLTFiOWYyMGM1LWY4ZDQtNDM1ZC05NTQyLTZmODgyNmM4OTExOC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.pSCKk4Ov2GmW8J7yxS3xAV_WrG2ebVJQepWyxt0m3ww" tvg-chno="20" , Bravo
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="20" , Bravo
 https://tvpass.org/live/BravoEast/hd
-#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="SYFY" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/derwlks-09f62cd5-7b56-4df3-bd7a-d518900d7c93.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZDdlOGIxLTlmZTEtNGM0MS1hZWI3LTMzMWY0ZmIxODhhYVwvZGVyd2xrcy0wOWY2MmNkNS03YjU2LTRkZjMtYmQ3YS1kNTE4OTAwZDdjOTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LRyB3FswfFlcizK-wdQafePSvxiP_yEOxTjtEoJdxTU" tvg-chno="21" , SYFY
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" tvg-chno="21" , SYFY
 https://tvpass.org/live/SyfyEast/hd
 #EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-chno="22" , AMC
 https://tvpass.org/live/AMCEast/hd
