@@ -42,7 +42,7 @@ https://tvpass.org/live/CNBC/hd
 #EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="FOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="27" , Food Network
 https://tvpass.org/live/FoodNetworkEast/hd
 #EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1024px-MTV_2021_%28brand_version%29.svg.png" tvg-chno="29" , MTV
-https://tvpass.org/live/MTVEast/hd
+https://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="fox-news" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" tvg-chno="30" , Fox News Channel
 https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="FF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" tvg-chno="31" , Freeform
