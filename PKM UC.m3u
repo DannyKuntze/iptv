@@ -46,7 +46,7 @@ https://tvpass.org/live/MTVEast/hd
 #EXTINF:-1 tvg-id="fox-news" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" tvg-chno="30" , Fox News Channel
 https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="FF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" tvg-chno="31" , Freeform
-https://tvpass.org/live/FreeformEast/hd
+https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET HD" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2021/12/bet-logo-freelogovectors.net_.png" tvg-chno="32" , BET
 https://tvpass.org/live/BETEast/hd
 #EXTINF:-1 tvg-id="travel-us-east" tvg-name="TRAVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" tvg-chno="33" , Travel Channel
