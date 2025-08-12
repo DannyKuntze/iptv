@@ -14,7 +14,7 @@ https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1  tvg-name="CBS WCBS" tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/4/40/CBS_%28Rose%29.svg/revision/latest/scale-to-width-down/250?cb=20181223041727" tvg-chno="8",CBS
 http://208.89.99.124:5004/auto/v6.1
 #EXTINF:-1  tvg-name="PBS WNET" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PBS_logo_2019_%28Symbol%29.svg/768px-PBS_logo_2019_%28Symbol%29.svg.png" tvg-chno="9",PBS
-https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1  tvg-name="NICK HD" tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="History" tvg-id="history-channel-us-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/732px-History_Logo_%28White%29.svg.png" tvg-chno="15",History Channel
