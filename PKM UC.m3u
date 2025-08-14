@@ -2,7 +2,7 @@
 #EXTINF:-1  tvg-name="CNN" tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" tvg-chno="1",CNN
 https://fl1.moveonjoy.com/CNN/index.m3u8
 #EXTINF:-1  tvg-name="NBC WNBC" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/800px-NBC_Peacock_1986.svg.png" tvg-chno="2",NBC
-https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+http://208.89.99.124:5004/auto/v2.1
 #EXTINF:-1  tvg-name="ABC WABC" tvg-id="abc-wabc-new-york-ny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Abc_2013_logo_red.svg/416px-Abc_2013_logo_red.svg.png" tvg-chno="3",ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1  tvg-name="CW WDCW" tvg-id="cw-wdcw-district-of-columbia" tvg-logo="https://static.wikia.nocookie.net/stargirltv/images/1/1a/The_CW_logo.png/revision/latest?cb=20191216192146" tvg-chno="4",CW
@@ -12,7 +12,7 @@ https://tvpass.org/live/ESPN/hd
 #EXTINF:-1  tvg-name="FOX WNYW" tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1024px-FOX_wordmark.svg.png" tvg-chno="6",FOX
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1  tvg-name="CBS WCBS" tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/4/40/CBS_%28Rose%29.svg/revision/latest/scale-to-width-down/250?cb=20181223041727" tvg-chno="8",CBS
-http://208.89.99.124:5004/auto/v6.1
+http://user.scalecdn.co:8080/live/26725074/92867131/3619.m3u8
 #EXTINF:-1  tvg-name="PBS WNET" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PBS_logo_2019_%28Symbol%29.svg/768px-PBS_logo_2019_%28Symbol%29.svg.png" tvg-chno="9",PBS
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1  tvg-name="NICK HD" tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
