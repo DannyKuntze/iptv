@@ -6,7 +6,7 @@ https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1  tvg-name="ABC WABC" tvg-id="abc-wabc-new-york-ny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Abc_2013_logo_red.svg/416px-Abc_2013_logo_red.svg.png" tvg-chno="3",ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1  tvg-name="CW WDCW" tvg-id="cw-wdcw-district-of-columbia" tvg-logo="https://static.wikia.nocookie.net/stargirltv/images/1/1a/The_CW_logo.png/revision/latest?cb=20191216192146" tvg-chno="4",CW
-https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/433867.m3u8
 #EXTINF:-1  tvg-name="ESPN" tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-chno="5",ESPN
 https://tvpass.org/live/ESPN/hd
 #EXTINF:-1  tvg-name="FOX WNYW" tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1024px-FOX_wordmark.svg.png" tvg-chno="6",FOX
