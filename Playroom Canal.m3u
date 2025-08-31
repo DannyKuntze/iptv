@@ -281,11 +281,11 @@ https://tvpass.org/live/sportsnet-west/hd
 
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="533",Nick Jr.
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20241015184948" tvg-chno="533",Nick Jr.
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/250px-PBS_Kids_logo_%282022%29.svg.png" tvg-chno="534",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="535",Disney Jr.
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" tvg-chno="535",Disney Jr.
 http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 
@@ -319,7 +319,7 @@ https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
 http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6471/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="909",Sat7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="910",Nick Jr.
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20241015184948" tvg-chno="910",Nick Jr.
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="911",Boomerang
 
@@ -327,7 +327,7 @@ https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="913",NickToons
 
-#EXTINF:-1  tvg-logo="" tvg-chno="914",Disney Jr.
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" tvg-chno="914",Disney Jr.
 http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="915",EBS Kids
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
