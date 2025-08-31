@@ -1,17 +1,17 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-logo="" tvg-chno="1",Sportsnet (East) HD
+#EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="1",Sportsnet
 https://tvpass.org/live/sportsnet-east/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="2",Sportsnet 360 HD
+#EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="2",Sportsnet 360
 https://tvpass.org/live/sportsnet-360/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="3",Sportsnet One
+#EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="3",Sportsnet One
 https://tvpass.org/live/sportsnet-one/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="4",Sportsnet Ontario
+#EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="4",Sportsnet Ontario
 https://tvpass.org/live/sportsnet-ontario/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="5",Sportsnet Pacific
+#EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="5",Sportsnet Pacific
 https://tvpass.org/live/sportsnet-pacific/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="6",Sportsnet Pittsburgh
+#EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="6",Sportsnet Pittsburgh
 https://tvpass.org/live/sportsnet-pittsburgh/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="7",Sportsnet West
+#EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="7",Sportsnet West
 https://tvpass.org/live/sportsnet-west/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" tvg-chno="8",CNN
 https://fl1.moveonjoy.com/CNN/index.m3u8
@@ -31,7 +31,7 @@ https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 https://tvpass.org/live/BravoEast/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-chno="16",CNBC
 https://tvpass.org/live/CNBC/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="17",FX
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/FX_%28light_cyan%29.svg/revision/latest/scale-to-width-down/250?cb=20241220175648" tvg-chno="17",FX
 https://fl3.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="18",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
