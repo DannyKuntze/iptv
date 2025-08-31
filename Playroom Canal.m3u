@@ -103,7 +103,7 @@ http://212.102.60.231/SYFY/index.m3u8
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1  tvg-logo="" tvg-chno="52",E!
 https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="53",A&E
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/A%26E_logo_2008.svg/revision/latest/scale-to-width-down/250?cb=20250722175801" tvg-chno="53",A&E
 https://tvpass.org/live/AEEast/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" tvg-chno="54",TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8
@@ -117,7 +117,7 @@ http://fl1.moveonjoy.com/DISNEY/index.m3u8
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1024px-HGTV_2010.svg.png" tvg-chno="59",HGTV
 https://fl1.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="60",AXS TV HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Axs_logo.svg/1280px-Axs_logo.svg.png" tvg-chno="60",AXS TV HD
 https://fl3.moveonjoy.com/Axs_TV/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="61",HLN
 https://fl3.moveonjoy.com/HLN/index.m3u8
@@ -147,7 +147,7 @@ http://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
 http://fl3.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="74",FXX
 https://fl3.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="75",CMT
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CMT_2017_logo.svg/1280px-CMT_2017_logo.svg.png" tvg-chno="75",CMT
 http://fl1.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" tvg-chno="76",RAI UNO
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
