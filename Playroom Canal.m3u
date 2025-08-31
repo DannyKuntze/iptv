@@ -1,0 +1,343 @@
+﻿#EXTM3U
+#EXTINF:-1  tvg-logo="" tvg-chno="1",Sportsnet (East) HD
+https://tvpass.org/live/sportsnet-east/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="2",Sportsnet 360 HD
+https://tvpass.org/live/sportsnet-360/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="3",Sportsnet One
+https://tvpass.org/live/sportsnet-one/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="4",Sportsnet Ontario
+https://tvpass.org/live/sportsnet-ontario/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="5",Sportsnet Pacific
+https://tvpass.org/live/sportsnet-pacific/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="6",Sportsnet Pittsburgh
+https://tvpass.org/live/sportsnet-pittsburgh/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="7",Sportsnet West
+https://tvpass.org/live/sportsnet-west/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" tvg-chno="8",CNN
+https://fl1.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-chno="9",ESPN
+https://tvpass.org/live/ESPN/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="10",Spectrum Sportsnet Lakers HD
+https://tvpass.org/live/spectrum-sportsnet/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="11",Spectrum SportsNet LA
+https://tvpass.org/live/spectrum-sportsnet-la/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/1200px-QVC_logo_2019.svg.png" tvg-chno="12",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" tvg-chno="13",Lifetime
+https://tvpass.org/live/LifetimeEast/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="14",Food Network
+https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="15",Bravo
+https://tvpass.org/live/BravoEast/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-chno="16",CNBC
+https://tvpass.org/live/CNBC/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="17",FX
+https://fl3.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="18",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" tvg-chno="19",Travel Channel
+https://tvpass.org/live/TravelChannelEast/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png" tvg-chno="20",NFL Network
+https://tvpass.org/live/NFLNetwork/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/732px-History_Logo_%28White%29.svg.png" tvg-chno="21",History Channel
+https://tvpass.org/live/HistoryEast/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" tvg-chno="22",Fox News Channel
+https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="23",Comedy Central
+https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" tvg-chno="24",Freeform
+https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-chno="25",AMC
+https://tvpass.org/live/AMCEast/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1024px-MTV_2021_%28brand_version%29.svg.png" tvg-chno="26",MTV
+https://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="27",Animal Planet
+https://fl3.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.seekpng.com/png/full/953-9531485_msnbc-msnbc-logo-transparent.png" tvg-chno="28",MSNBC
+http://fl1.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1200px-C-SPAN_Logo_%282019%29.svg.png" tvg-chno="29",C-SPAN
+https://fl3.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="30",Fanduel Sports Indiana
+https://tvpass.org/live/fanduel-sports-indiana/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="31",Fanduel Sports Network Detroit
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="32",Fanduel Sports Network Florida
+https://tvpass.org/live/fanduel-sports-network-florida/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="33",Fanduel Sports Network Great Lakes
+https://tvpass.org/live/fanduel-sports-network-great-lakes/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="34",Fanduel Sports Network North
+https://tvpass.org/live/fanduel-sports-network-north/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="35",Fanduel Sports Network Ohio Cleveland
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="36",Fanduel Sports Network Oklahoma
+https://tvpass.org/live/fanduel-sports-network-oklahoma/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="37",Fanduel Sports Network San Diego
+https://tvpass.org/live/fanduel-sports-network-san-diego/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="38",Fanduel Sports Network Socal
+https://tvpass.org/live/fanduel-sports-network-socal/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="39",Fanduel Sports Network South Carolinas
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="40",Fanduel Sports Network South Tennessee
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="41",Fanduel Sports Network West
+https://tvpass.org/live/fanduel-sports-network-west/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="42",Fanduel Sports Network Wisconsin
+https://tvpass.org/live/fanduel-sports-network-wisconsin/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="43",Fanduel Sports Southeast Georgia
+https://tvpass.org/live/fanduel-sports-southeast-georgia/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="44",Fanduel Sports Southeast North Carolina
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="45",Fanduel Sports Southeast South Carolina
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="46",Fanduel Sports Southeast Tennessee Nashville
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="47",Fanduel Sports Sun
+https://tvpass.org/live/fanduel-sports-sun/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="48",Fanduel Sports Tennessee East
+https://tvpass.org/live/fanduel-sports-tennessee-east/hd
+#EXTINF:-1  tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2021/12/bet-logo-freelogovectors.net_.png" tvg-chno="49",BET
+http://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="50",SYFY
+http://212.102.60.231/SYFY/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="51",USA Network
+https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="52",E!
+https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="53",A&E
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" tvg-chno="54",TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_white_letter_logo.png" tvg-chno="55",Cartoon Network
+http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1  tvg-logo="https://d1.awsstatic.com/PBS_wblue_rgb.aa322b35f29335e2733039fe71c0facdadc7d08f.png" tvg-chno="56",PBS
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="57",Disney Channel
+http://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Nickelodeon%202023.png" tvg-chno="58",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1024px-HGTV_2010.svg.png" tvg-chno="59",HGTV
+https://fl1.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="60",AXS TV HD
+https://fl3.moveonjoy.com/Axs_TV/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="61",HLN
+https://fl3.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="62",Hallmark Channel
+https://tvpass.org/live/HallmarkChannelEast/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="63",Golf Channel
+http://fl3.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="64",National Geographic
+https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="65",TV Land
+http://fl3.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="66",Science Channel
+https://tvpass.org/live/Science/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="67",TNT
+http://fl1.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="68",VH1
+http://fl3.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="69",HSN
+http://fl3.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="70",The Weather Channel
+http://fl3.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="71",truTV
+http://fl3.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="72",Bloomberg
+http://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="73",TLC
+http://fl3.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="74",FXX
+https://fl3.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="75",CMT
+http://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" tvg-chno="76",RAI UNO
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="77",BMC-HD
+https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="78",BEK TV News
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="79",BEK TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="80",Beach TV Myrtle Beach & The Grand Strand
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="81",Beach TV Key West & Florida Keys
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="82",Beach TV Florida & Alabama
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="83",Beach TV Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="89",ABN Afghanistan
+https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="90",NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="91",Always Funny Videos
+https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="92",Pursuit Up
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="93",HollyWire
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="94",Hope Channel Africa
+https://jstre.am/live/jsl:i1onRBELcGV.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="95",Hope Channel Inter-America
+https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="96",Atlanta's 57 WATC 57.1
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="97",Atlanta's 57 WATC TOO 57.2 Point
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="98",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="99",T9
+https://5a1178b42cc03.streamlock.net/t9/t9/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="100",DW Spanish
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="101",RTVE 24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="102",UNO 4
+https://cdn.uno4.it/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="103",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="104",ORA News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="105",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="106",TVE RS
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="107",CPAC (EN)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="108",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="109",ICI Télé HD
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="110",Better Health TV
+https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="111",Better Life Nature Channel
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="112",Better Life TV
+https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="113",AuroraTV (Aurora CO)
+https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="114",RT Documentary English
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="115",Peer TV South Tyrol
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="116",Al Jazeera
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="117",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="118",Spectrum Sportsnet Lakers HD
+https://tvpass.org/live/spectrum-sportsnet/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="119",Spectrum SportsNet LA
+https://tvpass.org/live/spectrum-sportsnet-la/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="120",iFood
+https://ifood-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="121",ABN Bible Movies
+http://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="122",At Home with Family Handyman
+https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="123",3ABN Kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="124",OCN TV
+https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="125",Savoir Média
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="126",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="130",iHeartRadio 90s
+https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="143",AWE
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="149",Avang TV
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="200",AWE Encore
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="448",MPT 2 CREATE
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="501",Sportsnet (East) HD
+https://tvpass.org/live/sportsnet-east/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="502",Sportsnet 360 HD
+https://tvpass.org/live/sportsnet-360/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="503",Sportsnet One
+https://tvpass.org/live/sportsnet-one/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="504",Sportsnet Ontario
+https://tvpass.org/live/sportsnet-ontario/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="505",Sportsnet Pacific
+https://tvpass.org/live/sportsnet-pacific/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="506",Sportsnet Pittsburgh
+https://tvpass.org/live/sportsnet-pittsburgh/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="507",Sportsnet West
+https://tvpass.org/live/sportsnet-west/hd
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="533",Nick Jr.
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/250px-PBS_Kids_logo_%282022%29.svg.png" tvg-chno="534",PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="535",Disney Jr.
+http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_white_letter_logo.png" tvg-chno="582",Cartoon Network
+http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1  tvg-logo="https://d1.awsstatic.com/PBS_wblue_rgb.aa322b35f29335e2733039fe71c0facdadc7d08f.png" tvg-chno="608",PBS
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="648",Disney Channel
+http://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="662",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="881",At Home with Family Handyman
+https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="882",FX
+https://fl3.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="883",Kiss Kiss Italia
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="905",NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/250px-PBS_Kids_logo_%282022%29.svg.png" tvg-chno="906",PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="907",TeenNick
+https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="908",Treehouse
+http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6471/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="909",Sat7 Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="910",Nick Jr.
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="911",Boomerang
+
+#EXTINF:-1  tvg-logo="" tvg-chno="912",Disney XD
+http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="913",NickToons
+
+#EXTINF:-1  tvg-logo="" tvg-chno="914",Disney Jr.
+http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="915",EBS Kids
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="916",Babyfirst TV
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
