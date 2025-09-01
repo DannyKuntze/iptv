@@ -249,7 +249,7 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="200",AWE Encore
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="448",MPT 2 CREATE
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Create_TV_network_logo-ezgif.com-crop.png" tvg-chno="448",MPT 2 CREATE
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="501",Sportsnet (East) HD
 https://tvpass.org/live/sportsnet-east/hd
