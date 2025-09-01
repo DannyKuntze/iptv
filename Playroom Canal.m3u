@@ -317,7 +317,7 @@ http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_white_letter_logo.png" tvg-chno="582",Cartoon Network
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cartoon_Network_2010_white_text.svg/2560px-Cartoon_Network_2010_white_text.svg.png" tvg-chno="582",Cartoon Network
 http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="https://d1.awsstatic.com/PBS_wblue_rgb.aa322b35f29335e2733039fe71c0facdadc7d08f.png" tvg-chno="608",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
@@ -335,7 +335,7 @@ https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/250px-PBS_Kids_logo_%282022%29.svg.png" tvg-chno="906",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="907",TeenNick
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/200?cb=20231121172422" tvg-chno="907",TeenNick
 https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="908",BabyFirst TV
 
@@ -347,7 +347,7 @@ https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 https://fl1.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1200px-2015_Disney_XD_logo.svg.png" tvg-chno="912",Disney XD
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="913",NickToons
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Nicktoons_Splat.png/revision/latest/scale-to-width-down/250?cb=20240501141956" tvg-chno="913",NickToons
 https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" tvg-chno="914",Disney Jr.
 http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
