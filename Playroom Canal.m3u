@@ -324,7 +324,7 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="648",Disney Channel
 http://fl1.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="662",Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="881",At Home with Family Handyman
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="882",FX
