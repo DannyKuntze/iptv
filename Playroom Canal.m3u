@@ -265,21 +265,43 @@ https://tvpass.org/live/sportsnet-pacific/hd
 https://tvpass.org/live/sportsnet-pittsburgh/hd
 #EXTINF:-1  tvg-logo="" tvg-chno="507",Sportsnet West
 https://tvpass.org/live/sportsnet-west/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="508",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="509",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="510",
 
-#EXTINF:-1  tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04fbf8b3-296c-42a1-b3ff-ef48d7e3444c/dg4p1wn-cd42eba6-c033-47c6-95c5-80b54e53243e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0ZmJmOGIzLTI5NmMtNDJhMS1iM2ZmLWVmNDhkN2UzNDQ0Y1wvZGc0cDF3bi1jZDQyZWJhNi1jMDMzLTQ3YzYtOTVjNS04MGI1NGU1MzI0M2UuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jDHiBBdYeDwdcoe6pXsx_MVlmJcbXbJVEyHm6zjyCdE" tvg-chno="522",CBS HDTV
-https://fl1.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="511",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="512",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="513",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="514",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="515",
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" tvg-chno="522",Cinemax HD
+http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="523",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="524",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="525",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="526",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="527",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="528",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="529",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="530",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="531",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="532",
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20241015184948" tvg-chno="533",Nick Jr.
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
@@ -315,8 +337,8 @@ https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="907",TeenNick
 https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="908",Treehouse
-http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6471/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="908",BabyFirst TV
+
 #EXTINF:-1  tvg-logo="" tvg-chno="909",Sat7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20241015184948" tvg-chno="910",Nick Jr.
@@ -331,7 +353,7 @@ http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="915",EBS Kids
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="916",Babyfirst TV
+#EXTINF:-1  tvg-logo="" tvg-chno="916",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 
