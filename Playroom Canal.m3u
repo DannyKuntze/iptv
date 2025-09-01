@@ -343,15 +343,15 @@ https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20241015184948" tvg-chno="910",Nick Jr.
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="911",Boomerang
-
-#EXTINF:-1  tvg-logo="" tvg-chno="912",Disney XD
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/250?cb=20220308111336" tvg-chno="911",Boomerang
+https://fl1.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1200px-2015_Disney_XD_logo.svg.png" tvg-chno="912",Disney XD
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="913",NickToons
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" tvg-chno="914",Disney Jr.
 http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="915",EBS Kids
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/EBS_kids.svg/revision/latest?cb=20201221111923" tvg-chno="915",EBS Kids
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="916",
 
