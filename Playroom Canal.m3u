@@ -24,11 +24,11 @@ https://tvpass.org/live/spectrum-sportsnet-la/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/1200px-QVC_logo_2019.svg.png" tvg-chno="12",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" tvg-chno="13",Lifetime
-https://tvpass.org/live/LifetimeEast/hd
+http://fl3.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="14",Food Network
 https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="15",Bravo
-https://tvpass.org/live/BravoEast/hd
+http://fl3.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-chno="16",CNBC
 https://tvpass.org/live/CNBC/hd
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/FX_%28light_cyan%29.svg/revision/latest/scale-to-width-down/250?cb=20241220175648" tvg-chno="17",FX
@@ -98,9 +98,9 @@ https://tvpass.org/live/fanduel-sports-tennessee-east/hd
 #EXTINF:-1  tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2021/12/bet-logo-freelogovectors.net_.png" tvg-chno="49",BET
 http://fl1.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="50",SYFY
-http://212.102.60.231/SYFY/index.m3u8
+http://fl3.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="51",USA Network
-https://tvpass.org/live/USANetworkEast/hd
+http://fl3.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="52",E!
 https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/A%26E_logo_2008.svg/revision/latest/scale-to-width-down/250?cb=20250722175801" tvg-chno="53",A&E
@@ -122,7 +122,7 @@ https://fl3.moveonjoy.com/Axs_TV/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="61",HLN
 https://fl3.moveonjoy.com/HLN/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="62",Hallmark Channel
-https://tvpass.org/live/HallmarkChannelEast/hd
+http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="63",Golf Channel
 http://fl3.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="64",National Geographic
@@ -253,9 +253,27 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="143",AWE
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="144",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="145",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="146",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="147",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="148",
+
 #EXTINF:-1  tvg-logo="" tvg-chno="149",Avang TV
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="200",AWE Encore
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="336",Cinemax HDTV
+http://fl3.moveonjoy.com/CINEMAX/index.m3u8
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Create_TV_network_logo-ezgif.com-crop.png" tvg-chno="448",MPT 2 CREATE
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
