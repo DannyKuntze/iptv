@@ -17,9 +17,9 @@ https://tvpass.org/live/sportsnet-west/hd
 https://fl1.moveonjoy.com/CNN/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-chno="9",ESPN
 https://tvpass.org/live/ESPN/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="10",Spectrum Sportsnet Lakers
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spectrum_Sportsnet_logo.png" tvg-chno="10",Spectrum Sportsnet Lakers
 https://tvpass.org/live/spectrum-sportsnet/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="11",Spectrum SportsNet Los Angeles
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spectrum_Sportsnet_logo.png" tvg-chno="11",Spectrum SportsNet Los Angeles
 https://tvpass.org/live/spectrum-sportsnet-la/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/1200px-QVC_logo_2019.svg.png" tvg-chno="12",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
@@ -57,7 +57,7 @@ https://fl3.moveonjoy.com/Animal_Planet/index.m3u8
 http://fl1.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1200px-C-SPAN_Logo_%282019%29.svg.png" tvg-chno="29",C-SPAN
 https://fl3.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="30",Fanduel Sports Indiana
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="30",Fanduel Sports Indiana
 https://tvpass.org/live/fanduel-sports-indiana/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="31",Fanduel Sports Network Detroit
 https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd
@@ -171,10 +171,6 @@ https://live8fd.lakewood.org/live-2/live/live.m3u8
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="86",LATV
 https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="87",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="88",
-
 #EXTINF:-1  tvg-logo="" tvg-chno="89",ABN Afghanistan
 https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="90",NBC Comedy Vault
@@ -253,10 +249,6 @@ https://hls.savoir.media/live/stream.m3u8
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1  tvg-logo="https://kvvb.tv/wp-content/uploads/2023/05/132edf_bc133a1899a94276b5e29f4f6411a242mv2.webp" tvg-chno="127",KVVB-TV 33 Victor Valley
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="128",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="129",
-
 #EXTINF:-1  tvg-logo="" tvg-chno="130",iHeartRadio 90s
 https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="143",AWE
@@ -265,504 +257,16 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="200",AWE Encore
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="322",CNN
-https://fl1.moveonjoy.com/CNN/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="444",LMN
-https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="445",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="446",Kiss Kiss Italia
-https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest/scale-to-width-down/340?cb=20250511202059" tvg-chno="447",BabyFirst TV
-http://broadcast-live-delivery-cdn.jwplayer.com/live/broadcast/yMI6LT67.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Create_TV_network_logo-ezgif.com-crop.png" tvg-chno="448",MPT 2 CREATE
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="500",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="501",Sportsnet (East) HD
-https://tvpass.org/live/sportsnet-east/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="502",Sportsnet 360 HD
-https://tvpass.org/live/sportsnet-360/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="503",Sportsnet One
-https://tvpass.org/live/sportsnet-one/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="504",Sportsnet Ontario
-https://tvpass.org/live/sportsnet-ontario/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="505",Sportsnet Pacific
-https://tvpass.org/live/sportsnet-pacific/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="506",Sportsnet Pittsburgh
-https://tvpass.org/live/sportsnet-pittsburgh/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="507",Sportsnet West
-https://tvpass.org/live/sportsnet-west/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="508",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="509",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="510",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="511",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="512",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="513",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="514",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="515",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="516",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="517",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="518",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="519",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="520",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="521",
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" tvg-chno="522",Cinemax HD
-http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="523",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="524",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="525",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="526",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="527",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="528",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="529",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="530",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="531",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="532",
-
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20241015184948" tvg-chno="533",Nick Jr.
-https://fl1.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/250px-PBS_Kids_logo_%282022%29.svg.png" tvg-chno="534",PBS Kids
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" tvg-chno="535",Disney Jr.
-http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="536",Latin Zone TV
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="537",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="538",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="539",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="540",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="541",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="542",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="543",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="544",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="545",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="546",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="547",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="548",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="549",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="550",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="551",
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cartoon_Network_2010_white_text.svg/2560px-Cartoon_Network_2010_white_text.svg.png" tvg-chno="582",Cartoon Network
-http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="https://am21.mediaite.com/lc/cnt/uploads/2023/12/Asset-9.png" tvg-chno="583",Law & Crime HD
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="584",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="585",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="586",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="587",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="588",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="589",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="590",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="591",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="592",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="593",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="594",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="595",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="596",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="597",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="598",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="599",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="600",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="601",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="602",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="603",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="604",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="605",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="606",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="607",
-
-#EXTINF:-1  tvg-logo="https://d1.awsstatic.com/PBS_wblue_rgb.aa322b35f29335e2733039fe71c0facdadc7d08f.png" tvg-chno="608",PBS
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="648",Disney Channel
-http://fl1.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Nickelodeon%202023.png" tvg-chno="662",Nickelodeon
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="663",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="664",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="665",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="666",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="667",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="668",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="669",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="670",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="671",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="672",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="673",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="674",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="675",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="676",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="677",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="678",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="679",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="680",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="681",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="682",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="683",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="684",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="685",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="686",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="687",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="688",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="689",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="690",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="691",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="692",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="881",At Home with Family Handyman
-https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="882",FX
-https://fl3.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="884",Kiss Kiss Italia
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="885",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="886",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="887",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="888",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="889",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="890",LMN
-https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="891",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="892",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="893",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="894",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="895",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="896",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="897",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="898",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="899",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="900",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="901",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="902",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="903",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="904",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="905",NBC Comedy Vault
-https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/250px-PBS_Kids_logo_%282022%29.svg.png" tvg-chno="906",PBS Kids
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/200?cb=20231121172422" tvg-chno="907",TeenNick
-https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest/scale-to-width-down/340?cb=20250511202059" tvg-chno="908",BabyFirst TV
-http://broadcast-live-delivery-cdn.jwplayer.com/live/broadcast/yMI6LT67.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/9/92/SAT-7_Kids_-_logo.png/revision/latest?cb=20231020095612" tvg-chno="909",Sat7 Kids
-https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20241015184948" tvg-chno="910",Nick Jr.
-https://fl1.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/250?cb=20220308111336" tvg-chno="911",Boomerang
-https://fl1.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1200px-2015_Disney_XD_logo.svg.png" tvg-chno="912",Disney XD
-http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Nicktoons_Splat.png/revision/latest/scale-to-width-down/250?cb=20240501141956" tvg-chno="913",NickToons
-https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" tvg-chno="914",Disney Jr.
-http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/EBS_kids.svg/revision/latest?cb=20201221111923" tvg-chno="915",EBS Kids
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="916",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="917",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="918",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="919",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="920",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="921",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="922",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="923",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="924",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="925",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="906",Treehouse TV
+http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6502/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="",
@@ -787,13 +291,9 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="998",MCN6 Comedy
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="999",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="1000",Complex
+https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
