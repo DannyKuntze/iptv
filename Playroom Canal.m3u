@@ -151,7 +151,7 @@ https://fl3.moveonjoy.com/FXX/index.m3u8
 http://fl1.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" tvg-chno="76",RAI UNO
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="77",BMC-HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/ezgif-5aa72f6baccd9d%20(1).png" tvg-chno="77",BMC-HD
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="78",BEK TV News
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
@@ -173,7 +173,7 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
 https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="89",ABN Afghanistan
 https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="90",NBC Comedy Vault
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/ezgif.com-crop%20(7).png" tvg-chno="90",NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="91",Always Funny Videos
 https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
@@ -266,15 +266,109 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="149",Avang TV
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="200",AWE Encore
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="201",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="202",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="335",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="336",Cinemax HDTV
 http://fl3.moveonjoy.com/CINEMAX/index.m3u8
-https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="440",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="441",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="442",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="443",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="444",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="445",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="446",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="447",
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Create_TV_network_logo-ezgif.com-crop.png" tvg-chno="448",MPT 2 CREATE
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="536",Latin Zone TV
