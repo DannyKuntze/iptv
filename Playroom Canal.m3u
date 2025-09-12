@@ -139,7 +139,7 @@ http://fl3.moveonjoy.com/VH1/index.m3u8
 http://fl3.moveonjoy.com/HSN/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/The_Weather_Channel_%282005%29.svg/revision/latest/scale-to-width-down/200?cb=20171128103430" tvg-chno="70",The Weather Channel
 http://fl3.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/DannyKuntze/place/blob/main/ezgif-11d10459a2f60b.png" tvg-chno="71",truTV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/ezgif-11d10459a2f60b.png" tvg-chno="71",truTV
 http://fl3.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="72",Bloomberg
 http://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
