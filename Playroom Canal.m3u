@@ -235,8 +235,8 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="118",GBN News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="119",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="119",Motor TV
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/643e73663d6eaa4ada8c7302/643e73663d6eaa4cc48c7f07_ifoodtv.png" tvg-chno="120",iFood
 https://ifood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="121",ABN Bible Movies
@@ -497,11 +497,39 @@ https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="465",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="466",
-
+#EXTINF:-1  tvg-logo="https://www.bizak.es/wp-content/uploads/2022/06/LOGO-SMIGHTIES.png" tvg-chno="466",Smighties
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269&checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" tvg-chno="467",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="468",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 
