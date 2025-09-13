@@ -14,7 +14,7 @@ https://tvpass.org/live/sportsnet-pittsburgh/hd
 #EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="7",Sportsnet West
 https://tvpass.org/live/sportsnet-west/hd
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/250?cb=20250315005934" tvg-chno="8",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+https://fl3.moveonjoy.com/CNN/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-chno="9",ESPN
 https://tvpass.org/live/ESPN/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spectrum_Sportsnet_logo.png" tvg-chno="10",Spectrum Sportsnet Lakers
