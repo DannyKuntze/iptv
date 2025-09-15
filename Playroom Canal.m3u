@@ -639,8 +639,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="916",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="917",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="917",+
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="918",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="919",
