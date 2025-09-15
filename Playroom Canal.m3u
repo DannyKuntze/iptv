@@ -681,7 +681,7 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="998",MCN6 Comedy
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="999",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="999",WCGTV
+https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 #EXTINF:-1  tvg-logo="https://partner.complex.com/complex-originals-show-casting-call/assets/images/complex-logo-white.png" tvg-chno="1000",Complex
 https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
