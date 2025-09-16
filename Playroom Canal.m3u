@@ -96,13 +96,13 @@ https://tvpass.org/live/fanduel-sports-sun/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="48",Fanduel Sports Tennessee East
 https://tvpass.org/live/fanduel-sports-tennessee-east/hd
 #EXTINF:-1  tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2021/12/bet-logo-freelogovectors.net_.png" tvg-chno="49",BET
-http://fl1.moveonjoy.com/BET_EAST/index.m3u8
+http://fl4.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest/scale-to-width-down/250?cb=20210104112713" tvg-chno="50",SYFY
-http://fl3.moveonjoy.com/SYFY/index.m3u8
+http://fl4.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="51",USA Network
-http://fl3.moveonjoy.com/USA_Network/index.m3u8
+http://fl4.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" tvg-chno="52",E!
-https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+https://fl4.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/A%26E_logo_2008.svg/revision/latest/scale-to-width-down/250?cb=20250722175801" tvg-chno="53",A&E
 https://tvpass.org/live/AEEast/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" tvg-chno="54",TBS
@@ -116,23 +116,23 @@ http://212.102.60.231/DISNEY/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Nickelodeon%202023.png" tvg-chno="58",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-logo="https://logonoid.com/images/hgtv-logo.png" tvg-chno="59",HGTV
-https://fl1.moveonjoy.com/HGTV/index.m3u8
+https://fl4.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Axs_logo.svg/1280px-Axs_logo.svg.png" tvg-chno="60",AXS TV HD
-https://fl3.moveonjoy.com/Axs_TV/index.m3u8
+https://fl4.moveonjoy.com/Axs_TV/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HLN_2023.svg/revision/latest/scale-to-width-down/250?cb=20230629003509" tvg-chno="61",HLN
-https://fl3.moveonjoy.com/HLN/index.m3u8
+https://fl4.moveonjoy.com/HLN/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/223-2230265_advertise-on-h-mark-channel-comcast-spotlight-advertising.png" tvg-chno="62",Hallmark Channel
-http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+http://fl4.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/142-1427918_golf-channel-logo-png.png" tvg-chno="63",Golf Channel
-http://fl3.moveonjoy.com/GOLF/index.m3u8
+http://fl4.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" tvg-chno="64",National Geographic
-https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+https://fl4.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV_Land_2015.svg/revision/latest/scale-to-width-down/800?cb=20150702234449" tvg-chno="65",TV Land
-http://fl3.moveonjoy.com/TV_LAND/index.m3u8
+http://fl4.moveonjoy.com/TV_LAND/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Science.svg/revision/latest/scale-to-width-down/250?cb=20180310180237" tvg-chno="66",Science Channel
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/TNT_2016_%28Dark_Blue%29.svg/revision/latest/scale-to-width-down/250?cb=20170609120956" tvg-chno="67",TNT
-http://fl1.moveonjoy.com/TNT/index.m3u8
+http://fl4.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" tvg-chno="68",VH1
 http://fl3.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/HSN_2018.svg/revision/latest/scale-to-width-down/200?cb=20221114164739" tvg-chno="69",HSN
