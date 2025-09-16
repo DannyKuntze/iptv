@@ -675,10 +675,22 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="990",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="991",
 
+#EXTINF:-1  tvg-logo="" tvg-chno="992",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="993",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="994",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="995",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="996",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="997",Vinilos TV
+https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="998",MCN6 Comedy
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="999",WCGTV
