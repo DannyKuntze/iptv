@@ -130,7 +130,7 @@ https://fl3.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV_Land_2015.svg/revision/latest/scale-to-width-down/800?cb=20150702234449" tvg-chno="65",TV Land
 http://fl3.moveonjoy.com/TV_LAND/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Science.svg/revision/latest/scale-to-width-down/250?cb=20180310180237" tvg-chno="66",Science Channel
-https://tvpass.org/live/Science/hd
+http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/TNT_2016_%28Dark_Blue%29.svg/revision/latest/scale-to-width-down/250?cb=20170609120956" tvg-chno="67",TNT
 http://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" tvg-chno="68",VH1
