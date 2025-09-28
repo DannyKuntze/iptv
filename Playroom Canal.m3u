@@ -110,13 +110,13 @@ http://212.102.60.231/TBS/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Cartoon_Network_2010_2.svg/revision/latest/scale-to-width-down/800?cb=20220629135653" tvg-chno="55",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="https://d1.awsstatic.com/PBS_wblue_rgb.aa322b35f29335e2733039fe71c0facdadc7d08f.png" tvg-chno="56",PBS
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
+https%3a//dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="57",Disney Channel
 http://212.102.60.231/DISNEY/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Nickelodeon%202023.png" tvg-chno="58",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-logo="https://logonoid.com/images/hgtv-logo.png" tvg-chno="59",HGTV
-https://fl7.moveonjoy.com/HGTV/index.m3u8
+http://212.102.60.231/HGTV/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Axs_logo.svg/1280px-Axs_logo.svg.png" tvg-chno="60",AXS TV HD
 https://fl7.moveonjoy.com/Axs_TV/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HLN_2023.svg/revision/latest/scale-to-width-down/250?cb=20230629003509" tvg-chno="61",HLN
