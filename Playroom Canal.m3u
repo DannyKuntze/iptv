@@ -38,7 +38,7 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" tvg-chno="19",Travel Channel
 https://tvpass.org/live/TravelChannelEast/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png" tvg-chno="20",NFL Network
-http://fl7.moveonjoy.com/NFL_NETWORK/index.m3u8
+http://212.102.60.231/NFL_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/732px-History_Logo_%28White%29.svg.png" tvg-chno="21",History Channel
 https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" tvg-chno="22",Fox News Channel
@@ -110,7 +110,7 @@ http://212.102.60.231/TBS/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Cartoon_Network_2010_2.svg/revision/latest/scale-to-width-down/800?cb=20220629135653" tvg-chno="55",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="https://d1.awsstatic.com/PBS_wblue_rgb.aa322b35f29335e2733039fe71c0facdadc7d08f.png" tvg-chno="56",PBS
-https%3a//dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="57",Disney Channel
 http://212.102.60.231/DISNEY/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Nickelodeon%202023.png" tvg-chno="58",Nickelodeon
@@ -539,8 +539,8 @@ https://mt01.utako.moe/TV_Tokyo/index.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="335",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" tvg-chno="336",Cinemax HDTV
-
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Trinity_Broadcasting_Network_logo_%282015%29.svg" tvg-chno="336",TRINITY BROADCASTING
+https://glb.bozztv.com/glb/hdirect/hdirect-tbn/index.m3u8?token=4ab73e494dcf9123b525ec5379a70943
 #EXTINF:-1  tvg-logo="" tvg-chno="337",Север
 https://live.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="338",
