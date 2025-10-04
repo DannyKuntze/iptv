@@ -16,7 +16,7 @@ https://fl7.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1  tvg-name="PBS KMOS" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PBS_logo_2019_%28Symbol%29.svg/768px-PBS_logo_2019_%28Symbol%29.svg.png" tvg-chno="9",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-name="NICK HD" tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+http://fl7.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="History" tvg-id="history-channel-us-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/732px-History_Logo_%28White%29.svg.png" tvg-chno="15",History Channel
 https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1  tvg-name="NFL" tvg-id="nfl-network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png" tvg-chno="16",NFL Network
