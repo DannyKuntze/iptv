@@ -263,16 +263,6 @@ https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="143",AWE
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="144",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="145",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="146",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="147",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="148",
-
 #EXTINF:-1  tvg-logo="" tvg-chno="149",Avang TV
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="200",AWE Encore
@@ -331,60 +321,76 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="521",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="522",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="523",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="524",
+
 #EXTINF:-1  tvg-logo="" tvg-chno="525",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="526",
+
 #EXTINF:-1  tvg-logo="" tvg-chno="536",Latin Zone TV
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="537",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="537",TVO
+https://stream1.freetv.fun/67561214fcd2dfce284032268ff5c8c410de9ac7de416184e5f2cb22ca54c874.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="538",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="539",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="540",Clan
 https://stream1.freetv.fun/db24efca9ad3cdad0f547bd8f80651f73e5c027531af4156a7011f6754dcb183.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-logo="https://am21.mediaite.com/lc/cnt/uploads/2023/12/Asset-9.png" tvg-chno="583",Law & Crime HD
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="584",EBS Kids
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="585",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="586",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="587",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="588",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="589",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="590",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="591",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="592",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="593",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="594",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="595",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="596",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="597",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="598",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="599",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="600",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="601",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="800",TGRT Haber
+https://stream1.freetv.fun/3b61135bdb9acbba245c79a69195f95caa25ce9c0b259f9d6fab02c37be90cc5.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="884",Kiss Kiss Italia
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://tvo.com.do/imgs/logo.png" tvg-chno="906",TVO
 https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="917",+
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="996",Wild Earth
+https://stream1.freetv.fun/96b1246e3e15b7b56ba1fc8effa85cdadbfdbf89b40209a7b6f3e2061e1770dc.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="997",Vinilos TV
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="998",MCN6 Comedy
