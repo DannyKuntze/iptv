@@ -299,12 +299,14 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.bizak.es/wp-content/uploads/2022/06/LOGO-SMIGHTIES.png" tvg-chno="466",Smighties
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269&checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="" tvg-chno="507",Crave 1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" tvg-chno="506",Crave 1
 https://stream1.freetv.fun/e3d29ce15e69eead1d0be6b59bd6d313475a6107d6bd667a2e137e7c9683f299.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="508",Crave 4
-https://stream1.freetv.fun/fb0a1ddea6b714bf59ad7528cfd87dae4b12e44cfb521a1a6ab3768cff5de64a.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="509",Crave 3
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" tvg-chno="507",Crave 2
+https://stream1.freetv.fun/df9a54407cda6ff4e3678e26438900576ab1ea16a76b447514720886d19aae4b.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" tvg-chno="508",Crave 3
 https://stream1.freetv.fun/7cdeaf36ff7520e3b1c634e42a7637a14b127d630297f26ee9a641c5c8aad6cd.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" tvg-chno="509",Crave 4
+https://stream1.freetv.fun/fb0a1ddea6b714bf59ad7528cfd87dae4b12e44cfb521a1a6ab3768cff5de64a.m3u8
 #EXTINF:-1  tvg-logo="https://sat7.faulio.com/storage/mediagallery/92/39/small_3c8be0f1ed6145000984de3e57167c94a398183e.png" tvg-chno="510",Sat7Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="511",TRT 1
