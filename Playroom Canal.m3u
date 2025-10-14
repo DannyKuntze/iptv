@@ -141,7 +141,7 @@ http://fl7.moveonjoy.com/HSN/index.m3u8
 http://fl7.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/ezgif-11d10459a2f60b.png" tvg-chno="71",truTV
 http://fl7.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="72",Bloomberg
+#EXTINF:-1  tvg-logo="https://www.slashdb.com/wp-content/uploads/2015/11/bloomberg-logo@2x1.png" tvg-chno="72",Bloomberg
 http://fl7.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TLC_DE.svg/revision/latest?cb=20250214235130" tvg-chno="73",TLC
 http://fl7.moveonjoy.com/TLC/index.m3u8
@@ -155,39 +155,39 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.bek.coop/09015480-0682-11ec-a992-cf39a5c7c5d8/BEK_News_Logo.svg#size188x87" tvg-chno="78",BEK TV News
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="79",BEK TV Sports West
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/beksportswest.png" tvg-chno="79",BEK TV Sports West
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="80",Beach TV Myrtle Beach & The Grand Strand
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/beachtvmyrtlebeach&thegrandstrand.png" tvg-chno="80",Beach TV Myrtle Beach & The Grand Strand
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="81",Beach TV Key West & Florida Keys
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/beachtvkeywest&floridakeys.png" tvg-chno="81",Beach TV Key West & Florida Keys
 https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="82",Beach TV Florida & Alabama
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/beachtvflorida&alabama.png" tvg-chno="82",Beach TV Florida & Alabama
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="83",Beach TV Panama City
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/beachtvpanamacity.png" tvg-chno="83",Beach TV Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="84",Lakewood Coloado
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/lakewoodchannel8.png" tvg-chno="84",Lakewood Coloado
 https://live8fd.lakewood.org/live-2/live/live.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="85",Lakewood CityTV
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/lakewoodchannel8.png" tvg-chno="85",Lakewood CityTV
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="86",LATV
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/latv.png" tvg-chno="86",LATV
 https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="87",AVA Family
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/avafamily.png" tvg-chno="87",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="88",Wild Side TV
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/wildsidetv.png" tvg-chno="88",Wild Side TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="89",ABN Afghanistan
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/abn.png" tvg-chno="89",ABN Afghanistan
 https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/ezgif.com-crop%20(7).png" tvg-chno="90",NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/vfdN5Xl.png" tvg-chno="91",Always Funny Videos
 https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="92",Pursuit Up
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/pursuitup.png" tvg-chno="92",Pursuit Up
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="93",HollyWire
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/hollywire.png" tvg-chno="93",HollyWire
 https://bozztv.com/hwotta/playlist/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="94",Hope Channel Africa
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/hopechannelafrica.png" tvg-chno="94",Hope Channel Africa
 https://jstre.am/live/jsl:i1onRBELcGV.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="95",Hope Channel Inter-America
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/hopechannelinteramerica.png" tvg-chno="95",Hope Channel Inter-America
 https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="96",Atlanta's 57 WATC 57.1
 https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
@@ -247,7 +247,7 @@ https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/OCN_1999.svg/revision/latest?cb=20220716045723" tvg-chno="124",OCN TV
 https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="125",Savoir Média
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/savoirmedia.png" tvg-chno="125",Savoir Média
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="126",AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
@@ -427,7 +427,7 @@ https://stream1.freetv.fun/7cdeaf36ff7520e3b1c634e42a7637a14b127d630297f26ee9a64
 https://stream1.freetv.fun/fb0a1ddea6b714bf59ad7528cfd87dae4b12e44cfb521a1a6ab3768cff5de64a.m3u8
 #EXTINF:-1  tvg-logo="https://sat7.faulio.com/storage/mediagallery/92/39/small_3c8be0f1ed6145000984de3e57167c94a398183e.png" tvg-chno="510",Sat7Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="511",TRT 1
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/trt1.png" tvg-chno="511",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="512",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
