@@ -269,8 +269,8 @@ https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="135",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="136",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="136",Vision TV
+https://stream1.freetv.fun/c44e300d22193fb7236cf3c07932550181a74998e09a0a267fcc57327d19abb1.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="137",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="138",
@@ -297,8 +297,6 @@ https://stream1.freetv.fun/419d57b73319b50789a7c483772ce07599cca89804ea8ecdf7c09
 https://stream1.freetv.fun/4e1f19c9cc3003530e8c987ac8bee376e2bff1bd1129cc2cf4e15a0ba5709718.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="149",Avang TV
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="150",
-
 #EXTINF:-1  tvg-logo="" tvg-chno="200",AWE Encore
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="222",BBC ONE LONDON
@@ -313,18 +311,6 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 http://212.102.60.231/CINEMAX/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="337",Север
 https://live.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="338",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="339",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="340",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="341",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="342",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="343",
-
 #EXTINF:-1  tvg-logo="" tvg-chno="344",Bravo! Kids
 https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Oxygen%20Music.png" tvg-chno="446",Oxygen Music
@@ -335,8 +321,8 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://ebstv.tv/wp-content/uploads/2020/10/EBS-Cinema-Logo.png" tvg-chno="449",EBS Cinema
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="450",
-
+#EXTINF:-1  tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" tvg-chno="450",Bejoy Kids
+https://stream1.freetv.fun/b239e32037b52b5cd49f161becb0c7d8b0aade19920c7bab0abd3481c96fef2a.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="451",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="452",
@@ -365,10 +351,72 @@ https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="464",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="465",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="465",ARTE Network
+https://stream1.freetv.fun/42bef8c8febebce296bfb656842cd84b9a976f9e985eb99f374d45bc2c706896.m3u8
 #EXTINF:-1  tvg-logo="https://www.bizak.es/wp-content/uploads/2022/06/LOGO-SMIGHTIES.png" tvg-chno="466",Smighties
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269&checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="" tvg-chno="467",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="468",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="469",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="470",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="471",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="472",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="473",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="474",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="475",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="476",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="477",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="478",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="479",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="480",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="481",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="482",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="483",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="484",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="485",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="486",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="487",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="488",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="489",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="490",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" tvg-chno="506",Crave 1
 https://stream1.freetv.fun/e3d29ce15e69eead1d0be6b59bd6d313475a6107d6bd667a2e137e7c9683f299.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" tvg-chno="507",Crave 2
@@ -407,6 +455,10 @@ https://c.mjh.nz/abc-me.m3u8
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="537",TVO
 https://stream1.freetv.fun/67561214fcd2dfce284032268ff5c8c410de9ac7de416184e5f2cb22ca54c874.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="538",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="539",
+
 #EXTINF:-1  tvg-logo="" tvg-chno="540",Clan
 https://stream1.freetv.fun/db24efca9ad3cdad0f547bd8f80651f73e5c027531af4156a7011f6754dcb183.m3u8
 #EXTINF:-1  tvg-logo="https://am21.mediaite.com/lc/cnt/uploads/2023/12/Asset-9.png" tvg-chno="583",Law & Crime HD
@@ -415,54 +467,122 @@ https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="800",TGRT Haber
 https://stream1.freetv.fun/3b61135bdb9acbba245c79a69195f95caa25ce9c0b259f9d6fab02c37be90cc5.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-logo="" tvg-chno="822",Tiny Pop MCQQ HDTV MK
 https://stream1.freetv.fun/06a724c9ba8d8e4cd9fde1fed574ab48d7a7f39de1370ec45bcf8cc5b901ace6.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-logo="" tvg-chno="884",Kiss Kiss Italia
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="885",DayDay
 https://stream1.freetv.fun/fa5e277382f51c3783d015ba0e9eca3defd735486bf05293b18cac6cc2f6d353.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="886",Venevision
+https://stream1.freetv.fun/af8e92d8c942e2db2169723a06980578a77ec1d4bc1f9d46e506da263558accb.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="887",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="888",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="889",VTV1
+https://stream1.freetv.fun/bfdf873bf013faad453775a7093343b171bbabec7a94735f1c8b6e2f906d4396.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="890",Pluto TV Sitcoms
+https://stream1.freetv.fun/fbda142049a66f5c4cd9b1f8125e67ec5a670ba547c07c7309d02ce3379427b2.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="891",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="892",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="893",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="894",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="895",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="896",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="897",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="898",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="899",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="900",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="901",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="902",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="903",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="904",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="905",
+
 #EXTINF:-1  tvg-logo="https://tvo.com.do/imgs/logo.png" tvg-chno="906",TVO
 https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="907",Tele Barn HD
+https://stream1.freetv.fun/f1dbf8c662a9f57cc17d74ce45495a8a0dc085432f683b548afceb4f1608b81c.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="908",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="909",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="910",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="911",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="912",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="913",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="914",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="915",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="916",
+
 #EXTINF:-1  tvg-logo="" tvg-chno="917",+
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="918",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="919",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="920",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="921",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="922",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="923",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="924",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="925",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="926",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="927",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="928",Tele Proyecto TV
+https://stream1.freetv.fun/bbb4a4d8580525e976faf23c5bcb1b98e3187b99f519a7fbfdfb5cf41c8a4977.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="929",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="930",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="931",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="932",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="933",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="934",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="935",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="936",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="937",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="938",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="939",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
 #EXTINF:-1  tvg-logo="" tvg-chno="996",Wild Earth
 https://stream1.freetv.fun/96b1246e3e15b7b56ba1fc8effa85cdadbfdbf89b40209a7b6f3e2061e1770dc.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="997",Vinilos TV
