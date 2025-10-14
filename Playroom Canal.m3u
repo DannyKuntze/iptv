@@ -303,16 +303,58 @@ https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 https://stream1.freetv.fun/3f6f55fc5c9fe2c2d9a201d0777b66dc7cc0ae3fdbb69061cd6408942aa62b99.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="245",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1  tvg-logo="" tvg-chno="317",TV Tokyo
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TV_Tokyo_logo_2023_en.svg/2560px-TV_Tokyo_logo_2023_en.svg.png" tvg-chno="317",TV Tokyo
 https://mt01.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="335",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" tvg-chno="336",Cinemax HDTV
 http://212.102.60.231/CINEMAX/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="337",Север
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e7/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80_1_%28%D0%B1%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D0%B8%29.png/revision/latest/scale-to-width-down/250?cb=20220831094544&path-prefix=ru" tvg-chno="337",Север
 https://live.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="344",Bravo! Kids
+#EXTINF:-1  tvg-logo="" tvg-chno="338",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="339",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="340",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="341",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="342",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="343",
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/UhqgvVW.png" tvg-chno="344",Bravo! Kids
 https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Oxygen%20Music.png" tvg-chno="446",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/El_Pais_logo_2007.svg/2560px-El_Pais_logo_2007.svg.png" tvg-chno="447",El País
@@ -403,19 +445,35 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269&checkedby:iptvcat.com
 
 #EXTINF:-1  tvg-logo="" tvg-chno="490",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="491",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="492",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="493",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="494",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="495",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="496",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="497",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="498",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="499",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="500",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="501",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="502",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="503",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="504",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="505",
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" tvg-chno="506",Crave 1
 https://stream1.freetv.fun/e3d29ce15e69eead1d0be6b59bd6d313475a6107d6bd667a2e137e7c9683f299.m3u8
@@ -423,13 +481,13 @@ https://stream1.freetv.fun/e3d29ce15e69eead1d0be6b59bd6d313475a6107d6bd667a2e137
 https://stream1.freetv.fun/df9a54407cda6ff4e3678e26438900576ab1ea16a76b447514720886d19aae4b.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" tvg-chno="508",Crave 3
 https://stream1.freetv.fun/7cdeaf36ff7520e3b1c634e42a7637a14b127d630297f26ee9a641c5c8aad6cd.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" tvg-chno="509",Crave 4
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/crave4.png" tvg-chno="509",Crave 4
 https://stream1.freetv.fun/fb0a1ddea6b714bf59ad7528cfd87dae4b12e44cfb521a1a6ab3768cff5de64a.m3u8
 #EXTINF:-1  tvg-logo="https://sat7.faulio.com/storage/mediagallery/92/39/small_3c8be0f1ed6145000984de3e57167c94a398183e.png" tvg-chno="510",Sat7Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1  tvg-logo="https://logo.m3uassets.com/trt1.png" tvg-chno="511",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="512",TRT 2
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/trt2.png" tvg-chno="512",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="513",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
@@ -449,27 +507,109 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="521",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="525",ABC Entertains
+#EXTINF:-1  tvg-logo="" tvg-chno="522",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="523",CBN Family
+https://stream1.freetv.fun/2a769f11b24bf28b196211e744e352356cdaef230e251c9d79b6645970627cab.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="524",
+
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/abcentertains.png" tvg-chno="525",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="526",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="527",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="528",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="529",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="530",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="531",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="532",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="533",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="534",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="535",
+
 #EXTINF:-1  tvg-logo="" tvg-chno="536",Latin Zone TV
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="537",TVO
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tvo_logo.svg/374px-Tvo_logo.svg.png?20141205074316" tvg-chno="537",TVO
 https://stream1.freetv.fun/67561214fcd2dfce284032268ff5c8c410de9ac7de416184e5f2cb22ca54c874.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="538",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="539",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="539",Sky News Now
+https://stream1.freetv.fun/21462f7124b588d69052e03b25db0339df598a912280611e7908568a1012404d.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="540",Clan
 https://stream1.freetv.fun/db24efca9ad3cdad0f547bd8f80651f73e5c027531af4156a7011f6754dcb183.m3u8
 #EXTINF:-1  tvg-logo="https://am21.mediaite.com/lc/cnt/uploads/2023/12/Asset-9.png" tvg-chno="583",Law & Crime HD
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="584",EBS Kids
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/ebskids.png" tvg-chno="584",EBS Kids
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="617",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="658",Enlace
+https://stream1.freetv.fun/1a91d847c6d35a8b531f68a0e21b1a8f870095ba7e5ae5333b58f04cc114fcd3.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="",
+
 #EXTINF:-1  tvg-logo="" tvg-chno="800",TGRT Haber
 https://stream1.freetv.fun/3b61135bdb9acbba245c79a69195f95caa25ce9c0b259f9d6fab02c37be90cc5.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="822",Tiny Pop MCQQ HDTV MK
 https://stream1.freetv.fun/06a724c9ba8d8e4cd9fde1fed574ab48d7a7f39de1370ec45bcf8cc5b901ace6.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="884",Kiss Kiss Italia
+#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/radiokisskissitalia.png" tvg-chno="884",Kiss Kiss Italia
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="885",DayDay
 https://stream1.freetv.fun/fa5e277382f51c3783d015ba0e9eca3defd735486bf05293b18cac6cc2f6d353.m3u8
