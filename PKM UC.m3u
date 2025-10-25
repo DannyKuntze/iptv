@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-name="CNN" tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" tvg-chno="1",CNN
-https://fl2.moveonjoy.com/CNN/index.m3u8
+http://212.102.60.10/CNN/index.m3u8
 #EXTINF:-1  tvg-name="NBC WNBC" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/800px-NBC_Peacock_1986.svg.png" tvg-chno="2",NBC
 http://208.89.99.124:5004/auto/v2.1
 #EXTINF:-1  tvg-name="ABC WABC" tvg-id="abc-wabc-new-york-ny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Abc_2013_logo_red.svg/416px-Abc_2013_logo_red.svg.png" tvg-chno="3",ABC
