@@ -24,7 +24,7 @@ https://tvpass.org/live/NFLNetwork/hd
 #EXTINF:-1  tvg-name="USA Network" tvg-id="usa-network-east-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="17",USA Network
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1  tvg-name="HGTV" tvg-id="hgtv-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1024px-HGTV_2010.svg.png" tvg-chno="18",HGTV
-http://212.102.60.231/HGTV/index.m3u8
+http://84.17.40.25/HGTV/index.m3u8
 #EXTINF:-1  tvg-name="Bravo" tvg-id="bravo-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="20",Bravo
 https://tvpass.org/live/BravoEast/hd
 #EXTINF:-1  tvg-name="SYFY" tvg-id="syfy-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" tvg-chno="21",SYFY
