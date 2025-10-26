@@ -54,7 +54,7 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/NicePng_bindi-designs-png_8310067.png" tvg-chno="27",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.seekpng.com/png/full/953-9531485_msnbc-msnbc-logo-transparent.png" tvg-chno="28",MSNBC
-http://fl7.moveonjoy.com/MSNBC/index.m3u8
+http://212.102.60.10/MSNBC/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1200px-C-SPAN_Logo_%282019%29.svg.png" tvg-chno="29",C-SPAN
 http://212.102.60.231/C-SPAN/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="30",Fanduel Sports Indiana
@@ -96,9 +96,9 @@ https://tvpass.org/live/fanduel-sports-sun/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="48",Fanduel Sports Tennessee East
 https://tvpass.org/live/fanduel-sports-tennessee-east/hd
 #EXTINF:-1  tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2021/12/bet-logo-freelogovectors.net_.png" tvg-chno="49",BET
-http://fl7.moveonjoy.com/BET_EAST/index.m3u8
+http://212.102.60.10/BET_EAST/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest/scale-to-width-down/250?cb=20210104112713" tvg-chno="50",SYFY
-http://212.102.60.231/SYFY/index.m3u8
+https://fl31.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="51",USA Network
 http://fl7.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" tvg-chno="52",E!
