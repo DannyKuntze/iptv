@@ -132,9 +132,9 @@ https://fl31.moveonjoy.com/TV_LAND/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Science.svg/revision/latest/scale-to-width-down/250?cb=20180310180237" tvg-chno="66",Science Channel
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/TNT_2016_%28Dark_Blue%29.svg/revision/latest/scale-to-width-down/250?cb=20170609120956" tvg-chno="67",TNT
-http://fl7.moveonjoy.com/TNT/index.m3u8
+http://fl61.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" tvg-chno="68",VH1
-http://fl7.moveonjoy.com/VH1/index.m3u8
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/HSN_2018.svg/revision/latest/scale-to-width-down/200?cb=20221114164739" tvg-chno="69",HSN
 http://fl7.moveonjoy.com/HSN/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/The_Weather_Channel_%282005%29.svg/revision/latest/scale-to-width-down/200?cb=20171128103430" tvg-chno="70",The Weather Channel
