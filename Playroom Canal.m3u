@@ -144,7 +144,7 @@ http://fl7.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.slashdb.com/wp-content/uploads/2015/11/bloomberg-logo@2x1.png" tvg-chno="72",Bloomberg
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TLC_DE.svg/revision/latest?cb=20250214235130" tvg-chno="73",TLC
-http://212.102.60.231/TLC/index.m3u8
+https://fl61.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/FXX_%28Pink%29.svg/revision/latest/scale-to-width-down/250?cb=20240911220621" tvg-chno="74",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CMT_2017_logo.svg/1280px-CMT_2017_logo.svg.png" tvg-chno="75",CMT
