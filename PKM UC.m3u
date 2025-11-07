@@ -11,14 +11,10 @@ https://tvpass.org/live/NFLNetwork/hd
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1  tvg-name="HGTV" tvg-id="hgtv-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1024px-HGTV_2010.svg.png" tvg-chno="18",HGTV
 http://84.17.40.25/HGTV/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Cartoon_Network_2010_2.svg/revision/latest/scale-to-width-down/800?cb=20220629135653" tvg-chno="55",Cartoon Network
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="Bravo" tvg-id="bravo-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="20",Bravo
 https://tvpass.org/live/BravoEast/hd
 #EXTINF:-1  tvg-name="SYFY" tvg-id="syfy-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" tvg-chno="21",SYFY
 http://212.102.60.231/SYFY/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="57",Disney Channel
-http://212.102.60.10/DISNEY/index.m3u8
 #EXTINF:-1  tvg-name="AMC" tvg-id="amc-eastern-feed" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-chno="22",AMC
 http://23.237.104.106:8080/USA_AMC/index.m3u8
 #EXTINF:-1  tvg-name="DISCOVERY" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="23",Discovery Channel
