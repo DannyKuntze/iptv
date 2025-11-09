@@ -16,7 +16,7 @@ https://tvpass.org/live/BravoEast/hd
 #EXTINF:-1  tvg-name="SYFY" tvg-id="syfy-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" tvg-chno="21",SYFY
 http://212.102.60.231/SYFY/index.m3u8
 #EXTINF:-1  tvg-name="AMC" tvg-id="amc-eastern-feed" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-chno="22",AMC
-http://23.237.104.106:8080/USA_AMC/index.m3u8
+https://fl61.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="DISCOVERY" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="23",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1  tvg-id="tbs-east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" tvg-chno="24",TBS
