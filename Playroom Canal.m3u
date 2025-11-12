@@ -56,7 +56,7 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.seekpng.com/png/full/953-9531485_msnbc-msnbc-logo-transparent.png" tvg-chno="28",MSNBC
 http://212.102.60.10/MSNBC/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1200px-C-SPAN_Logo_%282019%29.svg.png" tvg-chno="29",C-SPAN
-http://212.102.60.231/C-SPAN/index.m3u8
+http://fl7.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="30",Fanduel Sports Indiana
 https://tvpass.org/live/fanduel-sports-indiana/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="31",Fanduel Sports Network Detroit
