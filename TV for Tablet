@@ -1,14 +1,14 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-logo="" tvg-chno="",Hallmark Channel
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="1" tvg-chno="",Hallmark Channel
+#EXTINF:-1  tvg-logo="2" tvg-chno="",CNBC
+#EXTINF:-1  tvg-logo="3" tvg-chno="",FOX Sports
+#EXTINF:-1  tvg-logo="4" tvg-chno="",American Heroes Channel
+#EXTINF:-1  tvg-logo="5" tvg-chno="",NFL Network
+#EXTINF:-1  tvg-logo="6" tvg-chno="",AXS TV
+#EXTINF:-1  tvg-logo="7" tvg-chno="",Univision
+#EXTINF:-1  tvg-logo="" tvg-chno="",C-SPAN
+#EXTINF:-1  tvg-logo="" tvg-chno="",truTV
+#EXTINF:-1  tvg-logo="" tvg-chno="",SYFY
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
