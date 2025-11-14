@@ -1,5 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-logo="" tvg-chno="1",Hallmark Channel
+http://fl61.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="2",CNBC
 #EXTINF:-1  tvg-logo="" tvg-chno="3",FOX Sports
 #EXTINF:-1  tvg-logo="" tvg-chno="4",NFL Network
