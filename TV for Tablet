@@ -27,6 +27,7 @@ https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="25",Golf Channel
 #EXTINF:-1  tvg-logo="" tvg-chno="26",TBS
 #EXTINF:-1  tvg-logo="" tvg-chno="27",PBS
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="28",CMT
 #EXTINF:-1  tvg-logo="" tvg-chno="29",National Geographic
 #EXTINF:-1  tvg-logo="" tvg-chno="30",Science Channel
