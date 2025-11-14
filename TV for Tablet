@@ -1,101 +1,39 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-logo="1" tvg-chno="",Hallmark Channel
-#EXTINF:-1  tvg-logo="2" tvg-chno="",CNBC
-#EXTINF:-1  tvg-logo="3" tvg-chno="",FOX Sports
-#EXTINF:-1  tvg-logo="4" tvg-chno="",American Heroes Channel
-#EXTINF:-1  tvg-logo="5" tvg-chno="",NFL Network
-#EXTINF:-1  tvg-logo="6" tvg-chno="",AXS TV
-#EXTINF:-1  tvg-logo="7" tvg-chno="",Univision
-#EXTINF:-1  tvg-logo="8" tvg-chno="",C-SPAN
-#EXTINF:-1  tvg-logo="9" tvg-chno="",truTV
-#EXTINF:-1  tvg-logo="10" tvg-chno="",SYFY
-#EXTINF:-1  tvg-logo="11" tvg-chno="",WeTV
-#EXTINF:-1  tvg-logo="12" tvg-chno="",MSNBC
-#EXTINF:-1  tvg-logo="13" tvg-chno="",TNT
-#EXTINF:-1  tvg-logo="14" tvg-chno="",Oxygen
-#EXTINF:-1  tvg-logo="15" tvg-chno="",ION
-#EXTINF:-1  tvg-logo="16" tvg-chno="",CNN
-#EXTINF:-1  tvg-logo="17" tvg-chno="",AMC
-#EXTINF:-1  tvg-logo="18" tvg-chno="",E!
-#EXTINF:-1  tvg-logo="19" tvg-chno="",Weather Channel
-#EXTINF:-1  tvg-logo="20" tvg-chno="",Smithsonian Channel
-#EXTINF:-1  tvg-logo="21" tvg-chno="",TLC
-#EXTINF:-1  tvg-logo="22" tvg-chno="",FYI
-#EXTINF:-1  tvg-logo="23" tvg-chno="",Travel Channel
-#EXTINF:-1  tvg-logo="24" tvg-chno="",Bloomberg
-#EXTINF:-1  tvg-logo="25" tvg-chno="",CBS Sports Network
-#EXTINF:-1  tvg-logo="26" tvg-chno="",Disney XD
-#EXTINF:-1  tvg-logo="27" tvg-chno="",CMT
-#EXTINF:-1  tvg-logo="28" tvg-chno="",Discovery Channel
-#EXTINF:-1  tvg-logo="29" tvg-chno="",Bravo
-#EXTINF:-1  tvg-logo="30" tvg-chno="",A&E
-#EXTINF:-1  tvg-logo="31" tvg-chno="",The Movie Channel
-#EXTINF:-1  tvg-logo="32" tvg-chno="",Freeform
-#EXTINF:-1  tvg-logo="33" tvg-chno="",QVC
-#EXTINF:-1  tvg-logo="34" tvg-chno="",Food Network
-#EXTINF:-1  tvg-logo="35" tvg-chno="",TBS
-#EXTINF:-1  tvg-logo="36" tvg-chno="",Daystar
-#EXTINF:-1  tvg-logo="37" tvg-chno="",Lifetime
-#EXTINF:-1  tvg-logo="38" tvg-chno="",FX
-#EXTINF:-1  tvg-logo="39" tvg-chno="",USA
-#EXTINF:-1  tvg-logo="40" tvg-chno="",Nickelodeon
-#EXTINF:-1  tvg-logo="41" tvg-chno="",Animal Planet
-#EXTINF:-1  tvg-logo="42" tvg-chno="",HSN
-#EXTINF:-1  tvg-logo="43" tvg-chno="",ID
-#EXTINF:-1  tvg-logo="44" tvg-chno="",Golf Channel
-#EXTINF:-1  tvg-logo="45" tvg-chno="",National Geographic
-#EXTINF:-1  tvg-logo="46" tvg-chno="",Science Channel
-#EXTINF:-1  tvg-logo="47" tvg-chno="",TV Land
-#EXTINF:-1  tvg-logo="48" tvg-chno="",Great American Family
-#EXTINF:-1  tvg-logo="49" tvg-chno="",MTV
-#EXTINF:-1  tvg-logo="50" tvg-chno="",NewsNation
-#EXTINF:-1  tvg-logo="51" tvg-chno="",History Channel
-#EXTINF:-1  tvg-logo="52" tvg-chno="",ESPN
-#EXTINF:-1  tvg-logo="53" tvg-chno="",Travel Channel
-#EXTINF:-1  tvg-logo="54" tvg-chno="",VH1
-#EXTINF:-1  tvg-logo="55" tvg-chno="",IFC
-#EXTINF:-1  tvg-logo="56" tvg-chno="",OWN
-#EXTINF:-1  tvg-logo="57" tvg-chno="",NBC Sports Bay Area
-#EXTINF:-1  tvg-logo="58" tvg-chno="",Fox News Channel
-#EXTINF:-1  tvg-logo="59" tvg-chno="",PBS
-#EXTINF:-1  tvg-logo="60" tvg-chno="",Comedy Central
-#EXTINF:-1  tvg-logo="61" tvg-chno="",HGTV
-#EXTINF:-1  tvg-logo="62" tvg-chno="",MotorTrend
-#EXTINF:-1  tvg-logo="63" tvg-chno="",BET
-#EXTINF:-1  tvg-logo="64" tvg-chno="",HBO
-#EXTINF:-1  tvg-logo="65" tvg-chno="",HBO 2
-#EXTINF:-1  tvg-logo="66" tvg-chno="",HBO Signature
-#EXTINF:-1  tvg-logo="67" tvg-chno="",HBO Latino
-#EXTINF:-1  tvg-logo="68" tvg-chno="",HBO Comedy
-#EXTINF:-1  tvg-logo="69" tvg-chno="",HBO Zone
-#EXTINF:-1  tvg-logo="70" tvg-chno="",Starz
-#EXTINF:-1  tvg-logo="71" tvg-chno="",Starz Cinema
-#EXTINF:-1  tvg-logo="72" tvg-chno="",Starz Comedy
-#EXTINF:-1  tvg-logo="73" tvg-chno="",Starz Edge
-#EXTINF:-1  tvg-logo="74" tvg-chno="",Starz in Black
-#EXTINF:-1  tvg-logo="75" tvg-chno="",Starz Kids & Family
-#EXTINF:-1  tvg-logo="" tvg-chno="",Starz Encore
-#EXTINF:-1  tvg-logo="" tvg-chno="",Starz Encore Action
-#EXTINF:-1  tvg-logo="" tvg-chno="",Starz Encore Black
-#EXTINF:-1  tvg-logo="" tvg-chno="",Starz Encore Classic
-#EXTINF:-1  tvg-logo="" tvg-chno="",Starz Encore Español
-#EXTINF:-1  tvg-logo="" tvg-chno="",Starz Encore Family
-#EXTINF:-1  tvg-logo="" tvg-chno="",Starz Encore Suspense
-#EXTINF:-1  tvg-logo="" tvg-chno="",Starz Encore
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="",Hallmark Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",CNBC
+#EXTINF:-1  tvg-logo="" tvg-chno="",FOX Sports
+#EXTINF:-1  tvg-logo="" tvg-chno="",NFL Network
+#EXTINF:-1  tvg-logo="" tvg-chno="",C-SPAN
+#EXTINF:-1  tvg-logo="" tvg-chno="",truTV
+#EXTINF:-1  tvg-logo="" tvg-chno="",SYFY
+#EXTINF:-1  tvg-logo="" tvg-chno="",MSNBC
+#EXTINF:-1  tvg-logo="" tvg-chno="",TNT
+#EXTINF:-1  tvg-logo="" tvg-chno="",Oxygen
+#EXTINF:-1  tvg-logo="" tvg-chno="",AMC
+#EXTINF:-1  tvg-logo="" tvg-chno="",Weather Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",TLC
+#EXTINF:-1  tvg-logo="" tvg-chno="",Travel Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",Bloomberg
+#EXTINF:-1  tvg-logo="" tvg-chno="",Disney XD
+#EXTINF:-1  tvg-logo="" tvg-chno="",Discovery Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",Bravo
+#EXTINF:-1  tvg-logo="" tvg-chno="",QVC
+#EXTINF:-1  tvg-logo="" tvg-chno="",Food Network
+#EXTINF:-1  tvg-logo="" tvg-chno="",Lifetime
+#EXTINF:-1  tvg-logo="" tvg-chno="",FX
+#EXTINF:-1  tvg-logo="" tvg-chno="",Cartoon Network
+#EXTINF:-1  tvg-logo="" tvg-chno="",HSN
+#EXTINF:-1  tvg-logo="" tvg-chno="",Golf Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",TBS
+#EXTINF:-1  tvg-logo="" tvg-chno="",PBS
+#EXTINF:-1  tvg-logo="" tvg-chno="",CMT
+#EXTINF:-1  tvg-logo="" tvg-chno="",National Geographic
+#EXTINF:-1  tvg-logo="" tvg-chno="",Science Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",History Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",ESPN
+#EXTINF:-1  tvg-logo="" tvg-chno="",Travel Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",Fox News Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",Cinemax
+#EXTINF:-1  tvg-logo="" tvg-chno="",HGTV
+#EXTINF:-1  tvg-logo="" tvg-chno="",E!
+#EXTINF:-1  tvg-logo="" tvg-chno="",American Heroes Channel
