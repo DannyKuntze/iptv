@@ -29,7 +29,7 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="24",HSN
 #EXTINF:-1  tvg-logo="" tvg-chno="25",Golf Channel
 #EXTINF:-1  tvg-logo="" tvg-chno="26",TBS
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PBS_Circle.svg/1024px-PBS_Circle.svg.png",PBS
+#EXTINF:-1  tvg-logo="",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="28",CMT
 #EXTINF:-1  tvg-logo="" tvg-chno="29",National Geographic
