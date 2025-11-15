@@ -5,9 +5,9 @@ http://fl61.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="3",FOX Sports
 #EXTINF:-1  tvg-logo="" tvg-chno="4",NFL Network
 #EXTINF:-1  tvg-logo="" tvg-chno="5",C-SPAN
-#EXTINF:-1  tvg-logo="" tvg-chno="6",truTV
-#EXTINF:-1  tvg-logo="" tvg-chno="7",SYFY
-#EXTINF:-1  tvg-logo="" tvg-chno="8",MSNBC
+#EXTINF:-1  tvg-logo="",truTV
+#EXTINF:-1  tvg-logo="",SYFY
+#EXTINF:-1  tvg-logo="",MSNBC
 #EXTINF:-1  tvg-logo="" tvg-chno="9",TNT
 #EXTINF:-1  tvg-logo="" tvg-chno="10",Oxygen
 #EXTINF:-1  tvg-logo="" tvg-chno="11",AMC
@@ -16,7 +16,7 @@ http://fl61.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="14",Travel Channel
 #EXTINF:-1  tvg-logo="" tvg-chno="15",Bloomberg
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="16",Disney XD
+#EXTINF:-1  tvg-logo="",Disney XD
 https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="17",Discovery Channel
 #EXTINF:-1  tvg-logo="" tvg-chno="18",Bravo
@@ -29,7 +29,7 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="24",HSN
 #EXTINF:-1  tvg-logo="" tvg-chno="25",Golf Channel
 #EXTINF:-1  tvg-logo="" tvg-chno="26",TBS
-#EXTINF:-1  tvg-logo="" tvg-chno="27",PBS
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PBS_Circle.svg/1024px-PBS_Circle.svg.png",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="28",CMT
 #EXTINF:-1  tvg-logo="" tvg-chno="29",National Geographic
