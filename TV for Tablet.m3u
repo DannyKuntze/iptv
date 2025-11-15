@@ -14,10 +14,12 @@ https://fl31.moveonjoy.com/SYFY/index.m3u8
 https://fl31.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="9",TNT
 #EXTINF:-1  tvg-logo="" tvg-chno="10",Oxygen
+https://fl61.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="11",AMC
 https://fl61.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="12",Weather Channel
 #EXTINF:-1  tvg-logo="" tvg-chno="13",TLC
+https://fl61.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="14",Travel Channel
 #EXTINF:-1  tvg-logo="" tvg-chno="15",Bloomberg
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
@@ -30,6 +32,7 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 https://fl31.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="20",QVC
 #EXTINF:-1  tvg-logo="" tvg-chno="21",Food Network
+https://fl31.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="22",Lifetime
 #EXTINF:-1  tvg-logo="" tvg-chno="23",FX
 #EXTINF:-1  tvg-logo="" tvg-chno="24",Cartoon Network
@@ -42,10 +45,12 @@ https://fl31.moveonjoy.com/TBS/index.m3u8
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="29",CMT
 https://fl61.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="30",National Geographic
-#EXTINF:-1  tvg-logo="" tvg-chno="31",Science Channel
-#EXTINF:-1  tvg-logo="" tvg-chno="32",History Channel
-#EXTINF:-1  tvg-logo="" tvg-chno="33",ESPN
+#EXTINF:-1  tvg-logo="" tvg-chno="30",
+https://fl31.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="",National Geographic
+#EXTINF:-1  tvg-logo="" tvg-chno="",Science Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",History Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",ESPN
 #EXTINF:-1  tvg-logo="" tvg-chno="34",Travel Channel
 #EXTINF:-1  tvg-logo="",tvg-chno="35"Disney Junior
 https://fl61.moveonjoy.com/DISNEY_JR/index.m3u8
@@ -65,6 +70,7 @@ http://fl7.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="",Animal Planet
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
@@ -73,6 +79,7 @@ http://fl7.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="",ID
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
@@ -81,9 +88,7 @@ http://fl7.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
-#EXTINF:-1  tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-logo="" tvg-chno="",Discovery Family
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
 #EXTINF:-1  tvg-logo="" tvg-chno="",
