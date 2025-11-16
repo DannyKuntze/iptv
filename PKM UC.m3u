@@ -9,7 +9,7 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="5",USA Network
 https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1  tvg-logo="" tvg-chno="6",Disney XD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1200px-2015_Disney_XD_logo.svg.png" tvg-chno="6",Disney XD
 https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" tvg-chno="7",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
