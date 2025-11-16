@@ -1,7 +1,7 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-name="CNN" tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" tvg-chno="1",CNN
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" tvg-chno="1",CNN
 http://212.102.60.10/CNN/index.m3u8
-#EXTINF:-1  tvg-name="ESPN" tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-chno="5",ESPN
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-chno="5",ESPN
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 #EXTINF:-1  tvg-name="History" tvg-id="history-channel-us-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/732px-History_Logo_%28White%29.svg.png" tvg-chno="15",History Channel
 https://tvpass.org/live/HistoryEast/hd
