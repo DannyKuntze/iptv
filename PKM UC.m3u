@@ -1,40 +1,54 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/223-2230265_advertise-on-h-mark-channel-comcast-spotlight-advertising.png" tvg-chno="1",Hallmark Channel
-http://212.102.60.231/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1200px-C-SPAN_Logo_%282019%29.svg.png" tvg-chno="2",C-SPAN
-https://fl1.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/FX_%28light_cyan%29.svg/revision/latest/scale-to-width-down/250?cb=20241220175648" tvg-chno="3",FX
-http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CMT_2017_logo.svg/1280px-CMT_2017_logo.svg.png" tvg-chno="4",CMT
-http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="5",USA Network
-https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1200px-2015_Disney_XD_logo.svg.png" tvg-chno="6",Disney XD
-https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" tvg-chno="7",VH1
-http://23.237.104.106:8080/USA_VH1/index.m3u8
-#EXTINF:-1  tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-chno="8",ESPN
+#EXTINF:-1  tvg-name="CNN" tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" tvg-chno="1",CNN
+http://212.102.60.10/CNN/index.m3u8
+#EXTINF:-1  tvg-name="ESPN" tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-chno="5",ESPN
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="9",Bravo
-https://fl7.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1  tvg-id="QVC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/1200px-QVC_logo_2019.svg.png" tvg-chno="10",QVC
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" tvg-chno="11",National Geographic
-https://fl7.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-chno="12",CNBC
-https://tvpass.org/live/CNBC/hd
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/ezgif-11d10459a2f60b.png" tvg-chno="13",truTV
-http://fl7.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" tvg-chno="14",Lifetime
+#EXTINF:-1  tvg-name="History" tvg-id="history-channel-us-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/732px-History_Logo_%28White%29.svg.png" tvg-chno="15",History Channel
+https://tvpass.org/live/HistoryEast/hd
+#EXTINF:-1  tvg-name="NFL" tvg-id="nfl-network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png" tvg-chno="16",NFL Network
+https://tvpass.org/live/NFLNetwork/hd
+#EXTINF:-1  tvg-name="USA Network" tvg-id="usa-network-east-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="17",USA Network
+https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1  tvg-name="HGTV" tvg-id="hgtv-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1024px-HGTV_2010.svg.png" tvg-chno="18",HGTV
+http://84.17.40.25/HGTV/index.m3u8
+#EXTINF:-1  tvg-name="Bravo" tvg-id="bravo-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="20",Bravo
+https://tvpass.org/live/BravoEast/hd
+#EXTINF:-1  tvg-name="SYFY" tvg-id="syfy-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" tvg-chno="21",SYFY
+http://212.102.60.231/SYFY/index.m3u8
+#EXTINF:-1  tvg-name="AMC" tvg-id="amc-eastern-feed" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-chno="22",AMC
+https://fl61.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1  tvg-name="DISCOVERY" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="23",Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1  tvg-id="tbs-east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" tvg-chno="24",TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1  tvg-name="Lifetime" tvg-id="lifetime-network-us-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" tvg-chno="25",Lifetime
 https://fl31.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/142-1427918_golf-channel-logo-png.png" tvg-chno="15",Golf Channel
-http://fl7.moveonjoy.com/GOLF/index.m3u8
-#EXTINF:-1  tvg-name="MSNBC" tvg-id="msnbc-usa" tvg-logo="https://www.seekpng.com/png/full/953-9531485_msnbc-msnbc-logo-transparent.png" tvg-chno="16",MSNBC
-http://fl1.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HLN_2023.svg/revision/latest/scale-to-width-down/250?cb=20230629003509" tvg-chno="17",HLN
-http://212.102.60.231/HLN/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="18",Nickelodeon
+#EXTINF:-1  tvg-name="CNBC" tvg-id="cnbc-usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-chno="26",CNBC
+https://tvpass.org/live/CNBC/hd
+#EXTINF:-1  tvg-name="PBS" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-chno="9",PBS
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
 http://fl31.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1  tvg-name="Food Network" tvg-id="food-network-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="27",Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1  tvg-name="MTV HD" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1024px-MTV_2021_%28brand_version%29.svg.png" tvg-chno="29",MTV
+https://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1  tvg-name="FOX NEWS" tvg-id="fox-news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" tvg-chno="30",Fox News Channel
+http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
+#EXTINF:-1  tvg-name="FF" tvg-id="freeform-east-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" tvg-chno="31",Freeform
+https://fl7.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1  tvg-name="BET HD" tvg-id="bet-eastern-feed" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2021/12/bet-logo-freelogovectors.net_.png" tvg-chno="32",BET
+http://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1  tvg-name="TRAVEL" tvg-id="travel-us-east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" tvg-chno="33",Travel Channel
+https://tvpass.org/live/TravelChannelEast/hd
+#EXTINF:-1  tvg-name="C-SPAN" tvg-id="cspan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1200px-C-SPAN_Logo_%282019%29.svg.png" tvg-chno="34",C-SPAN
+https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1  tvg-name="QVC" tvg-id="QVC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/1200px-QVC_logo_2019.svg.png" tvg-chno="35",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+#EXTINF:-1  tvg-name="TNT-E" tvg-id="tnt-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tnt_tv_romania.png" tvg-chno="36",TNT
+http://fl1.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1  tvg-name="MSNBC" tvg-id="msnbc-usa" tvg-logo="https://www.seekpng.com/png/full/953-9531485_msnbc-msnbc-logo-transparent.png" tvg-chno="37",MSNBC
+http://fl1.moveonjoy.com/MSNBC/index.m3u8http://fl31.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="19",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" tvg-chno="20",CNN
