@@ -1,22 +1,24 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/223-2230265_advertise-on-h-mark-channel-comcast-spotlight-advertising.png" tvg-chno="1",Hallmark Channel
 http://212.102.60.231/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1  tvg-name="C-SPAN" tvg-id="cspan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1200px-C-SPAN_Logo_%282019%29.svg.png" tvg-chno="2",C-SPAN
+#EXTINF:-1  tvg-name="C-SPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1200px-C-SPAN_Logo_%282019%29.svg.png" tvg-chno="2",C-SPAN
 https://fl1.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/FX_%28light_cyan%29.svg/revision/latest/scale-to-width-down/250?cb=20241220175648" tvg-chno="3",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CMT_2017_logo.svg/1280px-CMT_2017_logo.svg.png" tvg-chno="4",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1  tvg-name="CNN" tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" tvg-chno="1",CNN
+#EXTINF:-1  tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="5",USA Network
+https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1  tvg-name="Disney XD" tvg-logo="" tvg-chno="6",Disney XD
+https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1  tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" tvg-chno="1",CNN
 http://212.102.60.10/CNN/index.m3u8
-#EXTINF:-1  tvg-name="ESPN" tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-chno="5",ESPN
+#EXTINF:-1  tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-chno="5",ESPN
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 #EXTINF:-1  tvg-name="History" tvg-id="history-channel-us-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/732px-History_Logo_%28White%29.svg.png" tvg-chno="15",History Channel
 https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1  tvg-name="NFL" tvg-id="nfl-network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png" tvg-chno="16",NFL Network
 https://tvpass.org/live/NFLNetwork/hd
-#EXTINF:-1  tvg-name="USA Network" tvg-id="usa-network-east-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="17",USA Network
-https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1  tvg-name="HGTV" tvg-id="hgtv-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1024px-HGTV_2010.svg.png" tvg-chno="18",HGTV
 http://84.17.40.25/HGTV/index.m3u8
 #EXTINF:-1  tvg-name="Bravo" tvg-id="bravo-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="20",Bravo
