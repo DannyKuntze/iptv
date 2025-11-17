@@ -122,7 +122,7 @@ https://stream1.freetv.fun/55fd201aa1d16013588a12cbebb4a474485e5e939349d24019403
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HLN_2023.svg/revision/latest/scale-to-width-down/250?cb=20230629003509" tvg-chno="61",HLN
 http://212.102.60.231/HLN/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/223-2230265_advertise-on-h-mark-channel-comcast-spotlight-advertising.png" tvg-chno="62",Hallmark Channel
-http://212.102.60.231/HALLMARK_CHANNEL/index.m3u8
+http://fl61.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/142-1427918_golf-channel-logo-png.png" tvg-chno="63",Golf Channel
 http://fl7.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" tvg-chno="64",National Geographic
