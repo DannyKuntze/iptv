@@ -83,3 +83,11 @@ http://fl7.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trinity_Broadcasting_Network_logo_%282015%29.svg/2560px-Trinity_Broadcasting_Network_logo_%282015%29.svg.png" tvg-chno="42",TBN
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" tvg-chno="23",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/NicePng_bindi-designs-png_8310067.png" tvg-chno="27",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/A%26E_logo_2008.svg/revision/latest/scale-to-width-down/250?cb=20250722175801" tvg-chno="53",A&E
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TLC_DE.svg/revision/latest?cb=20250214235130" tvg-chno="73",TLC
+https://fl61.moveonjoy.com/TLC/index.m3u8
