@@ -81,5 +81,5 @@ http://212.102.60.231/CINEMAX/index.m3u8
 http://fl7.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.slashdb.com/wp-content/uploads/2015/11/bloomberg-logo@2x1.png" tvg-chno="32",Bloomberg
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
-#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/Trinity_Broadcasting_Network" tvg-chno="42",TBN
+#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/Trinity_Broadcasting_Network_%282015%29.svg.png" tvg-chno="42",TBN
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
