@@ -1,12 +1,12 @@
 ﻿#EXTM3U
-#EXTINF:-1. tvg-logo="",NBC
-
+#EXTINF:-1. tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfmyqdl-baf28117-edb9-474c-9427-6073067b2c80.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81MmM3NDY1OS0xNTFjLTRhMWUtOWVhZi1iMjBmYjQxMDZmZjEvZGZteXFkbC1iYWYyODExNy1lZGI5LTQ3NGMtOTQyNy02MDczMDY3YjJjODAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s29mZguc73DoQmVJmZeGgoHFE20Vjrl9suxLyQEu784",NBC
+https://fl1.moveonjoy.com/NBC/index.m3u8
 #EXTINF:-1. tvg-logo="",FOX
-
+https://fl1.moveonjoy.com/FOX/index.m3u8
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1024px-ABC-2021-LOGO.svg.png",ABC
 https://fl61.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1. tvg-logo="",CBS
-
+https://fl1.moveonjoy.com/CBS/index.m3u8
 #EXTINF:-1  tvg-name="PBS" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-chno="9",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1. tvg-logo="",CW
