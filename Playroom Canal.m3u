@@ -203,7 +203,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="102",UNO 4
 https://cdn.uno4.it/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="103",A2 CNN Albania
+#EXTINF:-1  tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="103",A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="104",ORA News
 https://live1.mediadesk.al/oranews.m3u8
