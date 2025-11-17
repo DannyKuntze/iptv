@@ -2,6 +2,7 @@
 #EXTINF:-1. tvg-logo="",NBC
 #EXTINF:-1. tvg-logo="",FOX
 #EXTINF:-1. tvg-logo="",ABC
+https://fl61.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1. tvg-logo="",CBS
 #EXTINF:-1  tvg-name="PBS" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-chno="9",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
