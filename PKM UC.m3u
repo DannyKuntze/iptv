@@ -38,7 +38,7 @@ https://fl31.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-name="CNBC" tvg-id="cnbc-usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-chno="26",CNBC
 https://tvpass.org/live/CNBC/hd
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
-http://fl31.moveonjoy.com/NICKELODEON/index.m3u8
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="Food Network" tvg-id="food-network-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="27",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="MTV HD" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1024px-MTV_2021_%28brand_version%29.svg.png" tvg-chno="29",MTV
