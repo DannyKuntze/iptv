@@ -267,8 +267,8 @@ https://stream1.freetv.fun/490e80874c40b4b62d068a154107e69473d2eebbb4ede657b26e9
 
 #EXTINF:-1  tvg-logo="" tvg-chno="134",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="135",WaterBear
-https://stream1.freetv.fun/8ac55d90535cddef3069dc3f6db1b4cc8dd5c2e8056336a979567ec3fd4ce73e.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="135",TSTV
+https://reflector.watchtstv.com/hls/livestream.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="136",Vision TV
 https://stream1.freetv.fun/c44e300d22193fb7236cf3c07932550181a74998e09a0a267fcc57327d19abb1.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="142",Negocios
