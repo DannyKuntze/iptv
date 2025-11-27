@@ -261,8 +261,8 @@ https://5a1178b42cc03.streamlock.net/laziotv/laziotv/playlist.m3u8
 https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="131",Logos TV
 https://stream1.freetv.fun/490e80874c40b4b62d068a154107e69473d2eebbb4ede657b26e91d96b1a36b8.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="132",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="132",Mekameleen
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="133",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="134",
@@ -271,10 +271,24 @@ https://stream1.freetv.fun/490e80874c40b4b62d068a154107e69473d2eebbb4ede657b26e9
 https://reflector.watchtstv.com/hls/livestream.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="136",Vision TV
 https://stream1.freetv.fun/c44e300d22193fb7236cf3c07932550181a74998e09a0a267fcc57327d19abb1.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="137",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="138",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="139",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="140",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="141",
+
 #EXTINF:-1  tvg-logo="" tvg-chno="142",Negocios
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="143",AWE
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="144",
+
+#EXTINF:-1  tvg-logo="" tvg-chno="145",
+
 #EXTINF:-1  tvg-logo="" tvg-chno="146",EMAN
 https://stream1.freetv.fun/419d57b73319b50789a7c483772ce07599cca89804ea8ecdf7c09b04fa2dd28c.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="147",Fail Army
