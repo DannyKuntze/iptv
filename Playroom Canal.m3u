@@ -265,8 +265,8 @@ https://stream1.freetv.fun/490e80874c40b4b62d068a154107e69473d2eebbb4ede657b26e9
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="133",Meru TV
 https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="134",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="134",H&C
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="135",TSTV
 https://reflector.watchtstv.com/hls/livestream.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="136",Vision TV
