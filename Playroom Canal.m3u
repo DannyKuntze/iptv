@@ -381,8 +381,8 @@ https://hls.avang.live/hls/stream.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="191",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="192",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="192",DiscoverFilm
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="193",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="194",
