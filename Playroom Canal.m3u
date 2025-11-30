@@ -931,8 +931,8 @@ https://stream1.freetv.fun/b239e32037b52b5cd49f161becb0c7d8b0aade19920c7bab0abd3
 https://stream1.freetv.fun/42bef8c8febebce296bfb656842cd84b9a976f9e985eb99f374d45bc2c706896.m3u8
 #EXTINF:-1  tvg-logo="https://www.bizak.es/wp-content/uploads/2022/06/LOGO-SMIGHTIES.png" tvg-chno="466",Smighties
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269&checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="" tvg-chno="467",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="467",Kix
+https://stream1.freetv.fun/kix--a-1.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="468",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="469",
