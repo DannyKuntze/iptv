@@ -629,8 +629,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 #EXTINF:-1  tvg-logo="" tvg-chno="315",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="316",NTD
-https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="316",
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TV_Tokyo_logo_2023_en.svg/2560px-TV_Tokyo_logo_2023_en.svg.png" tvg-chno="317",TV Tokyo
 https://mt01.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="318",
@@ -1891,8 +1891,8 @@ https://stream1.freetv.fun/a601b221a3c38edb5d985d354f9fa10e3f1e8bbce3cfe06069a31
 
 #EXTINF:-1  tvg-logo="" tvg-chno="946",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="947",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="947",NBC News Now
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="948",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="949",
