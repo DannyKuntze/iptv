@@ -6,7 +6,7 @@ https://tvpass.org/live/sportsnet-360/hd
 #EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="3",Sportsnet One
 https://tvpass.org/live/sportsnet-one/hd
 #EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="4",Sportsnet Ontario
-https://tvpass.org/live/sportsnet-ontario/hd
+https://stream1.freetv.fun/be079ff36a3c35aaf4a5f2f2d8fc4e673d819e7cf0c4fd4770a1b6cba45db7eb.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="5",Sportsnet Pacific
 https://tvpass.org/live/sportsnet-pacific/hd
 #EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="6",Sportsnet Pittsburgh
@@ -797,8 +797,8 @@ https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="399",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="400",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="400",Rock Entertainment
+https://stream1.freetv.fun/fe80d7679ef8047396c4a69bed56b2900b51949b1e0b03ea1586d91404890ee9.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="401",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="402",
