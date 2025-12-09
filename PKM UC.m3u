@@ -16,7 +16,7 @@ https://fl1.moveonjoy.com/CBS/index.m3u8
 #EXTINF:-1  tvg-name="PBS" tvg-id="465245" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="History" tvg-id="history-channel-us-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/732px-History_Logo_%28White%29.svg.png" tvg-chno="3",History Channel
 https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1  tvg-name="NFL" tvg-id="nfl-network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png" tvg-chno="4",NFL Network
@@ -34,7 +34,7 @@ https://fl61.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="DISCOVERY" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="10",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1  tvg-id="tbs-east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" tvg-chno="11",TBS
-http://fl1.moveonjoy.com/TBS/index.m3u8
+https://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1  tvg-name="Lifetime" tvg-id="lifetime-network-us-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" tvg-chno="12",Lifetime
 https://fl31.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-name="CNBC" tvg-id="cnbc-usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-chno="26",CNBC
