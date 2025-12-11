@@ -46,7 +46,7 @@ https://fl1.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1  tvg-name="FOX NEWS" tvg-id="fox-news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" tvg-chno="30",Fox News Channel
 http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" tvg-chno="31",Freeform
-https://fl7.moveonjoy.com/FREE_FORM/index.m3u8
+https://e3.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8?token=L5WY02E4xfDo1LZ0sgrnaQ&expires=1765508609&user_id=NzAuMTA1LjEuMTEx
 #EXTINF:-1  tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2021/12/bet-logo-freelogovectors.net_.png" tvg-chno="32",BET
 http://fl1.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:-1  tvg-name="TRAVEL" tvg-id="travel-us-east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" tvg-chno="33",Travel Channel
