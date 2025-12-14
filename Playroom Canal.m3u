@@ -30,7 +30,7 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="15",Bravo
 http://212.102.60.231/BRAVO/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-chno="16",CNBC
-http://212.102.60.231/CNBC/index.m3u8
+https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/FX_%28light_cyan%29.svg/revision/latest/scale-to-width-down/250?cb=20241220175648" tvg-chno="17",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="18",Discovery Channel
