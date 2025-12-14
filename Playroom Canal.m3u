@@ -100,7 +100,7 @@ http://212.102.60.10/BET_EAST/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest/scale-to-width-down/250?cb=20210104112713" tvg-chno="50",SYFY
 https://fl31.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="51",USA Network
-http://fl7.moveonjoy.com/USA_Network/index.m3u8
+http://fl1.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" tvg-chno="52",E!
 https://fl61.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/A%26E_logo_2008.svg/revision/latest/scale-to-width-down/250?cb=20250722175801" tvg-chno="53",A&E
@@ -273,8 +273,8 @@ https://reflector.watchtstv.com/hls/livestream.m3u8
 https://stream1.freetv.fun/c44e300d22193fb7236cf3c07932550181a74998e09a0a267fcc57327d19abb1.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="137",Canaf 54
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="138",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="138",Miami TV Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="139",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="140",
