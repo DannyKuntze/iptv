@@ -56,17 +56,17 @@
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/2560px-AXS_TV_logo.svg.png" tvg-chno="28",Axs TV
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/CNN_International_HD.png" tvg-chno="29",CNN
-
+http://212.102.60.10/CNN/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/VH1-HD-Brasil.svg/revision/latest?cb=20210520001600" tvg-chno="30",VH1
-
+http://fl1.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Science_Channel_HD_2007.svg/revision/latest/scale-to-width-down/250?cb=20240717171807" tvg-chno="31",Science Channel
-
+http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b5/TruTV_HD.png/revision/latest?cb=20140518210256" tvg-chno="32",TruTV
-
+http://fl1.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/HLN_HD.png/revision/latest?cb=20110408030917" tvg-chno="33",HLN
-
+http://fl1.moveonjoy.com/HLN/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/1/1a/FX_HD_2013.png/revision/latest?cb=20230329093215" tvg-chno="34",FX
-
+http://fl1.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Pbshd.svg/revision/latest?cb=20200604061019" tvg-chno="35",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/26/CMT_HD.png/revision/latest?cb=20140522090705" tvg-chno="36",CMT
