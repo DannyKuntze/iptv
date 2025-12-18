@@ -81,17 +81,17 @@
 
 #EXTINF:-1  tvg-logo="" tvg-chno="41",FXX
 
-#EXTINF:-1  tvg-logo="" tvg-chno="42",Paramount Network
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" tvg-chno="42",Paramount Network
 
-#EXTINF:-1  tvg-logo="" tvg-chno="43",Discovery Channel
+#EXTINF:-1  tvg-logo="https://www.nicepng.com/png/full/134-1341542_discovery-channel-logo-png.png" tvg-chno="43",Discovery Channel
 
-#EXTINF:-1  tvg-logo="" tvg-chno="44",Animal Planet
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/2560px-Animal_Planet_HD.svg.png" tvg-chno="44",Animal Planet
 
-#EXTINF:-1  tvg-logo="" tvg-chno="45",Golf Channel
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Golf_channel_hd.png/revision/latest/scale-to-width-down/250?cb=20110408110738" tvg-chno="45",Golf Channel
 
-#EXTINF:-1  tvg-logo="" tvg-chno="46",HSN
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/HSN_HD_2009.png/revision/latest/scale-to-width-down/250?cb=20230826190812" tvg-chno="46",HSN
 
-#EXTINF:-1  tvg-logo="" tvg-chno="47",TLC
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv5LVwVdCVh43hQHrJ-bWvdadEWpWuyHC4hA&s" tvg-chno="47",TLC
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1280px-Nick_HD_Logo.svg.png" tvg-chno="48",Nickelodeon
 
