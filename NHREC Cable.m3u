@@ -80,9 +80,9 @@
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/500px-Bloomberg_Television_logo.svg.png?20090501015957" tvg-chno="40",Bloomberg
 
 #EXTINF:-1  tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/409efa6e-c69a-4971-ac4e-a2a76dcd02e5/deyuwu3-f7fe27f6-21f1-4279-89c3-9095f6ebe77e.png/v1/fill/w_1280,h_512/fxx_hd_logo__2013_present__by_mattjacks2003_deyuwu3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzQwOWVmYTZlLWM2OWEtNDk3MS1hYzRlLWEyYTc2ZGNkMDJlNS9kZXl1d3UzLWY3ZmUyN2Y2LTIxZjEtNDI3OS04OWMzLTkwOTVmNmViZTc3ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Pr87e4cc1qfkhnl4toTwqn9vcJo4LW3R_FW86yppkvY" tvg-chno="41",FXX
-
+http://fl1.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" tvg-chno="42",Paramount Network
-
+http://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.nicepng.com/png/full/134-1341542_discovery-channel-logo-png.png" tvg-chno="43",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/2560px-Animal_Planet_HD.svg.png" tvg-chno="44",Animal Planet
