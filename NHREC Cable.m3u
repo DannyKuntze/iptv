@@ -45,11 +45,11 @@
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Travel_Channel_HD_Logo.png/1200px-Travel_Channel_HD_Logo.png" tvg-chno="23",Travel Channel
 
-#EXTINF:-1  tvg-logo="" tvg-chno="24",MTV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/MTV_HD_Logo_2015.png" tvg-chno="24",MTV
 
-#EXTINF:-1  tvg-logo="" tvg-chno="25",SYFY
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png" tvg-chno="25",SYFY
 
-#EXTINF:-1  tvg-logo="" tvg-chno="26",HGTV
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/HGTV_HD_Blue.png/revision/latest/scale-to-width-down/250?cb=20220925232817" tvg-chno="26",HGTV
 
 #EXTINF:-1  tvg-logo="" tvg-chno="27",TV Land
 
