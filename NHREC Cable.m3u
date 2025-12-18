@@ -1,49 +1,49 @@
 ﻿#EXTM3U
-Lifetime
-QVC
-Hallmark Channel
-A&E
-AMC
-CNBC
-ESPN
-Freeform
-TBS
-Fox News Channel
-Food Network
-MS NOW
-National Geographic
-C-SPAN
-E!
-BET
-Comedy Central
-History Channel
-TNT
-NFL Network
-Cartoon Network
-Disney Channel
-Travel Channel
-MTV
-SYFY
-HGTV
-TV Land
-Axs TV
-CNN
-VH1
-Science Channel
-TruTV
-HLN
-FX
-PBS
-CMT
-The Weather Channel
-USA Network
-Bravo
-Bloomberg
-FXX
-Paramount Network
-Discovery Channel
-Animal Planet
-Golf Channel
-HSN
-TLC
-Nickelodeon
+#EXTINF:-1  tvg-logo="" tvg-chno="",Lifetime
+#EXTINF:-1  tvg-logo="" tvg-chno="",QVC
+#EXTINF:-1  tvg-logo="" tvg-chno="",Hallmark Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",A&E
+#EXTINF:-1  tvg-logo="" tvg-chno="",AMC
+#EXTINF:-1  tvg-logo="" tvg-chno="",CNBC
+#EXTINF:-1  tvg-logo="" tvg-chno="",ESPN
+#EXTINF:-1  tvg-logo="" tvg-chno="",Freeform
+#EXTINF:-1  tvg-logo="" tvg-chno="",TBS
+#EXTINF:-1  tvg-logo="" tvg-chno="",Fox News Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",Food Network
+#EXTINF:-1  tvg-logo="" tvg-chno="",MS NOW
+#EXTINF:-1  tvg-logo="" tvg-chno="",National Geographic
+#EXTINF:-1  tvg-logo="" tvg-chno="",C-SPAN
+#EXTINF:-1  tvg-logo="" tvg-chno="",E!
+#EXTINF:-1  tvg-logo="" tvg-chno="",BET
+#EXTINF:-1  tvg-logo="" tvg-chno="",Comedy Central
+#EXTINF:-1  tvg-logo="" tvg-chno="",History Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",TNT
+#EXTINF:-1  tvg-logo="" tvg-chno="",NFL Network
+#EXTINF:-1  tvg-logo="" tvg-chno="",Cartoon Network
+#EXTINF:-1  tvg-logo="" tvg-chno="",Disney Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",Travel Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",MTV
+#EXTINF:-1  tvg-logo="" tvg-chno="",SYFY
+#EXTINF:-1  tvg-logo="" tvg-chno="",HGTV
+#EXTINF:-1  tvg-logo="" tvg-chno="",TV Land
+#EXTINF:-1  tvg-logo="" tvg-chno="",Axs TV
+#EXTINF:-1  tvg-logo="" tvg-chno="",CNN
+#EXTINF:-1  tvg-logo="" tvg-chno="",VH1
+#EXTINF:-1  tvg-logo="" tvg-chno="",Science Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",TruTV
+#EXTINF:-1  tvg-logo="" tvg-chno="",HLN
+#EXTINF:-1  tvg-logo="" tvg-chno="",FX
+#EXTINF:-1  tvg-logo="" tvg-chno="",PBS
+#EXTINF:-1  tvg-logo="" tvg-chno="",CMT
+#EXTINF:-1  tvg-logo="" tvg-chno="",The Weather Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",USA Network
+#EXTINF:-1  tvg-logo="" tvg-chno="",Bravo
+#EXTINF:-1  tvg-logo="" tvg-chno="",Bloomberg
+#EXTINF:-1  tvg-logo="" tvg-chno="",FXX
+#EXTINF:-1  tvg-logo="" tvg-chno="",Paramount Network
+#EXTINF:-1  tvg-logo="" tvg-chno="",Discovery Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",Animal Planet
+#EXTINF:-1  tvg-logo="" tvg-chno="",Golf Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",HSN
+#EXTINF:-1  tvg-logo="" tvg-chno="",TLC
+#EXTINF:-1  tvg-logo="" tvg-chno="",Nickelodeon
