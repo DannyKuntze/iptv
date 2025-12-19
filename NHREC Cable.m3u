@@ -1,59 +1,103 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="" tvg-chno="1",Cartoon Network
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Lifetime_HD_2D_logo.png/revision/latest/scale-to-width-down/250?cb=20231222171837" tvg-chno="1",Lifetime
 
-#EXTINF:-1  tvg-logo="" tvg-chno="2",MS NOW
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/8/85/20210220163620%21Logo_QVC_HD_2019.png" tvg-chno="2",QVC
 
-#EXTINF:-1  tvg-logo="" tvg-chno="3",CNN
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Hallmark_Channel_HD_2010.svg/revision/latest?cb=20221219021723" tvg-chno="3",Hallmark Channel
 
-#EXTINF:-1  tvg-logo="" tvg-chno="4",TBS
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aunde_hd.png/1200px-Aunde_hd.png?20141123164856" tvg-chno="4",A&E
 
-#EXTINF:-1  tvg-logo="" tvg-chno="5",CNBC
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" tvg-chno="5",AMC
 
-#EXTINF:-1  tvg-logo="" tvg-chno="6",ESPN
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a5/CNBC_HD_2021.png/920px-CNBC_HD_2021.png?20210917045034" tvg-chno="6",CNBC
 
-#EXTINF:-1  tvg-logo="" tvg-chno="7",Discovery Channel
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" tvg-chno="7",ESPN
 
-#EXTINF:-1  tvg-logo="" tvg-chno="8",MTV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Freeform.svg/2560px-Freeform.svg.png" tvg-chno="8",Freeform
 
-#EXTINF:-1  tvg-logo="" tvg-chno="9",HSN
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/05/TBS_HD.svg/revision/latest?cb=20220926152101" tvg-chno="9",TBS
 
-#EXTINF:-1  tvg-logo="" tvg-chno="10",NFL Network
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Fox_News_Channel_HD.png/revision/latest/scale-to-width-down/250?cb=20110408025321" tvg-chno="10",Fox News Channel
 
-#EXTINF:-1  tvg-logo="" tvg-chno="11",AMC
+#EXTINF:-1  tvg-logo="https://media.houstonfoodie.com/2008/10/foodnethd.png" tvg-chno="11",Food Network
 
-#EXTINF:-1  tvg-logo="" tvg-chno="12",Lifetime
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/MS_NOW_logo.svg" tvg-chno="12",MS NOW
 
-#EXTINF:-1  tvg-logo="" tvg-chno="13",HGTV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/2560px-Nat_Geo_HD_Logo.svg.png" tvg-chno="13",National Geographic
 
-#EXTINF:-1  tvg-logo="" tvg-chno="14",PBS
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzlzg14jNebM23AYYDOl1qMPf9h3SfpCT4g&s" tvg-chno="14",C-SPAN
 
-#EXTINF:-1  tvg-logo="" tvg-chno="15",CBS
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/E%21_HD_2012.svg/revision/latest/scale-to-width-down/250?cb=20221216014328" tvg-chno="15",E!
 
-#EXTINF:-1  tvg-logo="" tvg-chno="16",FOX
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BET_HD_2008.svg/revision/latest/scale-to-width-down/800?cb=20201220192852" tvg-chno="16",BET
 
-#EXTINF:-1  tvg-logo="" tvg-chno="17",ABC
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Comedy_Central_HD_2009.svg/revision/latest?cb=20210604160607" tvg-chno="17",Comedy Central
 
-#EXTINF:-1  tvg-logo="" tvg-chno="18",NBC
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/History_HD_2015_logo.png/revision/latest/scale-to-width-down/250?cb=20150626181747" tvg-chno="18",History Channel
 
-#EXTINF:-1  tvg-logo="" tvg-chno="19",USA Network
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/TNT_HD.png/800px-TNT_HD.png" tvg-chno="19",TNT
 
-#EXTINF:-1  tvg-logo="" tvg-chno="20",Fox News Channel
+#EXTINF:-1  tvg-logo="https://logos.fandom.com/wiki/NFL_Network" tvg-chno="20",NFL Network
 
-#EXTINF:-1  tvg-logo="" tvg-chno="21",HBO
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_HD_logo.svg" tvg-chno="21",Cartoon Network
 
-#EXTINF:-1  tvg-logo="" tvg-chno="22",Food Network
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/2f/Disney_channel_de_hd.png" tvg-chno="22",Disney Channel
 
-#EXTINF:-1  tvg-logo="" tvg-chno="23",SYFY
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Travel_Channel_HD_Logo.png/1200px-Travel_Channel_HD_Logo.png" tvg-chno="23",Travel Channel
 
-#EXTINF:-1  tvg-logo="" tvg-chno="24",FX
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/MTV_HD_Logo_2015.png" tvg-chno="24",MTV
 
-#EXTINF:-1  tvg-logo="" tvg-chno="25",QVC
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png" tvg-chno="25",SYFY
 
-#EXTINF:-1  tvg-logo="" tvg-chno="26",Bravo
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/HGTV_HD_Blue.png/revision/latest/scale-to-width-down/250?cb=20220925232817" tvg-chno="26",HGTV
 
-#EXTINF:-1  tvg-logo="" tvg-chno="27",The Weather Channel
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TV_Land_2012.svg/revision/latest/scale-to-width-down/300?cb=20180306032653" tvg-chno="27",TV Land
 
-#EXTINF:-1  tvg-logo="" tvg-chno="28",Freeform
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/2560px-AXS_TV_logo.svg.png" tvg-chno="28",Axs TV
 
-#EXTINF:-1  tvg-logo="" tvg-chno="29",Hallmark Channel
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/CNN_International_HD.png" tvg-chno="29",CNN
 
+http://212.102.60.10/CNN/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/VH1-HD-Brasil.svg/revision/latest?cb=20210520001600" tvg-chno="30",VH1
+
+http://fl1.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Science_Channel_HD_2007.svg/revision/latest/scale-to-width-down/250?cb=20240717171807" tvg-chno="31",Science Channel
+
+http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b5/TruTV_HD.png/revision/latest?cb=20140518210256" tvg-chno="32",TruTV
+
+http://fl1.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/HLN_HD.png/revision/latest?cb=20110408030917" tvg-chno="33",HLN
+
+http://fl1.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/1/1a/FX_HD_2013.png/revision/latest?cb=20230329093215" tvg-chno="34",FX
+
+http://fl1.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Pbshd.svg/revision/latest?cb=20200604061019" tvg-chno="35",PBS
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/26/CMT_HD.png/revision/latest?cb=20140522090705" tvg-chno="36",CMT
+http://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TWC_HD_logo.svg/2560px-TWC_HD_logo.svg.png" tvg-chno="37",The Weather Channel
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+#EXTINF:-1  tvg-logo="https://pluspng.com/img-png/usa-hd-png-usa-network-hd-png-800.png" tvg-chno="38",USA Network
+http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/HD_by_Bravo.svg/revision/latest/scale-to-width-down/250?cb=20160521194222" tvg-chno="39",Bravo
+http://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/500px-Bloomberg_Television_logo.svg.png?20090501015957" tvg-chno="40",Bloomberg
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+#EXTINF:-1  tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/409efa6e-c69a-4971-ac4e-a2a76dcd02e5/deyuwu3-f7fe27f6-21f1-4279-89c3-9095f6ebe77e.png/v1/fill/w_1280,h_512/fxx_hd_logo__2013_present__by_mattjacks2003_deyuwu3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzQwOWVmYTZlLWM2OWEtNDk3MS1hYzRlLWEyYTc2ZGNkMDJlNS9kZXl1d3UzLWY3ZmUyN2Y2LTIxZjEtNDI3OS04OWMzLTkwOTVmNmViZTc3ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Pr87e4cc1qfkhnl4toTwqn9vcJo4LW3R_FW86yppkvY" tvg-chno="41",FXX
+http://fl1.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" tvg-chno="42",Paramount Network
+http://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.nicepng.com/png/full/134-1341542_discovery-channel-logo-png.png" tvg-chno="43",Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/2560px-Animal_Planet_HD.svg.png" tvg-chno="44",Animal Planet
+https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Golf_channel_hd.png/revision/latest/scale-to-width-down/250?cb=20110408110738" tvg-chno="45",Golf Channel
+https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/HSN_HD_2009.png/revision/latest/scale-to-width-down/250?cb=20230826190812" tvg-chno="46",HSN
+https://fl1.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv5LVwVdCVh43hQHrJ-bWvdadEWpWuyHC4hA&s" tvg-chno="47",TLC
+https://fl1.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1280px-Nick_HD_Logo.svg.png" tvg-chno="48",Nickelodeon
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
