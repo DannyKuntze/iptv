@@ -1,8 +1,8 @@
 #EXTM3U
-Nick Jr.
-MS NOW
-CNN
-TBS
+#EXTINF:-1  tvg-logo="" tvg-chno="",Hallmark Channel
+#EXTINF:-1  tvg-logo="" tvg-chno="",MS NOW
+#EXTINF:-1  tvg-logo="" tvg-chno="",CNN
+#EXTINF:-1  tvg-logo="" tvg-chno="",TBS
 CNBC
 ESPN
 Discovery Channel
@@ -28,3 +28,5 @@ Bravo
 The Weather Channel
 Freeform
 Disney Junior
+PBS Kids
+Nick Jr.
