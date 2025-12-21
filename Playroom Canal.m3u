@@ -97,23 +97,23 @@ https://tvpass.org/live/fanduel-sports-sun/hd
 https://tvpass.org/live/fanduel-sports-tennessee-east/hd
 #EXTINF:-1  tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2021/12/bet-logo-freelogovectors.net_.png" tvg-chno="49",BET
 http://fl1.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest/scale-to-width-down/250?cb=20210104112713" tvg-chno="50",SYFY
+#EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest/scale-to-width-down/250?cb=20210104112713" tvg-chno="50",SYFY
 https://fl31.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="51",USA Network
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="51",USA Network
 http://fl1.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" tvg-chno="52",E!
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" tvg-chno="52",E!
 https://fl61.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/A%26E_logo_2008.svg/revision/latest/scale-to-width-down/250?cb=20250722175801" tvg-chno="53",A&E
+#EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/A%26E_logo_2008.svg/revision/latest/scale-to-width-down/250?cb=20250722175801" tvg-chno="53",A&E
 https://tvpass.org/live/AEEast/hd
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" tvg-chno="54",TBS
+#EXTINF:-1  tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" tvg-chno="54",TBS
 http://212.102.60.231/TBS/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Cartoon_Network_2010_2.svg/revision/latest/scale-to-width-down/800?cb=20220629135653" tvg-chno="55",Cartoon Network
+#EXTINF:-1  tvg-id="CartoonNetwork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Cartoon_Network_2010_2.svg/revision/latest/scale-to-width-down/800?cb=20220629135653" tvg-chno="55",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1  tvg-logo="https://d1.awsstatic.com/PBS_wblue_rgb.aa322b35f29335e2733039fe71c0facdadc7d08f.png" tvg-chno="56",PBS
+#EXTINF:-1  tvg-id="PBS.us@East" tvg-logo="https://d1.awsstatic.com/PBS_wblue_rgb.aa322b35f29335e2733039fe71c0facdadc7d08f.png" tvg-chno="56",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="57",Disney Channel
+#EXTINF:-1  tvg-id="DisneyChannel.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="57",Disney Channel
 http://212.102.60.10/DISNEY/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Nickelodeon%202023.png" tvg-chno="58",Nickelodeon
+#EXTINF:-1  tvg-id="Nickelodeon.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Nickelodeon%202023.png" tvg-chno="58",Nickelodeon
 http://fl31.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-logo="https://logonoid.com/images/hgtv-logo.png" tvg-chno="59",HGTV
 https://fl41.moveonjoy.com/HGTV/index.m3u8
