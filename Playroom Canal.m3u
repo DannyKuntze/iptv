@@ -893,8 +893,8 @@ https://stream1.freetv.fun/fe80d7679ef8047396c4a69bed56b2900b51949b1e0b03ea1586d
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/El_Pais_logo_2007.svg/2560px-El_Pais_logo_2007.svg.png" tvg-chno="447",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Create_TV_network_logo-ezgif.com-crop.png" tvg-chno="448",MPT 2 CREATE
-https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Create_TV_network_logo-ezgif.com-crop.png" tvg-chno="448",CREATE
+https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1  tvg-logo="https://ebstv.tv/wp-content/uploads/2020/10/EBS-Cinema-Logo.png" tvg-chno="449",EBS Cinema
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 #EXTINF:-1  tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" tvg-chno="450",Bejoy Kids
