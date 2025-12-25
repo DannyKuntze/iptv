@@ -1005,8 +1005,8 @@ https://stream1.freetv.fun/kix--a-1.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="503",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="504",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="504",A1
+http://31.148.48.15:80/A1/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="505",Sony Cine
 https://stream1.freetv.fun/28c6b01e608986a80620e2eeb0108cb7e496e98fd4b0717c2573163178e3ab96.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" tvg-chno="506",Crave 1
@@ -1041,8 +1041,8 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="521",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="522",
-
+#EXTINF:-1  tvg-logo="https://i.imgur.com/chNBF5t.png" tvg-chno="522",C1
+https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="523",CBN Family
 https://stream1.freetv.fun/2a769f11b24bf28b196211e744e352356cdaef230e251c9d79b6645970627cab.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="524",
@@ -1073,8 +1073,8 @@ https://c.mjh.nz/abc-me.m3u8
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tvo_logo.svg/374px-Tvo_logo.svg.png?20141205074316" tvg-chno="537",TVO
 https://stream1.freetv.fun/67561214fcd2dfce284032268ff5c8c410de9ac7de416184e5f2cb22ca54c874.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="538",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="538",O-La-La!
+http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="539",Sky News Now
 https://stream1.freetv.fun/21462f7124b588d69052e03b25db0339df598a912280611e7908568a1012404d.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="540",Clan
