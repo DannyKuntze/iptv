@@ -7,5 +7,5 @@ http://212.102.60.10/CNN/index.m3u8
 #EXTINF:-1  tvg-id="DisneyChannel.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="57",Disney Channel
 http://fl1.moveonjoy.com/DISNEY/index.m3u8
 
-#EXTINF:-1  tvg-id="PBSKids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/250px-PBS_Kids_logo_%282022%29.svg.png" tvg-chno="534",PBS Kids
+#EXTINF:-1  tvg-id="PBSKids.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/PBS_Kids_logo_(2022).svg.png" tvg-chno="534",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
