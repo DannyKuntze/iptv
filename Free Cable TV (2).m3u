@@ -6,6 +6,8 @@ http://212.102.60.10/CNN/index.m3u8
 
 #EXTINF:-1  tvg-id="DisneyChannel.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="57",Disney Channel
 http://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" tvg-chno="22",Fox News Channel
+https://fl31.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
 
 #EXTINF:-1  tvg-id="Nickelodeon.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Nickelodeon%202023.png" tvg-chno="58",Nickelodeon
