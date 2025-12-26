@@ -211,8 +211,8 @@ https://live1.mediadesk.al/oranews.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="106",TVE RS
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="107",CPAC (EN)
-https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/dccsFAu.png" tvg-chno="107",Nika TV
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="108",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1  tvg-logo="https://logo.m3uassets.com/icitv.png" tvg-chno="109",ICI Télé HD
@@ -797,9 +797,9 @@ https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="399",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="400",Nizhniy Novgorod 24
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZWgPVIC.png" tvg-chno="400",Nizhniy Novgorod 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="401",Channel 12
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OA9hm6e.png" tvg-chno="401",Channel 12
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="402",
 
@@ -1045,8 +1045,8 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="523",CBN Family
 https://stream1.freetv.fun/2a769f11b24bf28b196211e744e352356cdaef230e251c9d79b6645970627cab.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="524",
-
+#EXTINF:-1  tvg-logo="https://i.imgur.com/CTFVEAb.png" tvg-chno="524",Aris 24
+serv25.vintera.tv:8081/test/aris/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://logo.m3uassets.com/abcentertains.png" tvg-chno="525",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="526",
@@ -1067,8 +1067,8 @@ https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="534",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="535",
-
+#EXTINF:-1  tvg-logo="https://i.imgur.com/blAtdkJ.png" tvg-chno="535",Arkhyz 24
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="536",Latin Zone TV
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tvo_logo.svg/374px-Tvo_logo.svg.png?20141205074316" tvg-chno="537",TVO
