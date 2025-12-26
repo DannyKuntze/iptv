@@ -19,5 +19,5 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" tvg-chno="59",HGTV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/iptv/refs/heads/master/HGTV_2010.png" tvg-chno="59",HGTV
 https://fl41.moveonjoy.com/HGTV/index.m3u8
