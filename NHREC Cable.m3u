@@ -32,25 +32,25 @@
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BET_HD_2008.svg/revision/latest/scale-to-width-down/800?cb=20201220192852" tvg-chno="16",BET
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Comedy_Central_HD_2009.svg/revision/latest?cb=20210604160607" tvg-chno="17",Comedy Central
-
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/History_HD_2015_logo.png/revision/latest/scale-to-width-down/250?cb=20150626181747" tvg-chno="18",History Channel
-
+https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/TNT_HD.png/800px-TNT_HD.png" tvg-chno="19",TNT
-
+http://fl61.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1  tvg-logo="https://logos.fandom.com/wiki/NFL_Network" tvg-chno="20",NFL Network
-
+http://212.102.60.231/NFL_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_HD_logo.svg" tvg-chno="21",Cartoon Network
-
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/2f/Disney_channel_de_hd.png" tvg-chno="22",Disney Channel
-
+http://212.102.60.10/DISNEY/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Travel_Channel_HD_Logo.png/1200px-Travel_Channel_HD_Logo.png" tvg-chno="23",Travel Channel
-
+https://tvpass.org/live/TravelChannelEast/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/MTV_HD_Logo_2015.png" tvg-chno="24",MTV
-
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png" tvg-chno="25",SYFY
-
+https://fl31.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/HGTV_HD_Blue.png/revision/latest/scale-to-width-down/250?cb=20220925232817" tvg-chno="26",HGTV
-
+https://fl41.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TV_Land_2012.svg/revision/latest/scale-to-width-down/300?cb=20180306032653" tvg-chno="27",TV Land
 https://fl1.moveonjoy.com/TV_LAND/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/2560px-AXS_TV_logo.svg.png" tvg-chno="28",Axs TV
