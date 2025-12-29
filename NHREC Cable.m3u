@@ -24,13 +24,13 @@
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/MS_NOW_logo.svg" tvg-chno="12",MS NOW
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/2560px-Nat_Geo_HD_Logo.svg.png" tvg-chno="13",National Geographic
-
+https://fl31.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzlzg14jNebM23AYYDOl1qMPf9h3SfpCT4g&s" tvg-chno="14",C-SPAN
-
+http://fl7.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/E%21_HD_2012.svg/revision/latest/scale-to-width-down/250?cb=20221216014328" tvg-chno="15",E!
-
+https://fl61.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BET_HD_2008.svg/revision/latest/scale-to-width-down/800?cb=20201220192852" tvg-chno="16",BET
-
+http://fl1.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Comedy_Central_HD_2009.svg/revision/latest?cb=20210604160607" tvg-chno="17",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/History_HD_2015_logo.png/revision/latest/scale-to-width-down/250?cb=20150626181747" tvg-chno="18",History Channel
