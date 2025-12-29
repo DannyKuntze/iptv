@@ -54,7 +54,7 @@
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TV_Land_2012.svg/revision/latest/scale-to-width-down/300?cb=20180306032653" tvg-chno="27",TV Land
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/2560px-AXS_TV_logo.svg.png" tvg-chno="28",Axs TV
-
+http://fl1.moveonjoy.com/Axs_TV/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/CNN_International_HD.png" tvg-chno="29",CNN
 http://212.102.60.10/CNN/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/VH1-HD-Brasil.svg/revision/latest?cb=20210520001600" tvg-chno="30",VH1
