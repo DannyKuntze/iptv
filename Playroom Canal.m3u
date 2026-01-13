@@ -683,8 +683,8 @@ https://live.mediacdn.ru/sr1/sever/playlist.m3u8
 https://stream1.freetv.fun/94981ff94897f240024f449c3dc8e4ab069c2e2e0f45e368b84b2aba97df1155.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="342",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="343",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="343",30A Investment Pitch Florida
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/UhqgvVW.png" tvg-chno="344",Bravo! Kids
 https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="345",Animax
@@ -1599,8 +1599,8 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1  tvg-logo="" tvg-chno="800",TGRT Haber
 https://stream1.freetv.fun/3b61135bdb9acbba245c79a69195f95caa25ce9c0b259f9d6fab02c37be90cc5.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="801",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="801",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="802",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="803",
