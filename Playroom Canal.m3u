@@ -795,8 +795,8 @@ https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="398",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="399",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="399",Buena Park Television
+https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/ZWgPVIC.png" tvg-chno="400",Nizhniy Novgorod 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/OA9hm6e.png" tvg-chno="401",Channel 12
@@ -1167,8 +1167,8 @@ https://stream1.freetv.fun/db24efca9ad3cdad0f547bd8f80651f73e5c027531af4156a7011
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://logo.m3uassets.com/ebskids.png" tvg-chno="584",EBS Kids
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="585",
-
+#EXTINF:-1  tvg-logo="https://ehq-production-us-california.imgix.net/291e84a679504eb82defbe56b9052ceaeb81db39/original/1694454280/1eb85e4aba5fa625635526273a2c8cb4_Medium_White_Wide_Logo_w_transparent_background.png?1694454280?auto=format&auto=compress&h=1500&w=1500&max-w=2500&min-w=1500" tvg-chno="585",Champaign Government Television
+https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="586",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="587",
@@ -1993,8 +1993,8 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 https://stream1.freetv.fun/96b1246e3e15b7b56ba1fc8effa85cdadbfdbf89b40209a7b6f3e2061e1770dc.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="997",Vinilos TV
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="998",MCN6 Comedy
-https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="998",
+
 #EXTINF:-1  tvg-logo="" tvg-chno="999",WCGTV
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 #EXTINF:-1  tvg-logo="https://partner.complex.com/complex-originals-show-casting-call/assets/images/complex-logo-white.png" tvg-chno="1000",Complex
