@@ -633,8 +633,8 @@ http://iptv888.aibot408.qzz.io/s.php?id=yoyo_twn/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TV_Tokyo_logo_2023_en.svg/2560px-TV_Tokyo_logo_2023_en.svg.png" tvg-chno="317",TV Tokyo
 https://mt01.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="318",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="318",7 Storia
+https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="319",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="320",
@@ -685,8 +685,8 @@ https://stream1.freetv.fun/94981ff94897f240024f449c3dc8e4ab069c2e2e0f45e368b84b2
 
 #EXTINF:-1  tvg-logo="" tvg-chno="343",30A Investment Pitch Florida
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/UhqgvVW.png" tvg-chno="344",
-
+#EXTINF:-1  tvg-logo="https://i.imgur.com/UhqgvVW.png" tvg-chno="344",Kan Kids
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="345",Animax
 https://stream1.freetv.fun/4b2d7d25612f95816a5365d02b1be8b73e8e45098f98aa0a34e6cecde8465621.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="346",
@@ -767,8 +767,8 @@ https://stream1.freetv.fun/4b2d7d25612f95816a5365d02b1be8b73e8e45098f98aa0a34e6c
 
 #EXTINF:-1  tvg-logo="" tvg-chno="384",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="385",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="385",NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="386",Pardesi TV
 http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="387",Báichéng Xīnwén Zònghé
@@ -1315,8 +1315,8 @@ https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
 https://stream1.freetv.fun/desire-1.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="658",Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="659",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="659",WPS TV
+https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="660",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="661",
@@ -1555,8 +1555,8 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="778",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="779",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="779",Manas
+212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="780",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="781",
@@ -1799,8 +1799,8 @@ https://stream1.freetv.fun/fbda142049a66f5c4cd9b1f8125e67ec5a670ba547c07c7309d02
 
 #EXTINF:-1  tvg-logo="" tvg-chno="900",Test Program Time
 https://mtoczko.github.io/hls-test-streams/test-program-time/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="901",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="901",Cloudfare TV
+https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="902",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="903",
