@@ -1601,8 +1601,8 @@ https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pla
 https://stream1.freetv.fun/3b61135bdb9acbba245c79a69195f95caa25ce9c0b259f9d6fab02c37be90cc5.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="801",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="802",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="802",Clan Internacional Americas
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="803",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="804",
