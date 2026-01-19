@@ -59,3 +59,5 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 http://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1  tvg-name="MSNBC" tvg-id="msnbc-usa" tvg-logo="https://www.seekpng.com/png/full/953-9531485_msnbc-msnbc-logo-transparent.png" tvg-chno="37",MS NOW
 http://fl1.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1  tvg-id="DisneyChannel.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="57",Disney Channel
+http://212.102.60.10/DISNEY/index.m3u8
