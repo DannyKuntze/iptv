@@ -1,2 +1,5 @@
 {
-  "id": "pbs.us@East",
+  "Id": "pbs.us@East",
+  "Name": "PBS",
+  "Country": "US",
+  "Languages": "eng",
