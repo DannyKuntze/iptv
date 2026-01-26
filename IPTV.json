@@ -3,3 +3,11 @@
   "Name": "PBS",
   "Country": "US",
   "Languages": "eng",
+  "Categories": "education",
+  "Website": "https://www.pbs.org/,
+  "Steams": [
+    {
+      "Url": "https://pbs.lls.cdn.pbs.org/est/index.m3u8"
+    }
+  ] 
+}
