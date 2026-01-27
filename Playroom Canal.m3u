@@ -897,8 +897,8 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1  tvg-logo="https://ebstv.tv/wp-content/uploads/2020/10/EBS-Cinema-Logo.png" tvg-chno="449",EBS Cinema
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
-#EXTINF:-1  tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" tvg-chno="450",Bejoy Kids
-https://stream1.freetv.fun/b239e32037b52b5cd49f161becb0c7d8b0aade19920c7bab0abd3481c96fef2a.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="450",
+
 #EXTINF:-1  tvg-logo="" tvg-chno="451",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="452",
@@ -977,8 +977,8 @@ https://stream1.freetv.fun/kix--a-1.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="489",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="490",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="490",Home+
+https://t.freetv.fun/live/home-plus.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="491",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="492",
@@ -1489,8 +1489,8 @@ https://zfmzoetermeer.nl/live/master.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="745",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="746",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="746",World Fashion Channel
+https://t.freetv.fun/live/world-fashion-channel-en.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="747",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="748",
