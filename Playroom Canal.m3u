@@ -1397,8 +1397,8 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="699",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="700",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="700",ZFM Zoetermeer
+https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="701",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="702",
@@ -1707,8 +1707,8 @@ https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e
 
 #EXTINF:-1  tvg-logo="" tvg-chno="854",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="855",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="855",WOS
+https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="856",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="857",
@@ -1889,8 +1889,8 @@ https://stream1.freetv.fun/a601b221a3c38edb5d985d354f9fa10e3f1e8bbce3cfe06069a31
 
 #EXTINF:-1  tvg-logo="" tvg-chno="945",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="946",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="946",RTV 4
+https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="947",NBC News Now
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="948",
