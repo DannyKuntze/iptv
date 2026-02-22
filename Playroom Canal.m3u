@@ -670,7 +670,7 @@ https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="335",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" tvg-chno="336",Cinemax HDTV
-http://212.102.60.231/CINEMAX/index.m3u8
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e7/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80_1_%28%D0%B1%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D0%B8%29.png/revision/latest/scale-to-width-down/250?cb=20220831094544&path-prefix=ru" tvg-chno="337",Север
 https://live.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="338",
