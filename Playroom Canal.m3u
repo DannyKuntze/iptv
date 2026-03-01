@@ -396,7 +396,7 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="198",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="199",
-
+o
 #EXTINF:-1  tvg-logo="" tvg-chno="200",AWE Encore
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="201",
@@ -1425,8 +1425,8 @@ https://zfmzoetermeer.nl/live/master.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="713",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="714",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="714",4teen Kids
+http://ch14.tv/live/ch4teenkids/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="715",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="716",
