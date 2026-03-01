@@ -677,8 +677,8 @@ https://live.mediacdn.ru/sr1/sever/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="339",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="340",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="340",CityTV
+https://dvrfl04.tulix.tv/teleup-citytv/mpegts
 #EXTINF:-1  tvg-logo="" tvg-chno="341",Radio TV 51
 https://stream1.freetv.fun/94981ff94897f240024f449c3dc8e4ab069c2e2e0f45e368b84b2aba97df1155.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="342",Midpen Media Center Youth Education and Sports Channel 28
