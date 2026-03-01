@@ -7,7 +7,7 @@ http://212.102.60.10/CNN/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TLC_DE.svg/revision/latest?cb=20250214235130" tvg-chno="73",TLC
 https://fl61.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1  tvg-id="DisneyChannel.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="57",Disney Channel
-http://fl1.moveonjoy.com/DISNEY/index.m3u8
+https://dvrfl04.tulix.tv/teleup-citytv/mpegts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" tvg-chno="22",Fox News Channel
 http://5gott.one:80/112233/332211/607788
 
