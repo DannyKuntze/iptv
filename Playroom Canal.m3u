@@ -18,9 +18,9 @@ http://104.255.88.155/cnn/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-name="ESPN" tvg-chno="9",ESPN
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spectrum_Sportsnet_logo.png" tvg-chno="10",Spectrum Sportsnet Lakers
-https://tvpass.org/live/spectrum-sportsnet/hd
+http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlPKoTv6c3fr-jpx5NN3fVtiCKTRDXlurrf6qAW9nurK1
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spectrum_Sportsnet_logo.png" tvg-chno="11",Spectrum SportsNet Los Angeles
-https://tvpass.org/live/spectrum-sportsnet-la/hd
+http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlHc2t17BsDFsi4ZByFc5d2FS8FcTtIzgb6VOv8DbpMbK
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/1200px-QVC_logo_2019.svg.png" tvg-name="QVC" tvg-chno="12",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" tvg-chno="13",Lifetime
