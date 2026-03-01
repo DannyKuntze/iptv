@@ -48,7 +48,7 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" tvg-chno="24",Freeform
 http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlL6bQPfrSRp6Y1gPvvtkTjV7wldHJp1WGrKa_vE3P6kx
 #EXTINF:-1  tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-chno="25",AMC
-http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlN1oJNu9pJq-UKdtYdYJpdDx2tmPKfxLm-tnrwUHMOcm
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1024px-MTV_2021_%28brand_version%29.svg.png" tvg-chno="26",MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/NicePng_bindi-designs-png_8310067.png" tvg-chno="27",Animal Planet
@@ -56,7 +56,7 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/512px-MS_NOW_logo.svg.png" tvg-chno="28",MS NOW
 http://104.255.88.155/msnbc/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1200px-C-SPAN_Logo_%282019%29.svg.png" tvg-chno="29",C-SPAN
-http://fl7.moveonjoy.com/C-SPAN/index.m3u8
+http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlJFlsmO4eEWXlJolIwe8l8NCleNme1mT80_t_88VnQIj
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="30",Fanduel Sports Indiana
 https://tvpass.org/live/fanduel-sports-indiana/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="31",Fanduel Sports Network Detroit
