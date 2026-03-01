@@ -165,7 +165,7 @@ https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://logo.m3uassets.com/beachtvpanamacity.png" tvg-chno="83",Beach TV Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://logo.m3uassets.com/lakewoodchannel8.png" tvg-chno="84",Lakewood Coloado
+#EXTINF:-1  tvg-logo="https://i.imgur.com/CyQ472C.png" tvg-chno="84",SLO County Channel 21
 https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://logo.m3uassets.com/lakewoodchannel8.png" tvg-chno="85",Lakewood CityTV
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
@@ -1557,7 +1557,7 @@ https://t.freetv.fun/live/world-fashion-channel-en.m3u8
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="779",Manas
 https://212.42.111.152:8080/hls/manas.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="780",
+#EXTINF:-1  tvg-logo="" tvg-chno="780",ETV
 https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="781",
 
