@@ -471,10 +471,10 @@ https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="236",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="237",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="238",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="237",MyTime Movie Network
+https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="238",Mytime Movies
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="239",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="240",
@@ -1893,8 +1893,8 @@ https://stream1.freetv.fun/a601b221a3c38edb5d985d354f9fa10e3f1e8bbce3cfe06069a31
 https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="947",NBC News Now
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="948",
-
+#EXTINF:-1  tvg-logo="https://i.imgur.com/zr6KoiS.jpg" tvg-chno="948",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="949",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="950",
