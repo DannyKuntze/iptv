@@ -9,7 +9,7 @@ https://tvpass.org/live/sportsnet-one/hd
 https://tvpass.org/live/sportsnet-ontario/hd
 #EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="5",Sportsnet Pacific
 https://tvpass.org/live/sportsnet-pacific/hd
-#EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="6",Sportsnet Pittsburgh
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/SportsNet_Pittsburgh_2023_stacked.png" tvg-chno="6",Sportsnet Pittsburgh
 https://tvpass.org/live/sportsnet-pittsburgh/hd
 #EXTINF:-1  tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="7",Sportsnet West
 https://stream.decentdoubts.net/705/index.m3u8
