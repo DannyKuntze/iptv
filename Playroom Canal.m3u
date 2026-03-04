@@ -1711,8 +1711,8 @@ https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e
 https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="856",4 Fun Kids TV
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="857",
-
+#EXTINF:-1  tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" tvg-chno="857",Sidewalks
+https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="858",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="859",
@@ -1909,8 +1909,8 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="955",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="956",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="956",New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="957",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="958",
