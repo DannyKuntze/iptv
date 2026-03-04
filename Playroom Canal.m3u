@@ -24,13 +24,13 @@ http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlHc2t17BsDFsi4ZByFc5d2FS8FcTtI
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/1200px-QVC_logo_2019.svg.png" tvg-name="QVC" tvg-chno="12",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" tvg-chno="13",Lifetime
-https://fl41.moveonjoy.com/LIFETIME/index.m3u8
+http://41.205.93.154/LIFETIME/mpeg.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-name="FOOD" tvg-chno="14",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="15",Bravo
 http://104.255.88.155/bravo/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-chno="16",CNBC
-https://fl1.moveonjoy.com/CNBC/index.m3u8
+http://41.205.93.154/CNBC/mpegts
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/FX_%28light_cyan%29.svg/revision/latest/scale-to-width-down/250?cb=20241220175648" tvg-chno="17",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="18",Discovery Channel
@@ -56,7 +56,7 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/512px-MS_NOW_logo.svg.png" tvg-chno="28",MS NOW
 http://104.255.88.155/msnbc/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1200px-C-SPAN_Logo_%282019%29.svg.png" tvg-chno="29",C-SPAN
-http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlJFlsmO4eEWXlJolIwe8l8NCleNme1mT80_t_88VnQIj
+http://41.205.93.154/CSPAN1/mpegts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="30",Fanduel Sports Indiana
 https://tvpass.org/live/fanduel-sports-indiana/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="31",Fanduel Sports Network Detroit
@@ -441,8 +441,8 @@ https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="221",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="222",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="222",BBC ONE LONDON
+http://41.205.93.154/BBCONE/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="223",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="224",
