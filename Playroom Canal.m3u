@@ -112,7 +112,7 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-id="PBS.us@East" tvg-logo="https://d1.awsstatic.com/PBS_wblue_rgb.aa322b35f29335e2733039fe71c0facdadc7d08f.png" tvg-chno="56",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-id="DisneyChannel.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-name="DISNEY" tvg-chno="57",Disney Channel
-http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlJA8LB_L9VhEmfWrvZcgGk4pESOORFokdw89PDQpFkgl
+http://89.105.221.127/Disney/mpegts?token=test
 #EXTINF:-1  tvg-id="Nickelodeon.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Nickelodeon%202023.png" tvg-name="NICK" tvg-chno="58",Nickelodeon
 http://cord-cutter.net:8080/DepZh0/111853/38
 #EXTINF:-1  tvg-logo="https://logonoid.com/images/hgtv-logo.png" tvg-chno="59",HGTV
