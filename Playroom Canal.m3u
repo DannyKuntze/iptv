@@ -46,7 +46,7 @@ http://104.255.88.155/foxnews/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" tvg-name="CC" tvg-chno="23",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" tvg-chno="24",Freeform
-http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlL6bQPfrSRp6Y1gPvvtkTjV7wldHJp1WGrKa_vE3P6kx
+https://dvrfl04.tulix.tv/teleup-freeform/mpegts
 #EXTINF:-1  tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-chno="25",AMC
 http://epicboss.live:80/bjune@teksavvy.com/5193594414/12216
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1024px-MTV_2021_%28brand_version%29.svg.png" tvg-chno="26",MTV
