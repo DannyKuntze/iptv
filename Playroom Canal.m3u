@@ -1861,10 +1861,10 @@ http://206.212.244.47:8080/live/DRIPTV0021/TDi6gVVnTs/215689.m3u8
 https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="931",WFMZ PennST camera
 https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="932",
-
-#EXTINF:-1  tvg-logo="" tvg-chno="933",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="932",WFMZ Traffic
+https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="933",WFMZ Tower Cam
+https://cdn.jaybirdtv.com/wfmz/channel/8/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="934",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="935",
