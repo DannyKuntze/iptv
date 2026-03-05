@@ -118,13 +118,13 @@ http://cord-cutter.net:8080/DepZh0/111853/38
 #EXTINF:-1  tvg-logo="https://logonoid.com/images/hgtv-logo.png" tvg-chno="59",HGTV
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/62492
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Axs_logo.svg/1280px-Axs_logo.svg.png" tvg-name="AXS" tvg-chno="60",AXS TV HD
-http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlNdpp-ETQ2F4-UVHi9OzBcg
+http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HLN_2023.svg/revision/latest/scale-to-width-down/250?cb=20230629003509" tvg-chno="61",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/223-2230265_advertise-on-h-mark-channel-comcast-spotlight-advertising.png" tvg-name="HLLMRK" tvg-chno="62",Hallmark Channel
 http://104.255.88.155/hallmark/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/142-1427918_golf-channel-logo-png.png" tvg-name="GOLF" tvg-chno="63",Golf Channel
-https://fl31.moveonjoy.com/GOLF/index.m3u8
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" tvg-name="NATGEO" tvg-chno="64",National Geographic
 https://fl31.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV_Land_2015.svg/revision/latest/scale-to-width-down/800?cb=20150702234449" tvg-name="TVLAND" tvg-chno="65",TV Land
