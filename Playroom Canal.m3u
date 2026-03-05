@@ -1399,8 +1399,8 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="700",ZFM Zoetermeer
 https://zfmzoetermeer.nl/live/master.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="701",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="701",Pornbox
+http://206.212.244.47:8080/live/DRIPTV0021/TDi6gVVnTs/160048.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="702",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="703",
@@ -1855,8 +1855,8 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="928",Tele Proyecto TV
 https://stream1.freetv.fun/bbb4a4d8580525e976faf23c5bcb1b98e3187b99f519a7fbfdfb5cf41c8a4977.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="929",Biznet Kids
-https://stream1.freetv.fun/a601b221a3c38edb5d985d354f9fa10e3f1e8bbce3cfe06069a31d34aad95db0.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="929",X4
+http://206.212.244.47:8080/live/DRIPTV0021/TDi6gVVnTs/215689.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="930",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="931",
