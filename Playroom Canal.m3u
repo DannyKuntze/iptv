@@ -685,8 +685,8 @@ https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3
 https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="343",30A Investment Pitch Florida
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/UhqgvVW.png" tvg-chno="344",Kan Kids
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="344",Xumo Free Kids TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_channelId=99991107
 #EXTINF:-1  tvg-logo="" tvg-chno="345",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="346",Mobile County Public Schools TV Network
