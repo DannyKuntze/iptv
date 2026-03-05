@@ -679,8 +679,8 @@ https://live.mediacdn.ru/sr1/sever/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="340",CityTV
 https://dvrfl04.tulix.tv/teleup-citytv/mpegts
-#EXTINF:-1  tvg-logo="" tvg-chno="341",
-
+#EXTINF:-1  tvg-logo="https://i.imgur.com/EhISpCd.png" tvg-chno="341",PTL Television Network
+https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="342",Midpen Media Center Youth Education and Sports Channel 28
 https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="343",30A Investment Pitch Florida
