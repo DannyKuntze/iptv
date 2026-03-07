@@ -179,8 +179,8 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/ezgif.com-crop%20(7).png" tvg-chno="90",NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/vfdN5Xl.png" tvg-chno="91",Always Funny Videos
-https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="91",
+
 #EXTINF:-1  tvg-logo="https://logo.m3uassets.com/pursuitup.png" tvg-chno="92",Pursuit Up
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://logo.m3uassets.com/hollywire.png" tvg-chno="93",HollyWire
