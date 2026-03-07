@@ -1185,7 +1185,7 @@ https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-chno="593",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="594",
+#EXTINF:-1  tvg-logo="" tvg-chno="594",GubBare
 http://103.180.212.191:3500/live/3385.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="595",
 
@@ -1286,7 +1286,7 @@ http://protzpwcf1.top:8080/pro5231767121989/a2992109dbc7/800
 #EXTINF:-1  tvg-logo="" tvg-chno="643",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="644",
-
+119.152.240.15:8000/play/a0i1/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="645",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="646",
