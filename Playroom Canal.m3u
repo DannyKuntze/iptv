@@ -1186,7 +1186,7 @@ https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="593",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="594",
-
+http://103.180.212.191:3500/live/3385.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="595",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="596",
