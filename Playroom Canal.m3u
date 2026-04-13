@@ -116,7 +116,7 @@ http://89.105.221.127/Disney/mpegts?token=test
 #EXTINF:-1  tvg-id="Nickelodeon.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Nickelodeon%202023.png" tvg-name="NICK" tvg-chno="58",Nickelodeon
 http://cord-cutter.net:8080/DepZh0/111853/38
 #EXTINF:-1  tvg-logo="https://logonoid.com/images/hgtv-logo.png" tvg-chno="59",HGTV
-http://84.17.50.102/hgtv/mpegts
+http://tvpass.org/live/HGTVEast/hd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Axs_logo.svg/1280px-Axs_logo.svg.png" tvg-name="AXS" tvg-chno="60",AXS TV HD
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HLN_2023.svg/revision/latest/scale-to-width-down/250?cb=20230629003509" tvg-chno="61",HLN
