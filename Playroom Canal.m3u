@@ -675,8 +675,8 @@ http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 https://live.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="338",
 
-#EXTINF:-1  tvg-logo="" tvg-chno="339",
-
+#EXTINF:-1  tvg-logo="" tvg-chno="339",Hustler TV
+http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/1064/manifest.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="340",CityTV
 https://dvrfl04.tulix.tv/teleup-citytv/mpegts
 #EXTINF:-1  tvg-logo="https://i.imgur.com/EhISpCd.png" tvg-chno="341",PTL Television Network
@@ -980,7 +980,7 @@ https://stream1.freetv.fun/kix--a-1.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="490",Home+
 https://t.freetv.fun/live/home-plus.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="491",Baby TV 
-http://supersonictv.live:8080/864072/196529/21790
+http://41.205.93.154/BABY-TV/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="492",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="493",
