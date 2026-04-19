@@ -1777,8 +1777,8 @@ https://stream1.freetv.fun/af8e92d8c942e2db2169723a06980578a77ec1d4bc1f9d46e506d
 
 #EXTINF:-1  tvg-logo="" tvg-chno="889",VTV1
 https://stream1.freetv.fun/bfdf873bf013faad453775a7093343b171bbabec7a94735f1c8b6e2f906d4396.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="890",Pluto TV Sitcoms
-https://stream1.freetv.fun/fbda142049a66f5c4cd9b1f8125e67ec5a670ba547c07c7309d02ce3379427b2.m3u8
+#EXTINF:-1  tvg-logo="" tvg-chno="890",Home Network
+http://161.129.178.5/hgtv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="891",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="892",
