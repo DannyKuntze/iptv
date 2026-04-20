@@ -8,7 +8,7 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-id="DisneyChannel.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Disney_Channel_2017.svg/revision/latest/scale-to-width-down/1000?cb=20220617131618" tvg-chno="57",Disney Channel
 http://89.105.221.127/Disney/mpegts?token=test
 #EXTINF:-1  tvg-id="DisneyJunior.us" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/1200?cb=20240206232316" tvg-chno="",Disney Junior
-http://89.105.221.127/DisneyJr/index.m3u8?token=test
+http://84.17.50.102/disneyjunior/index.m3u8
 #EXTINF:-1  tvg-id="DisneyXD.us" tvg-logo="" tvg-chno="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1280px-2015_Disney_XD_logo.svg.png",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1  tvg-name="PBS Kids" tvg-id="pbskids.us" tvg-logo="https://static.wikia.nocookie.net/unanything/images/8/8a/606c9dca44e146b7e7cf34982e70ef96.png/revision/latest?cb=20210401004430",PBS Kids
