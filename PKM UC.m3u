@@ -13,8 +13,10 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+http://89.105.221.127/DisneyJr/index.m3u8?token=test
 #EXTINF:-1  tvg-id="DisneyChannel.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Disney_Channel_2017.svg/revision/latest/scale-to-width-down/1000?cb=20220617131618" tvg-chno="57",Disney Channel
 http://89.105.221.127/Disney/mpegts?token=test
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1  tvg-name="DISCOVERY" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="10",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1  tvg-name="Food Network" tvg-id="food-network-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="27",Food Network
