@@ -18,6 +18,10 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
 http://212.102.60.231/NICKTOONS/index.m3u8
 
+http://nor1live.win/livehttpplay?channel_id=23099
+
+http://84.17.50.102/nickjr/index.m3u8
+
 http://8.243.126.131:8000/play/a0jo/index.m3u8
 #EXTINF:-1  tvg-id="DisneyJunior.us" 
 http://89.105.221.127/DisneyJr/index.m3u8?token=test
