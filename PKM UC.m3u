@@ -1,12 +1,12 @@
 ﻿#EXTM3U
 #EXTINF:-1. tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfmyqdl-baf28117-edb9-474c-9427-6073067b2c80.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81MmM3NDY1OS0xNTFjLTRhMWUtOWVhZi1iMjBmYjQxMDZmZjEvZGZteXFkbC1iYWYyODExNy1lZGI5LTQ3NGMtOTQyNy02MDczMDY3YjJjODAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s29mZguc73DoQmVJmZeGgoHFE20Vjrl9suxLyQEu784",NBC
-http://xxip25.top:8080/zC3Eby/245776/120822
+http://89.187.178.197:1970/NBCHouston/index.m3u8
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1024px-ABC-2021-LOGO.svg.png",ABC
-https://stream.cammonitorplus.net/1770/index.m3u8
+http://89.187.178.197:1970/ABCGreenBay/index.m3u8
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1024px-FOX_wordmark.svg.png",FOX
-https://fl1.moveonjoy.com/FOX/index.m3u8
+http://89.187.178.197:1970/FOXGreenBay/index.m3u8
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/2560px-CBS_2020_%28Blue%29.svg.png",CBS
-https://stream.cammonitorplus.net/1775/index.m3u8
+http://89.187.178.197:1970/CBSGreenBay/index.m3u8
 #EXTINF:-1  tvg-name="PBS" tvg-id="pbs.us@east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
