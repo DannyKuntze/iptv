@@ -1,10 +1,12 @@
 ﻿#EXTM3U
-
+#EXTINF:-1  tvg-id="mynetworktv.us" tvg-logo="" tvg-chno="",MyNetworkTV
 37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
 #EXTINF:-1. tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfmyqdl-baf28117-edb9-474c-9427-6073067b2c80.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81MmM3NDY1OS0xNTFjLTRhMWUtOWVhZi1iMjBmYjQxMDZmZjEvZGZteXFkbC1iYWYyODExNy1lZGI5LTQ3NGMtOTQyNy02MDczMDY3YjJjODAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s29mZguc73DoQmVJmZeGgoHFE20Vjrl9suxLyQEu784",NBC
 http://89.187.178.197:1970/NBCHouston/index.m3u8
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1024px-ABC-2021-LOGO.svg.png",ABC
 http://89.187.178.197:1970/ABCGreenBay/index.m3u8
+#EXTINF:-1  tvg-id="cw.us" tvg-logo="" tvg-chno="",CW
+http://origin.thetvapp.to/hls/cw-wdcw-district-of-columbia/mono.m3u8
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1024px-FOX_wordmark.svg.png",FOX
 http://89.187.178.197:1970/FOXGreenBay/index.m3u8
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/2560px-CBS_2020_%28Blue%29.svg.png",CBS
@@ -15,23 +17,23 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
 #EXTINF:-1  tvg-id="CartoonNetwork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Cartoon_Network_2010_2.svg/revision/latest/scale-to-width-down/800?cb=20220629135653" tvg-name="CARTOON" tvg-chno="55",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1  tvg-id="boomerang.us" tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-id="boomerang.us" tvg-logo="" tvg-chno="",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1  tvg-id="nicktoons.us" tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-id="nicktoons.us" tvg-logo="" tvg-chno="", Nicktoons
 http://212.102.60.231/NICKTOONS/index.m3u8
-#EXTINF:-1  tvg-id="teennick.us" tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-id="teennick.us" tvg-logo="" tvg-chno="", TeenNick
 http://nor1live.win/livehttpplay?channel_id=23099
-#EXTINF:-1  tvg-id="nickjr.us" tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-id="nickjr.us" tvg-logo="" tvg-chno="",Nick Jr.
 http://84.17.50.102/nickjr/index.m3u8
-#EXTINF:-1  tvg-id="babyfirst.us" tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-id="babyfirst.us" tvg-logo="" tvg-chno="", Babyfirst TV
 http://8.243.126.131:8000/play/a0jo/index.m3u8
-#EXTINF:-1  tvg-id="DisneyJunior.us" tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-id="DisneyJunior.us" tvg-logo="" tvg-chno="",Disney Junior
 http://89.105.221.127/DisneyJr/index.m3u8?token=test
 #EXTINF:-1  tvg-id="DisneyChannel.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Disney_Channel_2017.svg/revision/latest/scale-to-width-down/1000?cb=20220617131618" tvg-chno="57",Disney Channel
 http://89.105.221.127/Disney/mpegts?token=test
-#EXTINF:-1  tvg-id="DisneyXD.us" tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-id="DisneyXD.us" tvg-logo="" tvg-chno="",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1  tvg-name="DISCOVERY" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="10",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
