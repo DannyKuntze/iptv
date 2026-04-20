@@ -1,4 +1,28 @@
 ﻿#EXTM3U
+#EXTINF:-1  tvg-name="PBS Kids" tvg-id="pbskids.us" tvg-logo="https://static.wikia.nocookie.net/unanything/images/8/8a/606c9dca44e146b7e7cf34982e70ef96.png/revision/latest?cb=20210401004430",PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
+#EXTINF:-1  tvg-id="CartoonNetwork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Cartoon_Network_2010_2.svg/revision/latest/scale-to-width-down/800?cb=20220629135653" tvg-name="CARTOON" tvg-chno="55",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1  tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" tvg-chno="",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1  tvg-id="babyfirst.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BabyFirstTV.png/revision/latest?cb=20151027180337" tvg-chno="",Babyfirst TV
+http://8.243.126.131:8000/play/a0jo/index.m3u8
+#EXTINF:-1  tvg-id="DisneyChannel.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Disney_Channel_2017.svg/revision/latest/scale-to-width-down/1000?cb=20220617131618" tvg-chno="57",Disney Channel
+http://89.105.221.127/Disney/mpegts?token=test
+#EXTINF:-1  tvg-id="DisneyJunior.us" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/1200?cb=20240206232316" tvg-chno="",Disney Junior
+http://89.105.221.127/DisneyJr/index.m3u8?token=test
+#EXTINF:-1  tvg-id="DisneyXD.us" tvg-logo="" tvg-chno="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1280px-2015_Disney_XD_logo.svg.png",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1  tvg-id="nicktoons.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nicktoons2010UK.png" tvg-chno="",Nicktoons
+http://212.102.60.231/NICKTOONS/index.m3u8
+#EXTINF:-1  tvg-id="nickjr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Nick_Jr._logo_2018.svg" tvg-chno="",Nick Jr.
+http://84.17.50.102/nickjr/index.m3u8
+#EXTINF:-1  tvg-id="teennick.us" tvg-logo="" tvg-chno="https://upload.wikimedia.org/wikipedia/commons/d/d7/TeenNick_Logo_2017.png",TeenNick
+http://nor1live.win/livehttpplay?channel_id=23099
+#EXTINF:-1  tvg-name="PBS" tvg-id="pbs.us@east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",PBS
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-id="mynetworktv.us" tvg-logo="" tvg-chno="",MyNetworkTV
 37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
 #EXTINF:-1. tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfmyqdl-baf28117-edb9-474c-9427-6073067b2c80.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81MmM3NDY1OS0xNTFjLTRhMWUtOWVhZi1iMjBmYjQxMDZmZjEvZGZteXFkbC1iYWYyODExNy1lZGI5LTQ3NGMtOTQyNy02MDczMDY3YjJjODAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s29mZguc73DoQmVJmZeGgoHFE20Vjrl9suxLyQEu784",NBC
@@ -11,30 +35,6 @@ http://origin.thetvapp.to/hls/cw-wdcw-district-of-columbia/mono.m3u8
 http://89.187.178.197:1970/FOXGreenBay/index.m3u8
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/2560px-CBS_2020_%28Blue%29.svg.png",CBS
 http://89.187.178.197:1970/CBSGreenBay/index.m3u8
-#EXTINF:-1  tvg-name="PBS" tvg-id="pbs.us@east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",PBS
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1  tvg-name="PBS Kids" tvg-id="pbskids.us" tvg-logo="https://static.wikia.nocookie.net/unanything/images/8/8a/606c9dca44e146b7e7cf34982e70ef96.png/revision/latest?cb=20210401004430",PBS Kids
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
-#EXTINF:-1  tvg-id="CartoonNetwork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Cartoon_Network_2010_2.svg/revision/latest/scale-to-width-down/800?cb=20220629135653" tvg-name="CARTOON" tvg-chno="55",Cartoon Network
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1  tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" tvg-chno="",Boomerang
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1  tvg-id="nicktoons.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nicktoons2010UK.png" tvg-chno="",Nicktoons
-http://212.102.60.231/NICKTOONS/index.m3u8
-#EXTINF:-1  tvg-id="teennick.us" tvg-logo="" tvg-chno="https://upload.wikimedia.org/wikipedia/commons/d/d7/TeenNick_Logo_2017.png",TeenNick
-http://nor1live.win/livehttpplay?channel_id=23099
-#EXTINF:-1  tvg-id="nickjr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Nick_Jr._logo_2018.svg" tvg-chno="",Nick Jr.
-http://84.17.50.102/nickjr/index.m3u8
-#EXTINF:-1  tvg-id="babyfirst.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BabyFirstTV.png/revision/latest?cb=20151027180337" tvg-chno="",Babyfirst TV
-http://8.243.126.131:8000/play/a0jo/index.m3u8
-#EXTINF:-1  tvg-id="DisneyJunior.us" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/1200?cb=20240206232316" tvg-chno="",Disney Junior
-http://89.105.221.127/DisneyJr/index.m3u8?token=test
-#EXTINF:-1  tvg-id="DisneyChannel.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Disney_Channel_2017.svg/revision/latest/scale-to-width-down/1000?cb=20220617131618" tvg-chno="57",Disney Channel
-http://89.105.221.127/Disney/mpegts?token=test
-#EXTINF:-1  tvg-id="DisneyXD.us" tvg-logo="" tvg-chno="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1280px-2015_Disney_XD_logo.svg.png",Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1  tvg-name="DISCOVERY" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="10",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1  tvg-name="Food Network" tvg-id="food-network-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="27",Food Network
