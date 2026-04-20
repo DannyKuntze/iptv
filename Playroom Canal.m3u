@@ -442,7 +442,7 @@ https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="221",
 
 #EXTINF:-1  tvg-logo="" tvg-chno="222",BBC ONE LONDON
-http://41.205.93.154/BBCONE/index.m3u8
+http://150.230.125.74:9981/play/ticket/stream/channel/4812b96c964ed86ef1ab651b8f9457e0?title=1%20%3A%20BBC%20One%20London
 #EXTINF:-1  tvg-logo="" tvg-chno="223",Penthouse Passion
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5010/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="224",
