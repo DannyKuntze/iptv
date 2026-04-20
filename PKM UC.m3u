@@ -15,23 +15,23 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
 #EXTINF:-1  tvg-id="CartoonNetwork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Cartoon_Network_2010_2.svg/revision/latest/scale-to-width-down/800?cb=20220629135653" tvg-name="CARTOON" tvg-chno="55",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-
+#EXTINF:-1  tvg-id="boomerang.us" tvg-logo="" tvg-chno="",
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-
+#EXTINF:-1  tvg-id="nicktoons.us" tvg-logo="" tvg-chno="",
 http://212.102.60.231/NICKTOONS/index.m3u8
-
+#EXTINF:-1  tvg-id="teennick.us" tvg-logo="" tvg-chno="",
 http://nor1live.win/livehttpplay?channel_id=23099
-
+#EXTINF:-1  tvg-id="nickjr.us" tvg-logo="" tvg-chno="",
 http://84.17.50.102/nickjr/index.m3u8
-
+#EXTINF:-1  tvg-id="babyfirst.us" tvg-logo="" tvg-chno="",
 http://8.243.126.131:8000/play/a0jo/index.m3u8
-#EXTINF:-1  tvg-id="DisneyJunior.us" 
+#EXTINF:-1  tvg-id="DisneyJunior.us" tvg-logo="" tvg-chno="",
 http://89.105.221.127/DisneyJr/index.m3u8?token=test
 #EXTINF:-1  tvg-id="DisneyChannel.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Disney_Channel_2017.svg/revision/latest/scale-to-width-down/1000?cb=20220617131618" tvg-chno="57",Disney Channel
 http://89.105.221.127/Disney/mpegts?token=test
-#EXTINF:-1  tvg-id="DisneyXD.us" 
+#EXTINF:-1  tvg-id="DisneyXD.us" tvg-logo="" tvg-chno="",
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1  tvg-name="DISCOVERY" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="10",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
