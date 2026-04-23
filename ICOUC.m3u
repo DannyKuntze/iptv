@@ -1,20 +1,20 @@
 ﻿#EXTM3U
+#EXTINF:-1  tvg-id="mynetworktv.us" tvg-logo="" tvg-chno="",MyNetworkTV
+37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
+#EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1024px-FOX_wordmark.svg.png",FOX
+http://89.187.178.197:1970/FOXGreenBay/index.m3u8
+#EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1024px-ABC-2021-LOGO.svg.png",ABC
+http://89.187.178.197:1970/ABCGreenBay/index.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="PBS" tvg-id="pbs.us@east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/2560px-CBS_2020_%28Blue%29.svg.png",CBS
 http://89.187.178.197:1970/CBSGreenBay/index.m3u8
-#EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1024px-ABC-2021-LOGO.svg.png",ABC
-http://89.187.178.197:1970/ABCGreenBay/index.m3u8
 #EXTINF:-1. tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfmyqdl-baf28117-edb9-474c-9427-6073067b2c80.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81MmM3NDY1OS0xNTFjLTRhMWUtOWVhZi1iMjBmYjQxMDZmZjEvZGZteXFkbC1iYWYyODExNy1lZGI5LTQ3NGMtOTQyNy02MDczMDY3YjJjODAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s29mZguc73DoQmVJmZeGgoHFE20Vjrl9suxLyQEu784",NBC
 http://89.187.178.197:1970/NBCHouston/index.m3u8
 #EXTINF:-1  tvg-id="cw.us" tvg-logo="" tvg-chno="",CW
 http://origin.thetvapp.to/hls/cw-wdcw-district-of-columbia/mono.m3u8
-#EXTINF:-1  tvg-id="mynetworktv.us" tvg-logo="" tvg-chno="",MyNetworkTV
-37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
-#EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1024px-FOX_wordmark.svg.png",FOX
-http://89.187.178.197:1970/FOXGreenBay/index.m3u8
 #EXTINF:-1  tvg-name="DISCOVERY" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="10",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1  tvg-name="Food Network" tvg-id="food-network-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="27",Food Network
