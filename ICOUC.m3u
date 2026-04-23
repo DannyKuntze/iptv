@@ -19,13 +19,13 @@ http://41.223.30.230/ESPN/index.m3u8
 http://41.223.30.230/ESPN2/index.m3u8
 #EXTINF:-1  tvg-id="cw.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/The_CW.svg/revision/latest?cb=20231006215156" tvg-chno="",CW
 http://origin.thetvapp.to/hls/cw-wdcw-district-of-columbia/mono.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="",HLN
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1280px-HLN_%28TV_network%29_2017_logo.svg.png" tvg-chno="",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1  tvg-logo=""  tvg-chno="",Bravo
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/960px-Bravo_TV.svg.png"  tvg-chno="",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-chno="25" tvg-chno="",AMC
 http://161.129.178.5/amc/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="",CNBC
+#EXTINF:-1  tvg-logo="" tvg-chno="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/3840px-CNBC_logo.svg.png",CNBC
 http://rezofoot.tv/CNBC/index.m3u8
 #EXTINF:-1  tvg-name="PBS" tvg-id="pbs.us@east" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/PBS_2002_White_text_Alternate.svg/revision/latest?cb=20180316045802" tvg-chno="",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
