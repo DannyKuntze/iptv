@@ -3,15 +3,15 @@
 37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1024px-FOX_wordmark.svg.png",FOX
 http://89.187.178.197:1970/FOXGreenBay/index.m3u8
-#EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1024px-ABC-2021-LOGO.svg.png",ABC
+#EXTINF:-1. tvg-logo="",ABC
 http://89.187.178.197:1970/ABCGreenBay/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/250?cb=20250315005934" tvg-chno="4",CNN
 http://161.129.178.5/cnn/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" tvg-chno="5",Lifetime
+#EXTINF:-1  tvg-logo="" tvg-chno="5",Lifetime
 http://rezofoot.tv/LIFETIME/index.m3u8
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/NBC_logo_2009.svg/1280px-NBC_logo_2009.svg.png",NBC
 http://89.187.178.197:1970/NBCHouston/index.m3u8
-#EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/2560px-CBS_2020_%28Blue%29.svg.png",CBS
+#EXTINF:-1. tvg-logo="",CBS
 http://89.187.178.197:1970/CBSGreenBay/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-name="ESPN" tvg-chno="",ESPN
 http://41.223.30.230/ESPN/index.m3u8
@@ -21,11 +21,11 @@ http://41.223.30.230/ESPN2/index.m3u8
 http://origin.thetvapp.to/hls/cw-wdcw-district-of-columbia/mono.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png"  tvg-chno="",Bravo
+#EXTINF:-1  tvg-logo=""  tvg-chno="",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-chno="25" tvg-chno="",AMC
 http://161.129.178.5/amc/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-chno="",CNBC
+#EXTINF:-1  tvg-logo="" tvg-chno="",CNBC
 http://rezofoot.tv/CNBC/index.m3u8
 #EXTINF:-1  tvg-name="PBS" tvg-id="pbs.us@east" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/PBS_2002.svg/revision/latest/scale-to-width-down/250?cb=20251208051625" tvg-chno="",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
