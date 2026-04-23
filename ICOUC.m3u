@@ -27,7 +27,7 @@ http://41.205.93.154/BRAVO/index.m3u8
 http://161.129.178.5/amc/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-chno="",CNBC
 http://rezofoot.tv/CNBC/index.m3u8
-#EXTINF:-1  tvg-name="PBS" tvg-id="pbs.us@east" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/PBS_2002.svg/revision/latest/scale-to-width-down/250?cb=20251208051625" tvg-chno="",PBS
+#EXTINF:-1  tvg-name="PBS" tvg-id="pbs.us@east" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/PBS_2002_White_text_Alternate.svg/revision/latest?cb=20180316045802" tvg-chno="",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
