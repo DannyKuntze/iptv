@@ -9,7 +9,7 @@ http://89.187.178.197:1970/ABCGreenBay/index.m3u8
 http://89.187.178.197:1970/NBCHouston/index.m3u8
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/2560px-CBS_2020_%28Blue%29.svg.png",CBS
 http://89.187.178.197:1970/CBSGreenBay/index.m3u8
-#EXTINF:-1  tvg-id="cw.us" tvg-logo="https://static.wikia.nocookie.net/looneytunes/images/b/b1/The_CW_2024.svg/revision/latest/scale-to-width-down/284?cb=20240805044638" tvg-chno="",CW
+#EXTINF:-1  tvg-id="cw.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/The_CW.svg/revision/latest?cb=20231006215156" tvg-chno="",CW
 http://origin.thetvapp.to/hls/cw-wdcw-district-of-columbia/mono.m3u8
 #EXTINF:-1  tvg-name="PBS" tvg-id="pbs.us@east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
