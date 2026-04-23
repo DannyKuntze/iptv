@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-id="mynetworktv.us" tvg-logo="" tvg-chno="",MyNetworkTV
+#EXTINF:-1  tvg-id="mynetworktv.us" tvg-logo="" tvg-chno="1",MyNetworkTV
 37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1024px-FOX_wordmark.svg.png",FOX
 http://89.187.178.197:1970/FOXGreenBay/index.m3u8
@@ -11,6 +11,8 @@ http://89.187.178.197:1970/NBCHouston/index.m3u8
 http://89.187.178.197:1970/CBSGreenBay/index.m3u8
 #EXTINF:-1  tvg-id="cw.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/The_CW.svg/revision/latest?cb=20231006215156" tvg-chno="",CW
 http://origin.thetvapp.to/hls/cw-wdcw-district-of-columbia/mono.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HLN_2023.svg/revision/latest/scale-to-width-down/250?cb=20230629003509" tvg-chno="",HLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1  tvg-name="PBS" tvg-id="pbs.us@east" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/PBS_2002.svg/revision/latest/scale-to-width-down/250?cb=20251208051625",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="14",Nickelodeon
