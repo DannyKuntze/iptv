@@ -15,7 +15,7 @@ https://tvpass.org/live/sportsnet-pittsburgh/hd
 https://stream.decentdoubts.net/705/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/250?cb=20250315005934" tvg-chno="8",CNN
 http://104.255.88.155/cnn/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-name="ESPN" tvg-chno="9",ESPN
+#EXTINF:-1  tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/defoe6r-116186ef-57c8-43ab-b9e7-c17484d227dc.png/v1/fill/w_1280,h_318/espn_logo__png__by_amazingtoludada3000_defoe6r-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzE4IiwicGF0aCI6Ii9mL2VjZDUxMjYzLWJiMGYtNDQ2NS1hZjg2LWY3ZWQyNWU1OGU3MC9kZWZvZTZyLTExNjE4NmVmLTU3YzgtNDNhYi1iOWU3LWMxNzQ4NGQyMjdkYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.rJlmNNo4MVtvapNVG5Eha80OV0xVtJxcJU7X63dABlg" tvg-name="ESPN" tvg-chno="9",ESPN
 http://89.105.221.127/ESPN1/index.m3u8?token=test
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spectrum_Sportsnet_logo.png" tvg-chno="10",Spectrum Sportsnet Lakers
 http://cord-cutter.net:8080/DepZh0/111853/20946
