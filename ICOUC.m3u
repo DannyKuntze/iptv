@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-id="mynetworktv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" tvg-chno="1",MyNetworkTV
-http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
+65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1024px-FOX_wordmark.svg.png",FOX
 http://89.187.178.197:1970/FOXGreenBay/index.m3u8
 #EXTINF:-1. tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/ABC_%282013%29_Gold.svg",ABC
