@@ -38,7 +38,7 @@ http://rezofoot.tv/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",BET
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",ABC
-
+http://89.187.178.197:1970/ABCGreenBay/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Nick Jr.
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",National Geographic
@@ -52,7 +52,7 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",FX
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",NBC
-
+http://89.187.178.197:1970/NBCHouston/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",HGTV
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="29",CMT
@@ -70,7 +70,7 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",ESPN2
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",CBS
-
+http://89.187.178.197:1970/CBSGreenBay/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",The Weather Channel
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",MeTV
@@ -92,7 +92,7 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="86",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",FOX
-
+http://89.187.178.197:1970/FOXGreenBay/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",VH1
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",USA Network
