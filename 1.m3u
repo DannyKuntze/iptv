@@ -1,4 +1,4 @@
-
+﻿#EXTM3U
 ION
 
 A&E
@@ -45,7 +45,7 @@ National Geographic
 
 History Channel
 
-PBS
+#EXTINF:-1  tvg-name="PBS" tvg-id="pbs.us@east" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/PBS_2002_White_text_Alternate.svg/revision/latest?cb=20180316045802" tvg-chno="24",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 AMC
 
@@ -89,7 +89,7 @@ truTV
 
 C-SPAN
 
-Nickelodeon
+#EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="86",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 FOX
 
