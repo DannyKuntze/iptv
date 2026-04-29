@@ -10,7 +10,7 @@
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Travel Channel
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",CNBC
-
+http://rezofoot.tv/CNBC/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",CNN
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",MeTV Toons
@@ -62,13 +62,13 @@ http://89.187.178.197:1970/NBCHouston/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Comedy Central
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",ESPN
-
+http://41.223.30.230/ESPN/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Golf Channel
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Babyfirst TV
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",ESPN2
-
+http://41.223.30.230/ESPN2/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",CBS
 http://89.187.178.197:1970/CBSGreenBay/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",The Weather Channel
