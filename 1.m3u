@@ -103,23 +103,23 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Fox News Channel
 
-Disney Channel
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Disney Channel
 
-TBS
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",TBS
 
-Cartoon Network
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Cartoon Network
 
-Animal Planet
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Animal Planet
 
-Bravo
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Bravo
 
-Disney Junior
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Disney Junior
 
-Disney XD
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Disney XD
 
-QVC
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",QVC
 
-OWN
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",OWN
 
-SYFY
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",SYFY
 
