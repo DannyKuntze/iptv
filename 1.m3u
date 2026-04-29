@@ -17,8 +17,8 @@
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",TBN
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Lifetime
-
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Lifetime_2013_Flat.svg/revision/latest/scale-to-width-down/200?cb=20210615013810" tvg-chno="",Lifetime
+http://rezofoot.tv/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Bloomberg
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",HSN
@@ -111,8 +111,8 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Animal Planet
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Bravo
-
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/960px-Bravo_TV.svg.png" tvg-chno="",Bravo
+http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Disney Junior
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Disney XD
