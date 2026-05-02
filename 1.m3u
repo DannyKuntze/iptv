@@ -54,7 +54,7 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/NBC_logo_2009.svg/1280px-NBC_logo_2009.svg.png" tvg-chno="",NBC
 http://168.228.44.241:9999/play/a04x/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",HGTV
-
+http://206.212.244.183:25461/live/qdxkt3R5pH/5118349267/15972.m3u8?token=TUEMUBFQFVsUV18CDVEHWwkGBgEIAwsAWgNRBwYMUgEEWgEDWgsGWVIWFRdHQxcHWQk6UV0SAwBXClQEGhpGEFMRO1gGGg1DBAEBAAYGR04aEAxVXBIDAU4RE19SGglBB1NRBFsaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNRDwVYFBgbVltCCxZKHUcCG2VqE04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtACQRXBQYbSA==
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="29",CMT
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="30",TLC
