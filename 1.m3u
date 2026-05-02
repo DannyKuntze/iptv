@@ -20,7 +20,7 @@ http://rezofoot.tv/CNBC/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Lifetime_2013_Flat.svg/revision/latest/scale-to-width-down/200?cb=20210615013810" tvg-chno="",Lifetime
 http://rezofoot.tv/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Bloomberg
-
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",HSN
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",E!
