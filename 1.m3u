@@ -52,7 +52,7 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",FX
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",NBC
-http://89.187.178.197:1970/NBCHouston/index.m3u8
+http://168.228.44.241:9999/play/a04x/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",HGTV
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="29",CMT
