@@ -51,7 +51,7 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",FX
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",NBC
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/NBC_logo_2009.svg/1280px-NBC_logo_2009.svg.png" tvg-chno="",NBC
 http://168.228.44.241:9999/play/a04x/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",HGTV
 
@@ -61,13 +61,13 @@ http://168.228.44.241:9999/play/a04x/index.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Comedy Central
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",ESPN
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-chno="",ESPN
 http://41.223.30.230/ESPN/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Golf Channel
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Babyfirst TV
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",ESPN2
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest?cb=20210609161318" tvg-chno="",ESPN2
 http://41.223.30.230/ESPN2/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_2020_%28Blue%29.svg" tvg-chno="",CBS
 http://stream.cammonitorplus.net/1810/index.m3u8
