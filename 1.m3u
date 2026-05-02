@@ -88,7 +88,7 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",truTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",C-SPAN
-
+http://origin.thetvapp.to/hls/CSPAN/mono.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Fox_%28Blue%29.svg/revision/latest/scale-to-width-down/1200?cb=20170924151816" tvg-chno="",FOX
@@ -96,7 +96,7 @@ http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",USA Network
-
+https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",MS NOW
 http://41.205.64.66/MSNBC/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",FXX
