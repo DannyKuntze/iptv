@@ -40,7 +40,7 @@ http://212.102.60.231/NICKTOONS/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/ABC_%282013%29_Gold.svg" tvg-chno="20",ABC
 http://stream.cammonitorplus.net/1809/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="21",Nick Jr.
-
+http://84.17.50.102/nickjr/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",History Channel
