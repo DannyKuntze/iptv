@@ -86,7 +86,7 @@ http://origin.thetvapp.to/hls/cw-wdcw-district-of-columbia/mono.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",truTV
-
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",C-SPAN
 
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="",Nickelodeon
@@ -98,7 +98,7 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",USA Network
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",MS NOW
-
+http://41.205.64.66/MSNBC/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" tvg-chno="",Fox News Channel
