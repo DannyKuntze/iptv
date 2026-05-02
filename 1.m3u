@@ -37,8 +37,8 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",BET
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",ABC
-http://89.187.178.197:1970/ABCGreenBay/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/ABC_%282013%29_Gold.svg" tvg-chno="",ABC
+http://stream.cammonitorplus.net/1809/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Nick Jr.
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",National Geographic
