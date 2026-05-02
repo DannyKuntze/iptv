@@ -30,7 +30,7 @@ http://rezofoot.tv/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Freeform
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",HLN
-
+http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" tvg-chno="",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Nicktoons
@@ -91,7 +91,7 @@ http://89.187.178.197:1970/CBSGreenBay/index.m3u8
 
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="86",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1024px-FOX_wordmark.svg.png" tvg-chno="",FOX
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Fox_%28Blue%29.svg/revision/latest/scale-to-width-down/1200?cb=20170924151816" tvg-chno="",FOX
 http://89.187.178.197:1970/FOXGreenBay/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",VH1
 
