@@ -100,7 +100,7 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",MS NOW
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",FXX
-
+http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" tvg-chno="",Fox News Channel
 http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Disney Channel
