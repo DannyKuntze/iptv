@@ -119,7 +119,7 @@ http://41.205.93.154/BRAVO/index.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",QVC
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",OWN
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Owntv_400x400.png/revision/latest?cb=20171203221918" tvg-chno="",OWN
 http://84.17.50.102/own/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" tvg-chno="",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
