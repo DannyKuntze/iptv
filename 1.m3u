@@ -1,13 +1,13 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",ION
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="1",ION
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",A&E
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="2",A&E
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Paramount Network
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="3",Paramount Network
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",MTV
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="4",MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Travel Channel
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="5",Travel Channel
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/3840px-CNBC_logo.svg.png" tvg-chno="",CNBC
 http://rezofoot.tv/CNBC/index.m3u8
