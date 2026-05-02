@@ -61,7 +61,7 @@ http://168.228.44.241:9999/play/a04x/index.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Comedy Central
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" tvg-chno="",ESPN
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/300?cb=20201130040927" tvg-chno="",ESPN
 http://41.223.30.230/ESPN/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Golf Channel
 
