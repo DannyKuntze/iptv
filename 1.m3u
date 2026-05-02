@@ -6,7 +6,7 @@
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Paramount Network
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",MTV
-
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Travel Channel
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/3840px-CNBC_logo.svg.png" tvg-chno="",CNBC
@@ -37,12 +37,12 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",BET
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/ABC_%282013%29_Gold.svg" tvg-chno="",ABC
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/ABC_%282013%29_Gold.svg" tvg-chno="20",ABC
 http://stream.cammonitorplus.net/1809/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Nick Jr.
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="21",Nick Jr.
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",National Geographic
-
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",History Channel
 
 #EXTINF:-1  tvg-name="PBS" tvg-id="pbs.us@east" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/PBS_2002_White_text_Alternate.svg/revision/latest?cb=20180316045802" tvg-chno="24",PBS
