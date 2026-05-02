@@ -122,7 +122,7 @@ http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HLN_2023.svg/revision/latest/scale-to-width-down/250?cb=20230629003509" tvg-chno="61",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/223-2230265_advertise-on-h-mark-channel-comcast-spotlight-advertising.png" tvg-name="HLLMRK" tvg-chno="62",Hallmark Channel
-http://104.255.88.155/hallmark/playlist.m3u8
+http://41.223.30.230/HALLMARK/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/142-1427918_golf-channel-logo-png.png" tvg-name="GOLF" tvg-chno="63",Golf Channel
 http://epicboss.live:80/bjune@teksavvy.com/5193594414/82
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" tvg-name="NATGEO" tvg-chno="64",National Geographic
