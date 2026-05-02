@@ -28,7 +28,7 @@ http://rezofoot.tv/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" tvg-chno="",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Freeform
-
+http://212.102.60.231/FREEFORM/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1280px-HLN_%28TV_network%29_2017_logo.svg.png" tvg-chno="",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" tvg-chno="",Discovery Channel
@@ -36,7 +36,7 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Nicktoons
 http://212.102.60.231/NICKTOONS/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",BET
-
+http://41.205.93.154/BET-EN/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/ABC_%282013%29_Gold.svg" tvg-chno="20",ABC
 http://stream.cammonitorplus.net/1809/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="21",Nick Jr.
@@ -44,7 +44,7 @@ http://84.17.50.102/nickjr/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",History Channel
-
+http://84.17.50.102/history/index.m3u8
 #EXTINF:-1  tvg-name="PBS" tvg-id="pbs.us@east" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/PBS_2002_White_text_Alternate.svg/revision/latest?cb=20180316045802" tvg-chno="24",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-chno="",AMC
