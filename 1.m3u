@@ -53,7 +53,7 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/NBC_logo_2009.svg/1280px-NBC_logo_2009.svg.png" tvg-chno="",NBC
 http://168.228.44.241:9999/play/a04x/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",HGTV
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://logonoid.com/images/hgtv-logo.png" tvg-chno="",HGTV
 http://206.212.244.183:25461/live/qdxkt3R5pH/5118349267/15972.m3u8?token=TUEMUBFQFVsUV18CDVEHWwkGBgEIAwsAWgNRBwYMUgEEWgEDWgsGWVIWFRdHQxcHWQk6UV0SAwBXClQEGhpGEFMRO1gGGg1DBAEBAAYGR04aEAxVXBIDAU4RE19SGglBB1NRBFsaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNRDwVYFBgbVltCCxZKHUcCG2VqE04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtACQRXBQYbSA==
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="29",CMT
 
@@ -89,7 +89,7 @@ http://stream.cammonitorplus.net/1810/index.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",C-SPAN
 
-#EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="86",Nickelodeon
+#EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Fox_%28Blue%29.svg/revision/latest/scale-to-width-down/1200?cb=20170924151816" tvg-chno="",FOX
 http://84.17.50.102/fox/index.m3u8
