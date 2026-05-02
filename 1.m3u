@@ -34,7 +34,7 @@ http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" tvg-chno="",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Nicktoons
-
+http://212.102.60.231/NICKTOONS/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",BET
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/ABC_%282013%29_Gold.svg" tvg-chno="20",ABC
@@ -82,7 +82,7 @@ http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",PBS Kids
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",CW
-
+http://origin.thetvapp.to/hls/cw-wdcw-district-of-columbia/mono.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",truTV
