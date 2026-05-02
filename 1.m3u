@@ -92,7 +92,7 @@ http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="86",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Fox_%28Blue%29.svg/revision/latest/scale-to-width-down/1200?cb=20170924151816" tvg-chno="",FOX
-http://89.187.178.197:1970/FOXGreenBay/index.m3u8
+http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",VH1
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",USA Network
