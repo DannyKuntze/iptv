@@ -70,7 +70,7 @@ http://41.223.30.230/ESPN/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",ESPN2
 http://41.223.30.230/ESPN2/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_2020_%28Blue%29.svg" tvg-chno="",CBS
-http://89.187.178.197:1970/CBSGreenBay/index.m3u8
+http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",The Weather Channel
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",MeTV
