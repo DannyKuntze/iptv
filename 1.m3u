@@ -122,6 +122,6 @@ http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",OWN
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",SYFY
-
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",My Network TV
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
