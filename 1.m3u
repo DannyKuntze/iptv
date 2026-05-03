@@ -79,7 +79,7 @@ http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1096/index.m3u8
 http://epicboss.live:80/bjune@teksavvy.com/5193594414/45
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/TeenNick_2019.svg/revision/latest?cb=20240105193233" tvg-chno="40",TeenNick
 http://93.157.106.128:8080/F13836/35b68aca/15058
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/unanything/images/8/8a/606c9dca44e146b7e7cf34982e70ef96.png/revision/latest?cb=20210401004430" tvg-chno="41",PBS Kids
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.cdnlogo.com/logos/p/84/pbs-kids.svg" tvg-chno="41",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="42",CW
 http://origin.thetvapp.to/hls/cw-wdcw-district-of-columbia/mono.m3u8
