@@ -72,7 +72,7 @@ http://41.223.30.230/ESPN2/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_2020_%28Blue%29.svg" tvg-chno="",CBS
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",The Weather Channel
-
+http://206.212.244.187:25461/live/qdxkt3R5pH/5118349267/22464.m3u8?token=TUEMUBFQFVsUAAAFBAZTAAtRXFpdUVwDBwJUV1NaA1QBBlAIUg0AUFAWFRdHQxcHWQk6UV0SAwNQB1UCGhpGEFMRO1gGGg1DBAEBAAYGR04aEAxVXBIDAU4RE19SGglBBFpVAlMaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNRAQRZFBgbVltCCxZKHUcCG2VqE04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtACQVRAgcbSA==
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",MeTV
 http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1096/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",TV Land
