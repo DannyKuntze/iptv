@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="1",ION
-
+http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="2",A&E
 http://41.205.93.154/AandE/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="3",Paramount Network
