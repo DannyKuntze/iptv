@@ -33,7 +33,7 @@ http://212.102.60.231/FREEFORM/index.m3u8
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" tvg-chno="",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Nicktoons
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nicktoons2010UK.png" tvg-chno="",Nicktoons
 http://212.102.60.231/NICKTOONS/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",BET
 http://41.205.93.154/BET-EN/index.m3u8
@@ -65,7 +65,7 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 http://41.223.30.230/ESPN/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Golf Channel
 http://epicboss.live:80/bjune@teksavvy.com/5193594414/82
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Babyfirst TV
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BabyFirstTV.png/revision/latest?cb=20151027180337" tvg-chno="",Babyfirst TV
 http://8.243.126.131:8000/play/a0jo/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest?cb=20210609161318" tvg-chno="",ESPN2
 http://41.223.30.230/ESPN2/index.m3u8
@@ -103,19 +103,19 @@ http://41.205.64.66/MSNBC/index.m3u8
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" tvg-chno="",Fox News Channel
 http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Disney Channel
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="https://static.wikia.nocookie.net/logopedia/images/6/6e/Disney_Channel_2017.svg/revision/latest/scale-to-width-down/1000?cb=20220617131618",Disney Channel
 http://93.157.106.128:8080/F13836/35b68aca/2303
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/TBS_Logo_2005.svg/revision/latest?cb=20180505150950" tvg-chno="",TBS
 http://rezofoot.tv/TBS/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Cartoon Network
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Cartoon_Network_2010_2.svg/revision/latest/scale-to-width-down/800?cb=20220629135653" tvg-chno="",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/960px-Bravo_TV.svg.png" tvg-chno="",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Disney Junior
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/1200?cb=20240206232316" tvg-chno="",Disney Junior
 http://84.17.50.102/disneyjunior/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Disney XD
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/8e/Disney_XD_-_2015.svg.png/revision/latest?cb=20220126131752" tvg-chno="",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/1200px-QVC_logo_2019.svg.png" tvg-chno="",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
