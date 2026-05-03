@@ -58,7 +58,7 @@ http://206.212.244.183:25461/live/qdxkt3R5pH/5118349267/15972.m3u8?token=TUEMUBF
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="29",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="30",TLC
-
+http://41.205.64.66/TLC/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/300?cb=20201130040927" tvg-chno="",ESPN
