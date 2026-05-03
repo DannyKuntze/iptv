@@ -16,7 +16,7 @@ http://85.117.37.41/cnn/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",MeTV Toons
 http://origin.thetvapp.to/hls/metv-toons/mono.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",TBN
-
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Lifetime_2013_Flat.svg/revision/latest/scale-to-width-down/200?cb=20210615013810" tvg-chno="",Lifetime
 http://rezofoot.tv/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Bloomberg
@@ -78,7 +78,7 @@ http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1096/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",TV Land
 http://epicboss.live:80/bjune@teksavvy.com/5193594414/45
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",TeenNick
-
+http://93.157.106.128:8080/F13836/35b68aca/15058
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",PBS Kids
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",CW
