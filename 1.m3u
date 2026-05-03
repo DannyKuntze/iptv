@@ -64,7 +64,7 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/300?cb=20201130040927" tvg-chno="",ESPN
 http://41.223.30.230/ESPN/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Golf Channel
-
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/82
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Babyfirst TV
 http://8.243.126.131:8000/play/a0jo/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest?cb=20210609161318" tvg-chno="",ESPN2
