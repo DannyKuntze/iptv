@@ -82,7 +82,7 @@ http://93.157.106.128:8080/F13836/35b68aca/15058
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.cdnlogo.com/logos/p/84/pbs-kids.svg" tvg-chno="41",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="42",CW
-http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1090/index.m3u8
+http://84.17.50.102/cw/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",truTV
