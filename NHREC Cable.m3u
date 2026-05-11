@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="" tvg-chno="30",CW
+#EXTINF:-1  tvg-logo="" tvg-name="CW" tvg-chno="30",CW
 
-#EXTINF:-1  tvg-logo="" tvg-chno="31",ABC
+#EXTINF:-1  tvg-logo="" tvg-name="ABC" tvg-chno="31",ABC
 
-#EXTINF:-1  tvg-logo="" tvg-chno="32",NBC
+#EXTINF:-1  tvg-logo="" tvg-name="NBC" tvg-chno="32",NBC
 
-#EXTINF:-1  tvg-logo="" tvg-chno="33",CBS
+#EXTINF:-1  tvg-logo="" tvg-name="CBS" tvg-chno="33",CBS
 
-#EXTINF:-1  tvg-logo="" tvg-chno="34",PBS
+#EXTINF:-1  tvg-logo="" tvg-name="PBS" tvg-chno="34",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-chno="35",FOX
+#EXTINF:-1  tvg-logo="" tvg-name="FOX" tvg-chno="35",FOX
 
-#EXTINF:-1  tvg-logo="" tvg-chno="36",CNN
+#EXTINF:-1  tvg-logo="" tvg-name="CNN" tvg-chno="36",CNN
 
-#EXTINF:-1  tvg-logo="" tvg-chno="37",HLN
+#EXTINF:-1  tvg-logo="" tvg-name="HLN" tvg-chno="37",HLN
 
-#EXTINF:-1  tvg-logo="" tvg-chno="38",ESPN
+#EXTINF:-1  tvg-logo="" tvg-name="ESPN" tvg-chno="38",ESPN
 
-#EXTINF:-1  tvg-logo="" tvg-chno="39",EPSN2
+#EXTINF:-1  tvg-logo="" tvg-name="ESPN2" tvg-chno="39",EPSN2
 
-#EXTINF:-1  tvg-logo="" tvg-chno="40",QVC
+#EXTINF:-1  tvg-logo="" tvg-name="QVC" tvg-chno="40",QVC
 
-#EXTINF:-1  tvg-logo="" tvg-chno="41",HSN
+#EXTINF:-1  tvg-logo="" tvg-name="HSN" tvg-chno="41",HSN
 
-#EXTINF:-1  tvg-logo="" tvg-chno="42",Nickelodeon
+#EXTINF:-1  tvg-logo="" tvg-name="NICK" tvg-chno="42",Nickelodeon
 
-#EXTINF:-1  tvg-logo="" tvg-chno="43",Bravo
+#EXTINF:-1  tvg-logo="" tvg-name="BRAVO" tvg-chno="43",Bravo
 
-#EXTINF:-1  tvg-logo="" tvg-chno="44",AMC
+#EXTINF:-1  tvg-logo="" tvg-name="AMC" tvg-chno="44",AMC
 
-#EXTINF:-1  tvg-logo="" tvg-chno="45",TBS
+#EXTINF:-1  tvg-logo="" tvg-name="TBS" tvg-chno="45",TBS
 
-#EXTINF:-1  tvg-logo="" tvg-chno="46",CNBC
+#EXTINF:-1  tvg-logo="" tvg-name="CNBC" tvg-chno="46",CNBC
 
-#EXTINF:-1  tvg-logo="" tvg-chno="47",HGTV
+#EXTINF:-1  tvg-logo="" tvg-name="HGTV" tvg-chno="47",HGTV
 
-#EXTINF:-1  tvg-logo="" tvg-chno="48",SYFY
+#EXTINF:-1  tvg-logo="" tvg-name="SYFY" tvg-chno="48",SYFY
 
-#EXTINF:-1  tvg-logo="" tvg-chno="49",Lifetime
+#EXTINF:-1  tvg-logo="" tvg-name="LIFE" tvg-chno="49",Lifetime
 
