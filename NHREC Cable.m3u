@@ -8,6 +8,7 @@
 #EXTINF:-1  tvg-logo="" tvg-name="CBS" tvg-chno="33",CBS
 
 #EXTINF:-1  tvg-logo="" tvg-name="PBS" tvg-chno="34",PBS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=1920x1080
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="FOX" tvg-chno="35",FOX
 
