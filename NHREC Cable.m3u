@@ -10,7 +10,7 @@
 
 #EXTINF:-1  tvg-logo="" tvg-name="CBS" tvg-chno="33",CBS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=854x480
-
+http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlKZGh15rFeIn7bDy_MGA1WC0uFdx68SppwslIysFXM8g
 #EXTINF:-1  tvg-logo="" tvg-name="PBS" tvg-chno="34",PBS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=854x480
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
@@ -31,13 +31,13 @@ http://41.223.30.230/ESPN/index.m3u8
 http://41.223.30.230/ESPN2/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="QVC" tvg-chno="40",QVC
 #EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=854x480
-
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="HSN" tvg-chno="41",HSN
 #EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=854x480
 
 #EXTINF:-1  tvg-logo="" tvg-name="NICK" tvg-chno="42",Nickelodeon
 #EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=854x480
-
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="BRAVO" tvg-chno="43",Bravo
 #EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=854x480
 
@@ -46,7 +46,7 @@ http://41.223.30.230/ESPN2/index.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-name="TBS" tvg-chno="45",TBS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=854x480
-
+http://rezofoot.tv/TBS/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="CNBC" tvg-chno="46",CNBC
 #EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=854x480
 
