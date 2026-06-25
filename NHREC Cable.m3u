@@ -10,32 +10,33 @@ http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlKZGh15rFeIn7bDy_MGA1WC0uFdx68
 #EXTINF:-1  tvg-logo="" tvg-name="PBS" tvg-chno="5",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="FOX" tvg-chno="6",FOX
+http://103.205.133.70/hgtv/index.m3u8
 http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="CNN" tvg-chno="7",CNN
-
-#EXTINF:-1  tvg-logo="" tvg-name="HLN" tvg-chno="37",HLN
-http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="ESPN" tvg-chno="38",ESPN
-http://41.223.30.230/ESPN/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="ESPN2" tvg-chno="39",EPSN2
-http://41.223.30.230/ESPN2/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="QVC" tvg-chno="40",QVC
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="HSN" tvg-chno="41",HSN
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="NICK" tvg-chno="42",Nickelodeon
+#EXTINF:-1  tvg-logo="" tvg-name="NICK" tvg-chno="7",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="BRAVO" tvg-chno="43",Bravo
+#EXTINF:-1  tvg-logo="" tvg-name="TBS" tvg-chno="8",TBSHLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-name="ESPN" tvg-chno="9",ESPN
+http://41.223.30.230/ESPN/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-name="ESPN2" tvg-chno="10",EPSN2
+http://41.223.30.230/ESPN2/index.m3u8
+#EXTINF:-1  tvg-logo="" tvg-name="QVC" tvg-chno="11",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+#EXTINF:-1  tvg-logo="" tvg-name="HSN" tvg-chno="12",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1  tvg-logo="" tvg-name="" tvg-chno="13",
 
-#EXTINF:-1  tvg-logo="" tvg-name="AMC" tvg-chno="44",AMC
+#EXTINF:-1  tvg-logo="" tvg-name="BRAVO" tvg-chno="14",Bravo
 
-#EXTINF:-1  tvg-logo="" tvg-name="TBS" tvg-chno="45",TBS
+#EXTINF:-1  tvg-logo="" tvg-name="AMC" tvg-chno="15",AMC
+
+#EXTINF:-1  tvg-logo="" tvg-name="CNN" tvg-chno="16",CNN
 http://rezofoot.tv/TBS/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="CNBC" tvg-chno="46",CNBC
+#EXTINF:-1  tvg-logo="" tvg-name="CNBC" tvg-chno="17",CNBC
 
-#EXTINF:-1  tvg-logo="" tvg-name="HGTV" tvg-chno="47",HGTV
+#EXTINF:-1  tvg-logo="" tvg-name="HGTV" tvg-chno="18",HGTV
 
-#EXTINF:-1  tvg-logo="" tvg-name="SYFY" tvg-chno="48",SYFY
+#EXTINF:-1  tvg-logo="" tvg-name="SYFY" tvg-chno="19",SYFY
 
-#EXTINF:-1  tvg-logo="" tvg-name="LIFE" tvg-chno="49",Lifetime
+#EXTINF:-1  tvg-logo="" tvg-name="LIFE" tvg-chno="20",Lifetime
 
