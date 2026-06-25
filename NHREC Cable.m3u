@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="" tvg-name="CW" tvg-chno="30",CW
+#EXTINF:-1  tvg-logo="" tvg-name="CW" tvg-chno="1",CW
 
-#EXTINF:-1  tvg-logo="" tvg-name="ABC" tvg-chno="31",ABC
+#EXTINF:-1  tvg-logo="" tvg-name="ABC" tvg-chno="2",ABC
 
-#EXTINF:-1  tvg-logo="" tvg-name="NBC" tvg-chno="32",NBC
+#EXTINF:-1  tvg-logo="" tvg-name="NBC" tvg-chno="3",NBC
 
-#EXTINF:-1  tvg-logo="" tvg-name="CBS" tvg-chno="33",CBS
+#EXTINF:-1  tvg-logo="" tvg-name="CBS" tvg-chno="4",CBS
 http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlKZGh15rFeIn7bDy_MGA1WC0uFdx68SppwslIysFXM8g
-#EXTINF:-1  tvg-logo="" tvg-name="PBS" tvg-chno="34",PBS
+#EXTINF:-1  tvg-logo="" tvg-name="PBS" tvg-chno="5",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="FOX" tvg-chno="35",FOX
+#EXTINF:-1  tvg-logo="" tvg-name="FOX" tvg-chno="6",FOX
 http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="CNN" tvg-chno="36",CNN
+#EXTINF:-1  tvg-logo="" tvg-name="CNN" tvg-chno="7",CNN
 
 #EXTINF:-1  tvg-logo="" tvg-name="HLN" tvg-chno="37",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
