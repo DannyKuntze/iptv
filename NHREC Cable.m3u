@@ -14,9 +14,8 @@ http://103.205.133.70/hgtv/index.m3u8
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="NICK" tvg-chno="7",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="TBS" tvg-chno="8",TBSHLN
+#EXTINF:-1  tvg-logo="" tvg-name="TBS" tvg-chno="8",TBS
 http://rezofoot.tv/TBS/index.m3u8
-http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="QVC" tvg-chno="9",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="CW" tvg-chno="10",CW
@@ -37,7 +36,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-name="HGTV" tvg-chno="18",HGTV
 
-#EXTINF:-1  tvg-logo="" tvg-name="SYFY" tvg-chno="19",SYFY
-
+#EXTINF:-1  tvg-logo="" tvg-name="SYFYHLN" tvg-chno="19",SYFYHLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="LIFEHSN" tvg-chno="20",LifetimeHSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
