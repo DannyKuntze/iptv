@@ -3,7 +3,7 @@
 
 #EXTINF:-1  tvg-logo="" tvg-name="ABC" tvg-chno="2",ABC
 
-#EXTINF:-1  tvg-logo="" tvg-name="NBC" tvg-chno="3",NBC
+#EXTINF:-1  tvg-logo="" tvg-name="EPSN2" tvg-chno="3",EPSN2
 
 #EXTINF:-1  tvg-logo="" tvg-name="CBS" tvg-chno="4",CBS
 http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlKZGh15rFeIn7bDy_MGA1WC0uFdx68SppwslIysFXM8g
@@ -19,9 +19,9 @@ http://rezofoot.tv/TBS/index.m3u8
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="ESPN" tvg-chno="9",ESPN
 http://41.223.30.230/ESPN/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="CWESPN2" tvg-chno="10",CWEPSN2
+#EXTINF:-1  tvg-logo="" tvg-name="CW" tvg-chno="10",CW
 http://41.223.30.230/ESPN2/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="QVC" tvg-chno="11",QVC
+#EXTINF:-1  tvg-logo="" tvg-name="NBCQVC" tvg-chno="11",NBCQVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="HSN" tvg-chno="12",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
