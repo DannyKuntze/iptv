@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="" tvg-name="CW" tvg-chno="1",CW
+#EXTINF:-1  tvg-logo="" tvg-name="CNBC" tvg-chno="1",CNBC
 
 #EXTINF:-1  tvg-logo="" tvg-name="ABC" tvg-chno="2",ABC
 
@@ -15,10 +15,11 @@ http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="NICK" tvg-chno="7",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="TBS" tvg-chno="8",TBSHLN
+http://rezofoot.tv/TBS/index.m3u8
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="ESPN" tvg-chno="9",ESPN
 http://41.223.30.230/ESPN/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="ESPN2" tvg-chno="10",EPSN2
+#EXTINF:-1  tvg-logo="" tvg-name="CWESPN2" tvg-chno="10",CWEPSN2
 http://41.223.30.230/ESPN2/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="QVC" tvg-chno="11",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
@@ -31,8 +32,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="AMC" tvg-chno="15",AMC
 
 #EXTINF:-1  tvg-logo="" tvg-name="CNN" tvg-chno="16",CNN
-http://rezofoot.tv/TBS/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="CNBC" tvg-chno="17",CNBC
+
+#EXTINF:-1  tvg-logo="" tvg-name="CNBC" tvg-chno="17",
 
 #EXTINF:-1  tvg-logo="" tvg-name="HGTV" tvg-chno="18",HGTV
 
