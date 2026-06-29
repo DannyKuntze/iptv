@@ -21,7 +21,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 http://84.17.50.102/cw/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="NBC" tvg-chno="11",NBC
 http://stream.cammonitorplus.net/1812/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.pngkey.com/png/detail/898-8981446_pbs-logo-white-cargill-logo-white.png" tvg-name="PBS" tvg-chno="12",PBS
+#EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/898-8981446_pbs-logo-white-cargill-logo-white.png" tvg-name="PBS" tvg-chno="12",PBS
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/215-2151652_cbs-hd-cbs-hd-channel-logo.png" tvg-name="CBS" tvg-chno="13",CBS
 http://stream.cammonitorplus.net/1810/index.m3u8
