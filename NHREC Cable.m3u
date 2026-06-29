@@ -20,11 +20,11 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="CW" tvg-chno="10",CW
 
 #EXTINF:-1  tvg-logo="" tvg-name="NBC" tvg-chno="11",NBC
-
+http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="PBS" tvg-chno="12",PBS
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="CBS" tvg-chno="13",CBS
-
+http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="ABC" tvg-chno="14",ABC
 
 #EXTINF:-1  tvg-logo="" tvg-name="FOX" tvg-chno="15",FOX
