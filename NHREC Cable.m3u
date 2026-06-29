@@ -8,7 +8,7 @@ http://41.223.30.230/ESPN2/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="LIFE" tvg-chno="4",Lifetime
 
 #EXTINF:-1  tvg-logo="" tvg-name="" tvg-chno="5",
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
+
 #EXTINF:-1  tvg-logo="" tvg-name="HGTV" tvg-chno="6",HGTV
 http://103.205.133.70/hgtv/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="NICK" tvg-chno="7",Nickelodeon
@@ -22,7 +22,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="NBC" tvg-chno="11",NBC
 
 #EXTINF:-1  tvg-logo="" tvg-name="PBS" tvg-chno="12",PBS
-
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="CBS" tvg-chno="13",CBS
 
 #EXTINF:-1  tvg-logo="" tvg-name="BRAVO" tvg-chno="14",Bravo
