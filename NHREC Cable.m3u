@@ -5,8 +5,8 @@
 http://41.223.30.230/ESPN/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="EPSN2" tvg-chno="3",EPSN2
 http://41.223.30.230/ESPN2/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="CBS" tvg-chno="4",CBS
-http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlKZGh15rFeIn7bDy_MGA1WC0uFdx68SppwslIysFXM8g
+#EXTINF:-1  tvg-logo="" tvg-name="LIFE" tvg-chno="4",Lifetime
+
 #EXTINF:-1  tvg-logo="" tvg-name="" tvg-chno="5",
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="FOX" tvg-chno="6",FOX
@@ -24,19 +24,19 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-name="PBS" tvg-chno="12",PBS
 
-#EXTINF:-1  tvg-logo="" tvg-name="" tvg-chno="13",
+#EXTINF:-1  tvg-logo="" tvg-name="CBS" tvg-chno="13",CBS
 
 #EXTINF:-1  tvg-logo="" tvg-name="BRAVO" tvg-chno="14",Bravo
 
-#EXTINF:-1  tvg-logo="" tvg-name="AMC" tvg-chno="15",AMC
+#EXTINF:-1  tvg-logo="" tvg-name="AMC" tvg-chno="15",
 
 #EXTINF:-1  tvg-logo="" tvg-name="CNN" tvg-chno="16",CNN
 
-#EXTINF:-1  tvg-logo="" tvg-name="CNBC" tvg-chno="17",
+#EXTINF:-1  tvg-logo="" tvg-name="AMC" tvg-chno="17",AMC
 
-#EXTINF:-1  tvg-logo="" tvg-name="HGTV" tvg-chno="18",HGTV
+#EXTINF:-1  tvg-logo="" tvg-name="SYFYHGTV" tvg-chno="18",SYFYHGTV
 
-#EXTINF:-1  tvg-logo="" tvg-name="SYFYHLN" tvg-chno="19",SYFYHLN
+#EXTINF:-1  tvg-logo="" tvg-name="HLN" tvg-chno="19",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="LIFEHSN" tvg-chno="20",LifetimeHSN
+#EXTINF:-1  tvg-logo="" tvg-name="HSN" tvg-chno="20",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
