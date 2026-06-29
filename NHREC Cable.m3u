@@ -13,13 +13,13 @@ http://41.205.93.154/BRAVO/index.m3u8
 https://cdn.telecloud.tv/CH3233/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/3840px-Nick_HD_Logo.svg.png" tvg-name="NICK" tvg-chno="7",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="TBS" tvg-chno="8",TBS
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/05/TBS_HD.svg/revision/latest?cb=20220926152101" tvg-name="TBS" tvg-chno="8",TBS
 http://rezofoot.tv/TBS/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="QVC" tvg-chno="9",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="CW" tvg-chno="10",CW
 http://84.17.50.102/cw/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="NBC" tvg-chno="11",NBC
+#EXTINF:-1  tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfmyqdl-baf28117-edb9-474c-9427-6073067b2c80.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81MmM3NDY1OS0xNTFjLTRhMWUtOWVhZi1iMjBmYjQxMDZmZjEvZGZteXFkbC1iYWYyODExNy1lZGI5LTQ3NGMtOTQyNy02MDczMDY3YjJjODAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s29mZguc73DoQmVJmZeGgoHFE20Vjrl9suxLyQEu784" tvg-name="NBC" tvg-chno="11",NBC
 http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/898-8981446_pbs-logo-white-cargill-logo-white.png" tvg-name="PBS" tvg-chno="12",PBS
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
