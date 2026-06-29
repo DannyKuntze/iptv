@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="" tvg-name="CNBC" tvg-chno="1",CNBC
 
-#EXTINF:-1  tvg-logo="" tvg-name="ESPNABC" tvg-chno="2",ESPNABC
+#EXTINF:-1  tvg-logo="" tvg-name="ESPN" tvg-chno="2",ESPN
 http://41.223.30.230/ESPN/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="EPSN2" tvg-chno="3",EPSN2
 http://41.223.30.230/ESPN2/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="LIFE" tvg-chno="4",Lifetime
 
-#EXTINF:-1  tvg-logo="" tvg-name="" tvg-chno="5",
+#EXTINF:-1  tvg-logo="" tvg-name="BRAVO" tvg-chno="5",Bravo
 
 #EXTINF:-1  tvg-logo="" tvg-name="HGTV" tvg-chno="6",HGTV
 http://103.205.133.70/hgtv/index.m3u8
@@ -25,7 +25,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="CBS" tvg-chno="13",CBS
 
-#EXTINF:-1  tvg-logo="" tvg-name="BRAVO" tvg-chno="14",Bravo
+#EXTINF:-1  tvg-logo="" tvg-name="ABC" tvg-chno="14",ABC
 
 #EXTINF:-1  tvg-logo="" tvg-name="FOX" tvg-chno="15",FOX
 http://84.17.50.102/fox/index.m3u8
