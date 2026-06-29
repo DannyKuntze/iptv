@@ -23,7 +23,7 @@ http://84.17.50.102/cw/index.m3u8
 http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="PBS" tvg-chno="12",PBS
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="CBS" tvg-chno="13",CBS
+#EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/215-2151652_cbs-hd-cbs-hd-channel-logo.png" tvg-name="CBS" tvg-chno="13",CBS
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="ABC" tvg-chno="14",ABC
 http://stream.cammonitorplus.net/1809/index.m3u8
