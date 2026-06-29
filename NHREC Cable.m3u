@@ -9,9 +9,8 @@ http://41.223.30.230/ESPN2/index.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-name="" tvg-chno="5",
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="FOX" tvg-chno="6",FOX
+#EXTINF:-1  tvg-logo="" tvg-name="HGTV" tvg-chno="6",HGTV
 http://103.205.133.70/hgtv/index.m3u8
-http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="NICK" tvg-chno="7",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="TBS" tvg-chno="8",TBS
@@ -28,13 +27,13 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-name="BRAVO" tvg-chno="14",Bravo
 
-#EXTINF:-1  tvg-logo="" tvg-name="AMC" tvg-chno="15",
-
+#EXTINF:-1  tvg-logo="" tvg-name="FOX" tvg-chno="15",FOX
+http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="CNN" tvg-chno="16",CNN
 
 #EXTINF:-1  tvg-logo="" tvg-name="AMC" tvg-chno="17",AMC
 
-#EXTINF:-1  tvg-logo="" tvg-name="SYFYHGTV" tvg-chno="18",SYFYHGTV
+#EXTINF:-1  tvg-logo="" tvg-name="SYFY" tvg-chno="18",SYFY
 
 #EXTINF:-1  tvg-logo="" tvg-name="HLN" tvg-chno="19",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
