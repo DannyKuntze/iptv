@@ -10,7 +10,7 @@ http://rezofoot.tv/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="BRAVO" tvg-chno="5",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="HGTV" tvg-chno="6",HGTV
-http://103.205.133.70/hgtv/index.m3u8
+https://cdn.telecloud.tv/CH3233/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="NICK" tvg-chno="7",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="TBS" tvg-chno="8",TBS
