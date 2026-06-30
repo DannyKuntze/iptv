@@ -7,7 +7,7 @@ http://41.223.30.230/ESPN/index.m3u8
 http://41.223.30.230/ESPN2/index.m3u8
 #EXTINF:-1  tvg-name="LIFE" tvg-logo="https://1000logos.net/wp-content/uploads/2025/07/Lifetime-Logo-2008.png" tvg-chno="4",Lifetime
 http://rezofoot.tv/LIFETIME/index.m3u8
-#EXTINF:-1  tvg-name="BRAVO" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/58936a0d-d9ce-4f72-b753-e1b37501200b/dhre30p-2f752534-beb2-4a29-b7fb-24369aaec102.png/v1/fill/w_934,h_695/bravo_logo_combination__2005___2024__by_autismkid88_dhre30p-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njk1IiwicGF0aCI6Ii9mLzU4OTM2YTBkLWQ5Y2UtNGY3Mi1iNzUzLWUxYjM3NTAxMjAwYi9kaHJlMzBwLTJmNzUyNTM0LWJlYjItNGEyOS1iN2ZiLTI0MzY5YWFlYzEwMi5wbmciLCJ3aWR0aCI6Ijw9OTM0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.AwLyIDnruuxBbmUGMxY6kTS5EQdyxNcLNOvc3IBsfDo" tvg-chno="5",Bravo
+#EXTINF:-1  tvg-name="BRAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="5",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1  tvg-name="HGTV" tvg-logo="https://www.pngkey.com/png/full/240-2403848_hgtv-logo-generic-green-hgtv-logo-transparent.png" tvg-chno="6",HGTV
 https://cdn.telecloud.tv/CH3233/index.m3u8
