@@ -12,7 +12,7 @@ http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1  tvg-name="HGTV" tvg-logo="https://www.pngkey.com/png/full/240-2403848_hgtv-logo-generic-green-hgtv-logo-transparent.png" tvg-chno="6",HGTV
 https://cdn.telecloud.tv/CH3233/index.m3u8
 #EXTINF:-1  tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/3840px-Nick_HD_Logo.svg.png" tvg-chno="7",Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+http://194.76.0.79/NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="TBS" tvg-logo="https://static.wikia.nocookie.net/world-of-media/images/8/83/TBS_HD.png/revision/latest/scale-to-width-down/250?cb=20140103135901" tvg-chno="8",TBS
 http://rezofoot.tv/TBS/index.m3u8
 #EXTINF:-1  tvg-name="QVC" tvg-logo="https://1000logos.net/wp-content/uploads/2018/01/QVC-logo.png" tvg-chno="9",QVC
