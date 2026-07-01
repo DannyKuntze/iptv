@@ -5,7 +5,7 @@ http://rezofoot.tv/CNBC/index.m3u8
 http://41.223.30.230/ESPN/index.m3u8
 #EXTINF:-1  tvg-name="EPSN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png" tvg-chno="3",EPSN2
 http://41.223.30.230/ESPN2/index.m3u8
-#EXTINF:-1  tvg-name="LIFE" tvg-logo="https://1000logos.net/wp-content/uploads/2025/07/Lifetime-Logo-2008.png" tvg-chno="4",Lifetime
+#EXTINF:-1  tvg-name="LIFE" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/iptv/refs/heads/master/Lifetime-Logo-2008.png" tvg-chno="4",Lifetime
 http://rezofoot.tv/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-name="BRAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="5",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
