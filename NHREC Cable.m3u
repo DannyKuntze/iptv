@@ -20,7 +20,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1  tvg-name="CW" tvg-logo="https://static.wikitide.net/avidwiki/0/0d/The_CW_2024.svg.png" tvg-chno="10",CW
 http://84.17.50.102/cw/index.m3u8
 #EXTINF:-1  tvg-name="NBC" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfmyqdl-baf28117-edb9-474c-9427-6073067b2c80.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81MmM3NDY1OS0xNTFjLTRhMWUtOWVhZi1iMjBmYjQxMDZmZjEvZGZteXFkbC1iYWYyODExNy1lZGI5LTQ3NGMtOTQyNy02MDczMDY3YjJjODAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s29mZguc73DoQmVJmZeGgoHFE20Vjrl9suxLyQEu784" tvg-chno="11",NBC
-http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaeolEJfJQHQbcLQsuLqGc7k
+http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaXDjMDd8HxibVhvFDBZhkkI
 #EXTINF:-1  tvg-name="PBS" tvg-logo="https://www.pngkey.com/png/full/898-8981446_pbs-logo-white-cargill-logo-white.png" tvg-chno="12",PBS
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1  tvg-name="CBS" tvg-logo="https://www.pngkey.com/png/full/215-2151652_cbs-hd-cbs-hd-channel-logo.png" tvg-chno="13",CBS
