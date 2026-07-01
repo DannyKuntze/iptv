@@ -26,7 +26,7 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1  tvg-name="CBS" tvg-logo="https://www.pngkey.com/png/full/215-2151652_cbs-hd-cbs-hd-channel-logo.png" tvg-chno="13",CBS
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaSikAlRGGNdYhhdRgxI2UyM
 #EXTINF:-1  tvg-name="ABC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/ABC_HD_1999US.svg/revision/latest/scale-to-width-down/220?cb=20240818132021" tvg-chno="14",ABC
-http://stream.cammonitorplus.net/1809/index.m3u8
+http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFae87jiV-h3ogiCP3jp06JBQ
 #EXTINF:-1  tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png" tvg-chno="15",FOX
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1  tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/CNN_International_HD.png" tvg-chno="16",CNN
