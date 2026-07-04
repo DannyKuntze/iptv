@@ -10,7 +10,7 @@ http://rezofoot.tv/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-name="BRAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="5",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1  tvg-name="HGTV" tvg-logo="https://www.pngkey.com/png/full/240-2403848_hgtv-logo-generic-green-hgtv-logo-transparent.png" tvg-chno="6",HGTV
-http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaWgB4VpjzZQNw1u0mUdTGyI
+http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/9006
 #EXTINF:-1  tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/3840px-Nick_HD_Logo.svg.png" tvg-chno="7",Nickelodeon
 http://194.76.0.79/NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="TBS" tvg-logo="https://static.wikia.nocookie.net/world-of-media/images/8/83/TBS_HD.png/revision/latest/scale-to-width-down/250?cb=20140103135901" tvg-chno="8",TBS
