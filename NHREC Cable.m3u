@@ -37,5 +37,5 @@ http://84.17.50.102/amc/index.m3u8
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1  tvg-name="HLN" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/hln_2023.png" tvg-chno="19",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1  tvg-name="HSN" tvg-logo="https://www.nicepng.com/png/full/336-3362033_hsn-is-an-interactive-entertainment-and-lifestyle-retailer.png" tvg-chno="20",HSN
+#EXTINF:-1  tvg-name="HSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1280px-HSN_logo.svg.png" tvg-chno="20",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
