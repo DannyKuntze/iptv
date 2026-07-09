@@ -32,7 +32,7 @@ https://restream-live.realiptv.to/1234567/7654321/89874
 #EXTINF:-1  tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/CNN_International_HD.png" tvg-chno="16",CNN
 http://206.212.244.63/43/index.m3u8
 #EXTINF:-1  tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" tvg-chno="17",AMC
-http://10k.lucastv.pro:80/2c99755ae255/gJnMAT2/328904
+http://2806-2026.gold:8089/live/1826465239420/4192874740371/85690877.ts
 #EXTINF:-1  tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" tvg-chno="18",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1  tvg-name="HLN" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/hln_2023.png" tvg-chno="19",HLN
