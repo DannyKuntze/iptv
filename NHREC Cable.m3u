@@ -1,41 +1,41 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/iptv/refs/heads/master/CNBC_logo.svg-ezgif.com-effects.png" tvg-chno="1",CNBC
+#EXTINF:-1  tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/iptv/refs/heads/master/CNBC_logo.svg-ezgif.com-effects.png" group-title="TV" tvg-chno="1",CNBC
 http://rezofoot.tv/CNBC/index.m3u8
-#EXTINF:-1  tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" tvg-chno="2",ESPN
+#EXTINF:-1  tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="TV" tvg-chno="2",ESPN
 http://41.223.30.230/ESPN/index.m3u8
-#EXTINF:-1  tvg-name="EPSN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png" tvg-chno="3",EPSN2
+#EXTINF:-1  tvg-name="EPSN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png" group-title="TV" tvg-chno="3",EPSN2
 http://bgdc.live:25461/miss.sara/8749634/38227
-#EXTINF:-1  tvg-name="LIFE" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/iptv/refs/heads/master/Lifetime-Logo-2008.png" tvg-chno="4",Lifetime
+#EXTINF:-1  tvg-name="LIFE" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/iptv/refs/heads/master/Lifetime-Logo-2008.png" group-title="TV" tvg-chno="4",Lifetime
 http://rezofoot.tv/LIFETIME/index.m3u8
-#EXTINF:-1  tvg-name="BRAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="5",Bravo
+#EXTINF:-1  tvg-name="BRAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" group-title="TV" tvg-chno="5",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:-1  tvg-name="HGTV" tvg-logo="https://www.pngkey.com/png/full/240-2403848_hgtv-logo-generic-green-hgtv-logo-transparent.png" tvg-chno="6",HGTV
+#EXTINF:-1  tvg-name="HGTV" tvg-logo="https://www.pngkey.com/png/full/240-2403848_hgtv-logo-generic-green-hgtv-logo-transparent.png" group-title="TV" tvg-chno="6",HGTV
 http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/9006
 #EXTINF:-1  tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/3840px-Nick_HD_Logo.svg.png" tvg-chno="7",Nickelodeon
 http://194.76.0.79/NICKELODEON/index.m3u8
-#EXTINF:-1  tvg-name="TBS" tvg-logo="https://static.wikia.nocookie.net/world-of-media/images/8/83/TBS_HD.png/revision/latest/scale-to-width-down/250?cb=20140103135901" tvg-chno="8",TBS
+#EXTINF:-1  tvg-name="TBS" tvg-logo="https://static.wikia.nocookie.net/world-of-media/images/8/83/TBS_HD.png/revision/latest/scale-to-width-down/250?cb=20140103135901" group-title="TV" tvg-chno="8",TBS
 http://rezofoot.tv/TBS/index.m3u8
-#EXTINF:-1  tvg-name="QVC" tvg-logo="https://1000logos.net/wp-content/uploads/2018/01/QVC-logo.png" tvg-chno="9",QVC
+#EXTINF:-1  tvg-name="QVC" tvg-logo="https://1000logos.net/wp-content/uploads/2018/01/QVC-logo.png" group-title="TV" tvg-chno="9",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1  tvg-name="CW" tvg-logo="https://static.wikitide.net/avidwiki/0/0d/The_CW_2024.svg.png" tvg-chno="10",CW
+#EXTINF:-1  tvg-name="CW" tvg-logo="https://static.wikitide.net/avidwiki/0/0d/The_CW_2024.svg.png" group-title="TV" tvg-chno="10",CW
 https://restream-live.realiptv.to/1234567/7654321/630645
-#EXTINF:-1  tvg-name="NBC" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfmyqdl-baf28117-edb9-474c-9427-6073067b2c80.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81MmM3NDY1OS0xNTFjLTRhMWUtOWVhZi1iMjBmYjQxMDZmZjEvZGZteXFkbC1iYWYyODExNy1lZGI5LTQ3NGMtOTQyNy02MDczMDY3YjJjODAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s29mZguc73DoQmVJmZeGgoHFE20Vjrl9suxLyQEu784" tvg-chno="11",NBC
+#EXTINF:-1  tvg-name="NBC" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfmyqdl-baf28117-edb9-474c-9427-6073067b2c80.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81MmM3NDY1OS0xNTFjLTRhMWUtOWVhZi1iMjBmYjQxMDZmZjEvZGZteXFkbC1iYWYyODExNy1lZGI5LTQ3NGMtOTQyNy02MDczMDY3YjJjODAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s29mZguc73DoQmVJmZeGgoHFE20Vjrl9suxLyQEu784" group-title="TV" tvg-chno="11",NBC
 https://restream-live.realiptv.to/1234567/7654321/89868
-#EXTINF:-1  tvg-name="PBS" tvg-logo="https://www.pngkey.com/png/full/898-8981446_pbs-logo-white-cargill-logo-white.png" tvg-chno="12",PBS
+#EXTINF:-1  tvg-name="PBS" tvg-logo="https://www.pngkey.com/png/full/898-8981446_pbs-logo-white-cargill-logo-white.png" group-title="TV" tvg-chno="12",PBS
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1  tvg-name="CBS" tvg-logo="https://www.pngkey.com/png/full/215-2151652_cbs-hd-cbs-hd-channel-logo.png" tvg-chno="13",CBS
+#EXTINF:-1  tvg-name="CBS" tvg-logo="https://www.pngkey.com/png/full/215-2151652_cbs-hd-cbs-hd-channel-logo.png" group-title="TV" tvg-chno="13",CBS
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaSikAlRGGNdYhhdRgxI2UyM
-#EXTINF:-1  tvg-name="ABC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/ABC_HD_1999US.svg/revision/latest/scale-to-width-down/220?cb=20240818132021" tvg-chno="14",ABC
+#EXTINF:-1  tvg-name="ABC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/ABC_HD_1999US.svg/revision/latest/scale-to-width-down/220?cb=20240818132021" group-title="TV" tvg-chno="14",ABC
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFac03MRcSTmOPFHIp9zs9sKs
-#EXTINF:-1  tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png" tvg-chno="15",FOX
+#EXTINF:-1  tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png" group-title="TV" tvg-chno="15",FOX
 https://restream-live.realiptv.to/1234567/7654321/89874
-#EXTINF:-1  tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/CNN_International_HD.png" tvg-chno="16",CNN
+#EXTINF:-1  tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/CNN_International_HD.png" group-title="TV" tvg-chno="16",CNN
 http://206.212.244.63/43/index.m3u8
-#EXTINF:-1  tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" tvg-chno="17",AMC
+#EXTINF:-1  tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV" tvg-chno="17",AMC
 https://restream-live.realiptv.to/1234567/7654321/3608
-#EXTINF:-1  tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" tvg-chno="18",SYFY
+#EXTINF:-1  tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="TV" tvg-chno="18",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1  tvg-name="HLN" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/hln_2023.png" tvg-chno="19",HLN
+#EXTINF:-1  tvg-name="HLN" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/hln_2023.png" group-title="TV" tvg-chno="19",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1  tvg-name="HSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1280px-HSN_logo.svg.png" tvg-chno="20",HSN
+#EXTINF:-1  tvg-name="HSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1280px-HSN_logo.svg.png" group-title="TV" tvg-chno="20",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
