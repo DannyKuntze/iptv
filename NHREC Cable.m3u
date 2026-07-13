@@ -1,12 +1,12 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/iptv/refs/heads/master/CNBC_logo.svg-ezgif.com-effects.png" group-title="TV" tvg-chno="1",CNBC
-http://rezofoot.tv/CNBC/index.m3u8
+http://40.160.24.52/CNBC/index.m3u8
 #EXTINF:-1  tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="TV" tvg-chno="2",ESPN
 http://41.223.30.230/ESPN/index.m3u8
 #EXTINF:-1  tvg-name="EPSN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png" group-title="TV" tvg-chno="3",EPSN2
 http://bgdc.live:25461/miss.sara/8749634/38227
 #EXTINF:-1  tvg-name="LIFE" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/iptv/refs/heads/master/Lifetime-Logo-2008.png" group-title="TV" tvg-chno="4",Lifetime
-http://rezofoot.tv/LIFETIME/index.m3u8
+	http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-name="BRAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" group-title="TV" tvg-chno="5",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1  tvg-name="HGTV" tvg-logo="https://www.pngkey.com/png/full/240-2403848_hgtv-logo-generic-green-hgtv-logo-transparent.png" group-title="TV" tvg-chno="6",HGTV
