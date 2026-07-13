@@ -34,8 +34,8 @@ http://206.212.244.63/43/index.m3u8
 #EXTINF:-1  tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV" tvg-chno="17",AMC
 https://restream-live.realiptv.to/1234567/7654321/3608
 #EXTINF:-1  tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="TV" tvg-chno="18",SYFY
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
+http://40.160.24.55/SYFY/index.m3u8
 #EXTINF:-1  tvg-name="HLN" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/hln_2023.png" group-title="TV" tvg-chno="19",HLN
-http://23.237.104.106:8080/USA_HLN/index.m3u8
+http://206.212.244.63/92/index.m3u8
 #EXTINF:-1  tvg-name="HSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1280px-HSN_logo.svg.png" group-title="TV" tvg-chno="20",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
