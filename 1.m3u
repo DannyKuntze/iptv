@@ -92,7 +92,7 @@ http://origin.thetvapp.to/hls/CSPAN/mono.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Fox_%28Blue%29.svg/revision/latest/scale-to-width-down/1200?cb=20170924151816" tvg-chno="",FOX
-https://restream-live.realiptv.to/1234567/7654321/89874
+http://206.212.244.63/64/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",USA Network
