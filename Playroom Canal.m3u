@@ -14,11 +14,11 @@ https://tvpass.org/live/sportsnet-pittsburgh/hd
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="7",Sportsnet West
 https://stream.decentdoubts.net/705/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="CNN.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/250?cb=20250315005934" tvg-chno="8",CNN
-http://104.255.88.155/cnn/playlist.m3u8
+http://4.30.180.36:8420/cnn/index.m3u8?token=test
 #EXTINF:-1  tvg-name="ESPN" tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/defoe6r-116186ef-57c8-43ab-b9e7-c17484d227dc.png/v1/fill/w_1280,h_318/espn_logo__png__by_amazingtoludada3000_defoe6r-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzE4IiwicGF0aCI6Ii9mL2VjZDUxMjYzLWJiMGYtNDQ2NS1hZjg2LWY3ZWQyNWU1OGU3MC9kZWZvZTZyLTExNjE4NmVmLTU3YzgtNDNhYi1iOWU3LWMxNzQ4NGQyMjdkYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.rJlmNNo4MVtvapNVG5Eha80OV0xVtJxcJU7X63dABlg" tvg-chno="9",ESPN
-http://89.105.221.127/ESPN1/index.m3u8?token=test
+http://4.30.180.36:8420/espn/index.m3u8?token=test
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spectrum_Sportsnet_logo.png" tvg-chno="10",Spectrum Sportsnet Lakers
-http://cord-cutter.net:8080/DepZh0/111853/20946
+http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaVJxrL12FzmOdlTuS94todA
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spectrum_Sportsnet_logo.png" tvg-chno="11",Spectrum SportsNet Los Angeles
 http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlHc2t17BsDFsi4ZByFc5d2FS8FcTtIzgb6VOv8DbpMbK
 #EXTINF:-1  tvg-name="QVC" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/1200px-QVC_logo_2019.svg.png" tvg-chno="12",QVC
@@ -46,7 +46,7 @@ http://41.205.93.154/FOX-NEWS/index.m3u8
 #EXTINF:-1  tvg-name="Comedy Central" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" tvg-chno="23",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1  tvg-name="Freeform" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" tvg-chno="24",Freeform
-http://212.102.60.231/FREEFORM/index.m3u8
+http://4.30.180.36:8420/freeform/index.m3u8?token=test
 #EXTINF:-1  tvg-name="AMC" tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-chno="25",AMC
 http://84.17.50.102/amc/index.m3u8
 #EXTINF:-1  tvg-name="MTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1024px-MTV_2021_%28brand_version%29.svg.png" tvg-chno="26",MTV
@@ -57,79 +57,79 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 http://104.255.88.155/msnbc/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1200px-C-SPAN_Logo_%282019%29.svg.png" tvg-chno="29",C-SPAN
 http://41.205.93.154/CSPAN1/mpegts
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="30",	Sportsnet New York
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="30",Sportsnet New York
 http://bgdc.live:25461/live/randallo2023/6064013450/15080.ts
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="31",Fanduel Sports Network Detroit
-https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="32",Fanduel Sports Network Florida
-https://tvpass.org/live/fanduel-sports-network-florida/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="33",Fanduel Sports Network Great Lakes
-https://tvpass.org/live/fanduel-sports-network-great-lakes/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="34",Fanduel Sports Network North
-https://tvpass.org/live/fanduel-sports-network-north/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="35",Fanduel Sports Network Ohio Cleveland
-https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="36",Fanduel Sports Network Oklahoma
-https://tvpass.org/live/fanduel-sports-network-oklahoma/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="37",Fanduel Sports Network San Diego
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="31",AT&T SportsNet Pittsburghts Network Detroit
+http://bgdc.live:25461/live/randallo2023/6064013450/8825.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="32",TSN 1
+http://xtreamview.net/play/hIITqAHd1FWPISPy4aCFaRFL_gAcavlFOYQf3vdf8U4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="33",TSN 2
+http://xtreamview.net/play/hIITqAHd1FWPISPy4aCFaV2jtwx2W9CXKIBdTvBMaLE
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="34",TSN 3
+http://xtreamview.net/play/hIITqAHd1FWPISPy4aCFaZPrIymiho6glR6VeY1FMgE
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="35",TSN 4
+http://xtreamview.net/play/hIITqAHd1FWPISPy4aCFafgAXmWFmsIn2537KZLQC8w
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="36",TSN 5
+http://xtreamview.net/play/hIITqAHd1FWPISPy4aCFaX6QOzxr3sBRodVObuukJQY
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="37",Fanduel Sports Network San Diego
 https://tvpass.org/live/fanduel-sports-network-san-diego/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="38",Fanduel Sports Network Socal
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="38",Fanduel Sports Network Socal
 https://tvpass.org/live/fanduel-sports-network-socal/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="39",Fanduel Sports Network South Carolinas
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="39",Fanduel Sports Network South Carolinas
 https://tvpass.org/live/fanduel-sports-network-south-carolinas/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="40",Fanduel Sports Network South Tennessee
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="40",Fanduel Sports Network South Tennessee
 https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="41",Fanduel Sports Network West
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="41",Fanduel Sports Network West
 https://tvpass.org/live/fanduel-sports-network-west/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="42",Fanduel Sports Network Wisconsin
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="42",Fanduel Sports Network Wisconsin
 https://tvpass.org/live/fanduel-sports-network-wisconsin/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="43",Fanduel Sports Southeast Georgia
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="43",Fanduel Sports Southeast Georgia
 https://tvpass.org/live/fanduel-sports-southeast-georgia/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="44",Fanduel Sports Southeast North Carolina
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="44",Fanduel Sports Southeast North Carolina
 https://tvpass.org/live/fanduel-sports-southeast-north-carolina/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="45",Fanduel Sports Southeast South Carolina
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="45",Fanduel Sports Southeast South Carolina
 https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="46",Fanduel Sports Southeast Tennessee Nashville
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="46",Fanduel Sports Southeast Tennessee Nashville
 https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="47",Fanduel Sports Sun
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="47",Fanduel Sports Sun
 https://tvpass.org/live/fanduel-sports-sun/hd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/2560px-FanDuel_Sports_Network_logo.svg.png" tvg-chno="48",Fanduel Sports Tennessee East
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="48",Fanduel Sports Tennessee East
 https://tvpass.org/live/fanduel-sports-tennessee-east/hd
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2021/12/bet-logo-freelogovectors.net_.png" tvg-chno="49",BET
 http://89.105.221.127/BET/index.m3u8?token=test
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest/scale-to-width-down/250?cb=20210104112713" tvg-chno="50",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1  tvg-name="USA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="51",USA Network
-http://104.255.88.155/usa/playlist.m3u8
-#EXTINF:-1  tvg-name="E!" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" tvg-chno="52",E!
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="51",USA Network
+http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaQlSBAqxE_JmszQOpaPdTio
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" tvg-chno="52",E!
 https://fl61.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/A%26E_logo_2008.svg/revision/latest/scale-to-width-down/250?cb=20250722175801" tvg-chno="53",A&E
-http://41.205.93.154/AandE/index.m3u8
+http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" tvg-chno="54",TBS
 http://212.102.60.231/TBS/index.m3u8
-#EXTINF:-1  tvg-name="Cartoon Network" tvg-id="CartoonNetwork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Cartoon_Network_2010_2.svg/revision/latest/scale-to-width-down/800?cb=20220629135653" tvg-chno="55",Cartoon Network
+#EXTINF:-1  tvg-name="" tvg-id="CartoonNetwork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Cartoon_Network_2010_2.svg/revision/latest/scale-to-width-down/800?cb=20220629135653" tvg-chno="55",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1  tvg-name="PBS" tvg-id="PBS.us@East" tvg-logo="https://d1.awsstatic.com/PBS_wblue_rgb.aa322b35f29335e2733039fe71c0facdadc7d08f.png" tvg-chno="56",PBS
+#EXTINF:-1  tvg-name="" tvg-id="PBS.us@East" tvg-logo="https://d1.awsstatic.com/PBS_wblue_rgb.aa322b35f29335e2733039fe71c0facdadc7d08f.png" tvg-chno="56",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1  tvg-name="Disney Channel" tvg-id="DisneyChannel.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="57",Disney Channel
+#EXTINF:-1  tvg-name="" tvg-id="DisneyChannel.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="57",Disney Channel
 http://93.157.106.128:8080/F13836/35b68aca/2303
-#EXTINF:-1  tvg-name="Nickelodeon" tvg-id="Nickelodeon.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Nickelodeon%202023.png" tvg-chno="58",Nickelodeon
+#EXTINF:-1  tvg-name="" tvg-id="Nickelodeon.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Nickelodeon%202023.png" tvg-chno="58",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1  tvg-name="HGTV" tvg-id="HGTV.us" tvg-logo="https://logonoid.com/images/hgtv-logo.png" tvg-chno="59",HGTV
+#EXTINF:-1  tvg-name="" tvg-id="HGTV.us" tvg-logo="https://logonoid.com/images/hgtv-logo.png" tvg-chno="59",HGTV
 http://206.212.244.183:25461/live/qdxkt3R5pH/5118349267/15972.m3u8
-#EXTINF:-1  tvg-name="AXS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Axs_logo.svg/1280px-Axs_logo.svg.png" tvg-chno="60",AXS TV HD
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Axs_logo.svg/1280px-Axs_logo.svg.png" tvg-chno="60",AXS TV HD
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HLN_2023.svg/revision/latest/scale-to-width-down/250?cb=20230629003509" tvg-chno="61",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1  tvg-name="HLLMRK" tvg-id="" tvg-logo="https://www.pngkey.com/png/full/223-2230265_advertise-on-h-mark-channel-comcast-spotlight-advertising.png" tvg-chno="62",Hallmark Channel
-http://41.223.30.230/HALLMARK/index.m3u8
-#EXTINF:-1  tvg-name="GOLF" tvg-id="" tvg-logo="https://www.pngkey.com/png/full/142-1427918_golf-channel-logo-png.png" tvg-chno="63",Golf Channel
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.pngkey.com/png/full/223-2230265_advertise-on-h-mark-channel-comcast-spotlight-advertising.png" tvg-chno="62",Hallmark Channel
+http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaTWPn8_vR5eDCA6Ccbgu59c
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.pngkey.com/png/full/142-1427918_golf-channel-logo-png.png" tvg-chno="63",Golf Channel
 http://epicboss.live:80/bjune@teksavvy.com/5193594414/82
-#EXTINF:-1  tvg-name="NATGEO" tvg-id="" tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" tvg-chno="64",National Geographic
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" tvg-chno="64",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1  tvg-name="TVLAND" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV_Land_2015.svg/revision/latest/scale-to-width-down/800?cb=20150702234449" tvg-chno="65",TV Land
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV_Land_2015.svg/revision/latest/scale-to-width-down/800?cb=20150702234449" tvg-chno="65",TV Land
 http://epicboss.live:80/bjune@teksavvy.com/5193594414/45
-#EXTINF:-1  tvg-name="SCIENCE" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Science.svg/revision/latest/scale-to-width-down/250?cb=20180310180237" tvg-chno="66",Science Channel
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Science.svg/revision/latest/scale-to-width-down/250?cb=20180310180237" tvg-chno="66",Science Channel
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/TNT_2016_%28Dark_Blue%29.svg/revision/latest/scale-to-width-down/250?cb=20170609120956" tvg-chno="67",TNT
 http://104.255.88.155/tnt/playlist.m3u8
@@ -137,7 +137,7 @@ http://104.255.88.155/tnt/playlist.m3u8
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/HSN_2018.svg/revision/latest/scale-to-width-down/200?cb=20221114164739" tvg-chno="69",HSN
 http://fl7.moveonjoy.com/HSN/index.m3u8
-#EXTINF:-1  tvg-name="TWC" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/The_Weather_Channel_%282005%29.svg/revision/latest/scale-to-width-down/200?cb=20171128103430" tvg-chno="70",The Weather Channel
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/The_Weather_Channel_%282005%29.svg/revision/latest/scale-to-width-down/200?cb=20171128103430" tvg-chno="70",The Weather Channel
 http://104.255.88.155/twc/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/ezgif-11d10459a2f60b.png" tvg-chno="71",truTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
@@ -281,6 +281,10 @@ http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/245/manifest.m3u8
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="143",AWE
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="144",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="145",
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="146",EMAN
 https://stream1.freetv.fun/419d57b73319b50789a7c483772ce07599cca89804ea8ecdf7c09b04fa2dd28c.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="147",Fail Army
@@ -457,8 +461,30 @@ https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
 http://103.180.212.191:3500/live/3385.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="600",Redbox Adults 1
 http://protzpwcf1.top:8080/pro5231767121989/a2992109dbc7/800
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="644",
-http://119.152.240.15:8000/play/a0i1/index.m3u8
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="657",Payam Javan TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="658",Enlace
@@ -489,30 +515,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 http://e3e1880d.rossteleccom.net/iptv/9A4A5D6WCXS4XF/6288/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/85fa57bc-c8c5-465c-84a1-4ee10cd17670/dklulxf-31f66a5a-b14b-4b58-89f5-a638b6115319.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84NWZhNTdiYy1jOGM1LTQ2NWMtODRhMS00ZWUxMGNkMTc2NzAvZGtsdWx4Zi0zMWY2NmE1YS1iMTRiLTRiNTgtODlmNS1hNjM4YjYxMTUzMTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7_0d0R1bcilLjT0MJMLOdw4vbFowoCH0A5ZCuqUlhIY" tvg-chno="822",Tiny Pop MCQQ HDTV MK
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="855",WOS
 https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="856",4 Fun Kids TV
@@ -551,14 +553,8 @@ https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8
 https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="933",WFMZ Tower Cam
 https://cdn.jaybirdtv.com/wfmz/channel/8/master.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="940",AccessVision Channel 17
 https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="946",RTV 4
 https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="947",NBC News Now
@@ -569,52 +565,10 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="957",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="958",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="959",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="960",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="961",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="962",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="963",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="964",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="965",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="966",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="996",Wild Earth
 https://stream1.freetv.fun/96b1246e3e15b7b56ba1fc8effa85cdadbfdbf89b40209a7b6f3e2061e1770dc.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="997",Vinilos TV
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="998",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="999",WCGTV
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://partner.complex.com/complex-originals-show-casting-call/assets/images/complex-logo-white.png" tvg-chno="1000",Complex
