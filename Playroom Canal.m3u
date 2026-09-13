@@ -463,10 +463,10 @@ https://c.mjh.nz/abc-nsw.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="459",
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="460",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="461",
-
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="460",Derry TV 17
+https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="461",Derry TV 23
+https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="462",
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="463",
@@ -479,6 +479,26 @@ https://stream1.freetv.fun/42bef8c8febebce296bfb656842cd84b9a976f9e985eb99f374d4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269&checkedby:iptvcat.com
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="467",Kix
 https://stream1.freetv.fun/kix--a-1.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="468",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="469",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="470",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="471",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="472",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="473",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="490",Home+
 https://t.freetv.fun/live/home-plus.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="491",Baby TV
@@ -697,15 +717,15 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="995",KSCE Vida Cristiana
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="996",Wild Earth
 https://stream1.freetv.fun/96b1246e3e15b7b56ba1fc8effa85cdadbfdbf89b40209a7b6f3e2061e1770dc.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="997",Vinilos TV
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="997",Controversia TV
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="998",Adventure Earth
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="999",WCGTV
-https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="999",Xplore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://partner.complex.com/complex-originals-show-casting-call/assets/images/complex-logo-white.png" tvg-chno="1000",Complex
 https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
