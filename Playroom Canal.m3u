@@ -6,7 +6,7 @@ https://stream.decentdoubts.net/803/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="3",Sportsnet One
 https://tvpass.org/live/sportsnet-one/hd
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="4",Sportsnet Ontario
-https://tvpass.org/live/sportsnet-ontario/hd
+http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/8977
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://cdn.prod.website-files.com/684c5c4ce5ffc6cd0c751a97/684c5c4ce5ffc6cd0c752019_SN_SECONDARY_PMS.png" tvg-chno="5",Sportsnet Pacific
 https://tvpass.org/live/sportsnet-pacific/hd
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/SportsNet_Pittsburgh_2023_stacked.png" tvg-chno="6",Sportsnet Pittsburgh
@@ -293,8 +293,8 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="149",Avang TV
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="150",Estrella TV
+http://201.207.54.159:8000/play/a0dw/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
@@ -359,8 +359,8 @@ http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 https://live.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="339",Hustler TV
 http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/1064/manifest.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="340",CityTV
-http://138.121.15.230:9002/CITY-TV/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="340",Televisa Telenovelas
+http://186.148.196.82:8001/play/a0a3
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/EhISpCd.png" tvg-chno="341",PTL Television Network
 https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="342",Midpen Media Center Youth Education and Sports Channel 28
@@ -373,24 +373,24 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_cha
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="346",Mobile County Public Schools TV Network
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="347",Россия 1
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104816.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="348",РУССКАЯ ЭРОТИКА 1
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104828.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="349",РУССКАЯ ЭРОТИКА 2
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104827.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="350",РУССКАЯ ЭРОТИКА 3
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104826.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="351",РУССКАЯ ЭРОТИКА 4
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104825.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="352",РУССКАЯ ЭРОТИКА 5
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104824.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="353",РУССКАЯ ЭРОТИКА 6
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104823.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="354",РУССКАЯ ЭРОТИКА 7
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104822.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="355",РУССКАЯ ЭРОТИКА 8
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104821.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="347",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="348",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="349",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="350",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="351",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="352",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="353",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="354",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="355",
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="356",C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="385",NBS Korea Agricultural Broadcasting
@@ -409,8 +409,8 @@ https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/OA9hm6e.png" tvg-chno="401",Channel 12
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="402",
-
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="402",TeleHit
+http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="403",
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="404",
@@ -509,13 +509,13 @@ http://190.181.18.82:4111/play/a006/index.m3u8
 http://31.148.48.15:80/A1/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="505",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" tvg-chno="506",
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="506",Viju TV 1000 Action
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="507",Viji History
+http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="508",
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" tvg-chno="507",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" tvg-chno="508",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/crave4.png" tvg-chno="509",TV Universidad
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="509",TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://sat7.faulio.com/storage/mediagallery/92/39/small_3c8be0f1ed6145000984de3e57167c94a398183e.png" tvg-chno="510",Sat7Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
@@ -591,8 +591,36 @@ http://103.180.212.191:3500/live/3385.m3u8
 http://protzpwcf1.top:8080/pro5231767121989/a2992109dbc7/800
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="601",TV1One
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="611",TNT4
+http://stream.mcquack.net/106/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="621",Zoo Moo
 http://45.186.106.207:8000/play/a06h/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="644",BMG
 http://194.135.119.83:8080/bmg/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="657",Payam Javan TV
@@ -621,6 +649,14 @@ http://202.150.161.212:5000/live/channel29/playlist.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="698",Telefe
+http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="699",Caracol
+http://200.115.120.1:8000/play/ca067/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="700",ZFM Zoetermeer
 https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="701",Pornbox
@@ -635,9 +671,19 @@ http://206.212.244.47:8080/live/DRIPTV0021/TDi6gVVnTs/160048.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="706",
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="707",
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="708",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="709",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="710",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="711",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="712",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="713",
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="714",4teen Kids
 http://ch14.tv/live/ch4teenkids/playlist.m3u8
@@ -689,17 +735,33 @@ http://38.7.195.44:8000/play/a01k
 https://mtoczko.github.io/hls-test-streams/test-program-time/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="901",Cloudfare TV
 https://cloudflare.tv/hls/live.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tvo.com.do/imgs/logo.png" tvg-chno="906",TVO
-https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="907",Tele Barn HD
-https://stream1.freetv.fun/f1dbf8c662a9f57cc17d74ce45495a8a0dc085432f683b548afceb4f1608b81c.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="912",Bandamax
-http://200.35.176.154:8000/play/a04y/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tvo.com.do/imgs/logo.png" tvg-chno="906",Ontario Public Access Channel
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="907",R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="912",AzStarTV
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="917",+
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="918",City
 https://tv.city.bg/play/tshls/citytv/2.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="919",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="920",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="921",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="922",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="923",AZ TV
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="924",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="925",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="926",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="927",
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="928",Tele Proyecto TV
 https://stream1.freetv.fun/bbb4a4d8580525e976faf23c5bcb1b98e3187b99f519a7fbfdfb5cf41c8a4977.m3u8
@@ -715,12 +777,36 @@ https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
 https://cdn.jaybirdtv.com/wfmz/channel/8/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="940",AccessVision Channel 17
 https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="941",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="942",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="943",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="944",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="945",
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="946",RTV 4
 https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="947",NBC News Now
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZgXd5odu5ZGLiUtp9NIkaYfMeVUOIGZgO-LLzre7Sb7wTt5PLVVtOUsXD&s=10" tvg-chno="948",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="949",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="950",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="951",RTV
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="952",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="953",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="954",
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="955",
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="956",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="957",Classic Arts Showcase
