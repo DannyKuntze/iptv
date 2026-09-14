@@ -69,14 +69,6 @@ http://epicboss.live:80/bjune@teksavvy.com/5193594414/82
 http://8.243.126.131:8000/play/a0jo/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest?cb=20210609161318" tvg-chno="",ESPN2
 http://41.223.30.230/ESPN2/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_2020_%28Blue%29.svg" tvg-chno="",CBS
-http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlKZGh15rFeIn7bDy_MGA1WC0uFdx68SppwslIysFXM8g
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",The Weather Channel
-http://206.212.244.187:25461/live/qdxkt3R5pH/5118349267/22464.m3u8?token=TUEMUBFQFVsUAAAFBAZTAAtRXFpdUVwDBwJUV1NaA1QBBlAIUg0AUFAWFRdHQxcHWQk6UV0SAwNQB1UCGhpGEFMRO1gGGg1DBAEBAAYGR04aEAxVXBIDAU4RE19SGglBBFpVAlMaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNRAQRZFBgbVltCCxZKHUcCG2VqE04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtACQVRAgcbSA==
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",MeTV
-http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1096/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",TV Land
-http://epicboss.live:80/bjune@teksavvy.com/5193594414/45
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/TeenNick_2019.svg/revision/latest?cb=20240105193233" tvg-chno="40",TeenNick
 http://93.157.106.128:8080/F13836/35b68aca/15058
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.cdnlogo.com/logos/p/84/pbs-kids.svg" tvg-chno="41",PBS Kids
@@ -89,8 +81,6 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",C-SPAN
 http://origin.thetvapp.to/hls/CSPAN/mono.m3u8
-#EXTINF:-1  tvg-name="Nickelodeon" tvg-id="nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" tvg-chno="",Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Fox_%28Blue%29.svg/revision/latest/scale-to-width-down/1200?cb=20170924151816" tvg-chno="",FOX
 http://206.212.244.63/64/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",VH1
@@ -111,19 +101,11 @@ http://rezofoot.tv/TBS/index.m3u8
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/960px-Bravo_TV.svg.png" tvg-chno="",Bravo
-http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/1200?cb=20240206232316" tvg-chno="",Disney Junior
-http://84.17.50.102/disneyjunior/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/8e/Disney_XD_-_2015.svg.png/revision/latest?cb=20220126131752" tvg-chno="",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/1200px-QVC_logo_2019.svg.png" tvg-chno="",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Owntv_400x400.png/revision/latest?cb=20171203221918" tvg-chno="",OWN
-http://84.17.50.102/own/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" tvg-chno="",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" tvg-chno="",My Network TV
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",TNT
 http://rezofoot.tv/TNT-HD/index.m3u8
