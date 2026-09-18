@@ -34,7 +34,7 @@ http://4.30.180.36:8420/cnbc/index.m3u8?token=test
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/FX_%28light_cyan%29.svg/revision/latest/scale-to-width-down/250?cb=20241220175648" tvg-chno="17",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="18",Discovery Channel
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" tvg-chno="19",Travel Channel
 http://84.17.50.102/travel/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png" tvg-chno="20",NFL Network
@@ -42,15 +42,15 @@ http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/732px-History_Logo_%28White%29.svg.png" tvg-chno="21",History Channel
 http://84.17.50.102/history/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" tvg-chno="22",Fox News Channel
-http://41.205.93.154/FOX-NEWS/index.m3u8
+http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" tvg-chno="23",Comedy Central
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" tvg-chno="24",Freeform
 http://4.30.180.36:8420/freeform/index.m3u8?token=test
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-chno="25",AMC
 http://84.17.50.102/amc/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1024px-MTV_2021_%28brand_version%29.svg.png" tvg-chno="26",MTV
-http://23.237.104.106:8080/USA_MTV/index.m3u8
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/NicePng_bindi-designs-png_8310067.png" tvg-chno="27",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/512px-MS_NOW_logo.svg.png" tvg-chno="28",MS NOW
@@ -96,7 +96,7 @@ http://video.oct.dc.gov/out/u/15_12.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="48",Hudson School District
 https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2021/12/bet-logo-freelogovectors.net_.png" tvg-chno="49",BET
-http://89.105.221.127/BET/index.m3u8?token=test
+http://bgdc.live:25461/live/randallo2023/6064013450/10365.ts
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest/scale-to-width-down/250?cb=20210104112713" tvg-chno="50",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1024px-USA_Network_logo_%282016%29.svg.png" tvg-chno="51",USA Network
@@ -108,7 +108,7 @@ http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" tvg-chno="54",TBS
 http://4.30.180.36:8420/tbs/index.m3u8?token=test
 #EXTINF:-1  tvg-name="" tvg-id="CartoonNetwork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Cartoon_Network_2010_2.svg/revision/latest/scale-to-width-down/800?cb=20220629135653" tvg-chno="55",Cartoon Network
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+
 #EXTINF:-1  tvg-name="" tvg-id="PBS.us@East" tvg-logo="https://d1.awsstatic.com/PBS_wblue_rgb.aa322b35f29335e2733039fe71c0facdadc7d08f.png" tvg-chno="56",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="DisneyChannel.us" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Disney%20Channel%202025.png" tvg-chno="57",Disney Channel
@@ -259,8 +259,6 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/laziotv/laziotv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="130",iHeartRadio 90s
 https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="131",Logos TV
-https://stream1.freetv.fun/490e80874c40b4b62d068a154107e69473d2eebbb4ede657b26e91d96b1a36b8.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="132",Mekameleen
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="133",Meru TV
@@ -275,12 +273,10 @@ https://stream1.freetv.fun/c44e300d22193fb7236cf3c07932550181a74998e09a0a267fcc5
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="138",Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="139",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="140",The CatholicTV Network
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_2.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="141",
-
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="141",TyC Sports
+http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="142",Negocios
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="143",AWE
@@ -295,32 +291,6 @@ https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="150",Estrella TV
 http://201.207.54.159:8000/play/a0dw/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/jmkLR6L.png" tvg-chno="189",Traverse Area Community Media CommunityTV Channel 189
 https://reflect-tacm.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="190",Hub Premier 1
@@ -347,8 +317,8 @@ https://video.uitzending.tv:19360/zo34/zo34.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="296",Vivid Red
 http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/2162/manifest.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TV_Tokyo_logo_2023_en.svg/2560px-TV_Tokyo_logo_2023_en.svg.png" tvg-chno="317",TV Tokyo
-https://mt01.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TV_Tokyo_logo_2023_en.svg/2560px-TV_Tokyo_logo_2023_en.svg.png" tvg-chno="317",Tooncast
+http://201.182.249.201:8000/play/a0pq/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="318",7 Storia
 https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="326",Los Angeles Local Television Channel 36
@@ -375,44 +345,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_cha
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="346",Mobile County Public Schools TV Network
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="347",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="348",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="349",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="350",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="351",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="352",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="353",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="354",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="355",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="356",C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="357",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="358",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="359",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="360",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="361",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="384",Star
 http://181.78.49.179:8000/play/a01x
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="385",NBS Korea Agricultural Broadcasting
@@ -435,12 +369,6 @@ rtmp://stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp
 http://181.78.8.199:8000/play/a08s/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="394",TV Chornomorsk
 rtmp://tvchernomorsk.cdnvideo.ru/tvchernomorsk/tvchernomorsk.sdp
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="395",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="396",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="397",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="398",TVA
 rtmp://tva.cdnvideo.ru/tva/tva.sdp
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="399",Buena Park Television
@@ -451,30 +379,8 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="402",TeleHit
 http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="403",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="404",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="405",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="433",SuperTV
 https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Oxygen%20Music.png" tvg-chno="446",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/El_Pais_logo_2007.svg/2560px-El_Pais_logo_2007.svg.png" tvg-chno="447",El País
@@ -487,58 +393,12 @@ https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="451",AIST TV
 rtmp://aisttv.cdnvideo.ru/aisttv2/aisttv.sdp
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="452",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="453",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="454",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="455",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="456",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="457",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="458",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="459",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="460",Derry TV 17
 https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="461",Derry TV 23
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="462",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="463",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="464",
-
-#EXTINF:-1  tvg-name="ARTE" tvg-id="" tvg-logo="" tvg-chno="465",
-
 #EXTINF:-1  tvg-name="SMGHTS" tvg-id="" tvg-logo="https://www.bizak.es/wp-content/uploads/2022/06/LOGO-SMIGHTIES.png" tvg-chno="466",Smighties
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269&checkedby:iptvcat.com
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="467",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="468",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="469",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="470",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="471",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="472",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="473",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="490",Home+
 https://t.freetv.fun/live/home-plus.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="491",Baby TV
@@ -553,8 +413,6 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="507",Viji History
 http://stream.mcquack.net/101/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="508",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="509",TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://sat7.faulio.com/storage/mediagallery/92/39/small_3c8be0f1ed6145000984de3e57167c94a398183e.png" tvg-chno="510",Sat7Kids
@@ -595,12 +453,8 @@ https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="533",
+	https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="534",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/blAtdkJ.png" tvg-chno="535",Arkhyz 24
@@ -633,36 +487,10 @@ http://103.180.212.191:3500/live/3385.m3u8
 http://protzpwcf1.top:8080/pro5231767121989/a2992109dbc7/800
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="601",TV1One
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="611",TNT4
 http://stream.mcquack.net/106/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="621",Zoo Moo
 http://45.186.106.207:8000/play/a06h/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="644",BMG
 http://194.135.119.83:8080/bmg/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="657",Payam Javan TV
@@ -671,30 +499,8 @@ https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="659",WPS TV
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="686",WB TV
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="698",Telefe
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="699",Caracol
@@ -703,30 +509,6 @@ http://200.115.120.1:8000/play/ca067/index.m3u8
 https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="701",Pornbox
 http://206.212.244.47:8080/live/DRIPTV0021/TDi6gVVnTs/160048.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="702",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="703",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="704",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="705",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="706",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="707",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="708",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="709",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="710",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="711",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="712",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="713",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="714",4teen Kids
 http://ch14.tv/live/ch4teenkids/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="746",World Fashion Channel
@@ -763,12 +545,8 @@ https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/radiokisskissitalia.png" tvg-chno="884",Kiss Kiss Italia
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="885",DayDay
-https://stream1.freetv.fun/fa5e277382f51c3783d015ba0e9eca3defd735486bf05293b18cac6cc2f6d353.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="886",Venevision
-https://stream1.freetv.fun/af8e92d8c942e2db2169723a06980578a77ec1d4bc1f9d46e506da263558accb.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="889",VTV1
-https://stream1.freetv.fun/bfdf873bf013faad453775a7093343b171bbabec7a94735f1c8b6e2f906d4396.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="889",KiKa
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="890",Home Network
 http://161.129.178.5/hgtv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="899",Pasiones
@@ -787,26 +565,8 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="918",City
 https://tv.city.bg/play/tshls/citytv/2.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="919",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="920",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="921",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="922",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="923",AZ TV
 https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="924",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="925",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="926",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="927",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="928",Tele Proyecto TV
-https://stream1.freetv.fun/bbb4a4d8580525e976faf23c5bcb1b98e3187b99f519a7fbfdfb5cf41c8a4977.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="929",X4
 http://206.212.244.47:8080/live/DRIPTV0021/TDi6gVVnTs/215689.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="930",WFMZ Dorney Park Camera
@@ -817,128 +577,20 @@ https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8
 https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="933",WFMZ Tower Cam
 https://cdn.jaybirdtv.com/wfmz/channel/8/master.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="934",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="935",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="936",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="937",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="938",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="939",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="940",AccessVision Channel 17
 https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="941",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="942",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="943",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="944",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="945",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="946",RTV 4
 https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="947",NBC News Now
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZgXd5odu5ZGLiUtp9NIkaYfMeVUOIGZgO-LLzre7Sb7wTt5PLVVtOUsXD&s=10" tvg-chno="948",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="949",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="950",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="951",RTV
 http://iptv.rtv-ooe.at/stream.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="952",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="953",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="954",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="955",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="956",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="957",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="958",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="959",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="960",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="961",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="962",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="963",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="964",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="965",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="966",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="967",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="968",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="969",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="970",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="971",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="972",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="973",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="974",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="975",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="976",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="977",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="978",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="979",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="980",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="981",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="982",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="983",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="984",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="985",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="986",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="987",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="988",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="989",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="990",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="991",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="992",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="993",
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="994",
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="995",KSCE Vida Cristiana
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/Z1QVkqu.png" tvg-chno="996",Extrema TV
