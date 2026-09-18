@@ -27,8 +27,6 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 http://168.228.44.241:9999/play/a04x/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="29",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-chno="",Comedy Central
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.cdnlogo.com/logos/p/84/pbs-kids.svg" tvg-chno="",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="",Food Network
