@@ -26,7 +26,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" tvg-chno="13",Lifetime
 http://origin.thetvapp.to/hls/LifetimeEast/mono.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-chno="14",Food Network
-http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+http://212.5.144.156:8080/foodnetwork/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" tvg-chno="15",Bravo
 http://104.255.88.155/bravo/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-chno="16",CNBC
